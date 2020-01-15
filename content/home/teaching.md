@@ -63,6 +63,6 @@ subtitle = "2020"
  css_class = ""
 +++
 
-92586 - Computational Linguistics - 6 cfu
+92586 - [Computational Linguistics]({{< ref "teaching/computational-linguistics/_index.md">}}) - 6 cfu
 
-84929 - Game and Software Localization (Modulo 2)
+84929 - [Game and Software Localization (Modulo 2)]({{< ref "teaching/game-and-software-localization/_index.md">}})
