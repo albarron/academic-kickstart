@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Alberto Barron
+name: Alberto Barrón-Cedeño
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ role: Senior assistant professor
 
 # Organizations/Affiliations
 organizations:
-- name: Universita di Bologna
+- name: Università di Bologna
   url: "www.unibo.it"
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Alberto Barron is...
+Alberto Barrón-Cedeño is...
