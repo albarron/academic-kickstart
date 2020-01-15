@@ -26,9 +26,9 @@ Whereas the contents could be (slightly) adapted according to the students skill
 **Materials will be posted here at production time**
 
 #### 1. Introduction to Python scripting
-- Materials
-- Readings
-- Notebook(s)
+* Materials
+* Readings
+* Notebook(s)
 
 #### 2. Word tokenization and part of speech
 #### 3. Vectorization and semantic analysis
@@ -39,15 +39,15 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 ### Core
 
-- Hobson Lane, Cole Howard, Hannes Hapke (2019). Natural Language Processing in Action Understanding, analyzing, and generating text with Python. Manning Publications.
-- Steven Bird, Ewan Klein, and Edward Loper. [Natural Language Processing with Python](http://www.nltk.org/book/)
+* Hobson Lane, Cole Howard, Hannes Hapke (2019). Natural Language Processing in Action Understanding, analyzing, and generating text with Python. Manning Publications.
+* Steven Bird, Ewan Klein, and Edward Loper. [Natural Language Processing with Python](http://www.nltk.org/book/)
 
 ### Optional
 
-- Dan Jurafsky and James H. Martin. Speech and Language Processing (3rd ed. draft) Draft chapters in progress, October 16, 2019
-- Yoav Goldberg. (2017). Neural Network Methods for Natural Language Processing (G. Hirst, ed.). Morgan & Claypool Publishers.
-- Emily M. Bender (2013). Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax Synthesis Lectures on Human Language Technologies. Morgan & Claypool Publishers.
-- Kenneth Ward Church. Unix for poets.
+* Dan Jurafsky and James H. Martin. Speech and Language Processing (3rd ed. draft) Draft chapters in progress, October 16, 2019
+* Yoav Goldberg. (2017). Neural Network Methods for Natural Language Processing (G. Hirst, ed.). Morgan & Claypool Publishers.
+* Emily M. Bender (2013). Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax Synthesis Lectures on Human Language Technologies. Morgan & Claypool Publishers.
+* Kenneth Ward Church. Unix for poets.
 
 ## Teaching methods
 

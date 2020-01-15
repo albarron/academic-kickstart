@@ -29,14 +29,12 @@ The student will learn the requirements for software release in international se
 
 ##   Readings/Bibliography
 
-- Esselink B., A Practical Guide to Localization, John Benjamins Publishing Co., 2000, ISBN 9027219567
-- [GNU gettext tools](https://www.gnu.org/software/gettext/manual/gettext.pdf), version 0.19.8.1.515-
+* Esselink B., A Practical Guide to Localization, John Benjamins Publishing Co., 2000, ISBN 9027219567
+* [GNU gettext tools](https://www.gnu.org/software/gettext/manual/gettext.pdf), version 0.19.8.1.515-
 e50fa. Native Language Support Library and Tools
 Edition 0.19.8.1.515-e50fa, 28 April 2019
-
-- AA. VV., [Italian Style Guide](https://www.microsoft.com/en-us/language/StyleGuides), Redmond, Microsoft Corporation, Feb 2019
-
-- [Android localization guide](https://developer.android.com/guide/topics/resources/localization)
+* AA. VV., [Italian Style Guide](https://www.microsoft.com/en-us/language/StyleGuides), Redmond, Microsoft Corporation, Feb 2019
+* [Android localization guide](https://developer.android.com/guide/topics/resources/localization)
 
 ##   Teaching methods
 
