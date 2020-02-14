@@ -25,7 +25,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 **Materials will be posted here at production time**
 
-#### 0. Introduction to Computatuonal Linguistics
+#### 0. Introduction to Computational Linguistics
 
 * [Lecture Notes](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/coli_2020_notes.pdf)
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/01_coli_2020.pdf)
