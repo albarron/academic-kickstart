@@ -25,10 +25,21 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 **Materials will be posted here at production time**
 
+#### 0. Introduction to Python scripting
+
+1. [Lecture Notes]()
+2. [Slides]()
+3. [Notebook]()  
+
 #### 1. Introduction to Python scripting
 * Materials
 * Readings
 * Notebook(s)
+
+| 0. Introduction to Computational Linguistics |
+| ----------- | ----------------- | --------|
+|
+
 
 #### 2. Word tokenization and part of speech
 #### 3. Vectorization and semantic analysis
