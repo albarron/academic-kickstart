@@ -27,9 +27,9 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 #### 0. Introduction to Python scripting
 
-1. [Lecture Notes]()
-2. [Slides]()
-3. [Notebook]()  
+1. [Lecture Notes](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/coli_2020_notes.pdf)
+2. [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/01_coli_2020.pdf)
+3. [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/Python4Poets.ipynb) + the gate to [Genesis](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/genesis.txt)
 
 #### 1. Introduction to Python scripting
 * Materials

@@ -13,6 +13,9 @@ header:
   image: ""
 ---
 
+UPON POPULAR REQUESTS, THE COURSE CONTENTS HAVE BEEN MOVED TO DIT'S MOODLE. 
+
+
 ## Academic Year 2019/2020
 
 ## Learning outcomes
