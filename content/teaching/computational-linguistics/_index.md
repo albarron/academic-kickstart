@@ -25,21 +25,14 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 **Materials will be posted here at production time**
 
-#### 0. Introduction to Python scripting
+#### 0. Introduction to Computatuonal Linguistics
 
-1. [Lecture Notes](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/coli_2020_notes.pdf)
-2. [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/01_coli_2020.pdf)
-3. [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/Python4Poets.ipynb) + the gate to [Genesis](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/genesis.txt)
+* [Lecture Notes](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/coli_2020_notes.pdf)
+* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/01_coli_2020.pdf)
 
 #### 1. Introduction to Python scripting
-* Materials
-* Readings
-* Notebook(s)
-
-| 0. Introduction to Computational Linguistics |
-| ----------- | ----------------- | --------|
-|
-
+* The [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/Python4Poets.ipynb) for Python for Poets
+* The gate to [Genesis](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/genesis.txt)
 
 #### 2. Word tokenization and part of speech
 #### 3. Vectorization and semantic analysis
