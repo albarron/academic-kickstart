@@ -23,8 +23,6 @@ The student will learn the basic theoretical aspects of computational linguistic
 
 Whereas the contents could be (slightly) adapted according to the students skills and interests, the general structure of the course will be as follows.
 
-**Materials will be posted here at production time**
-
 #### 0. Introduction to Computational Linguistics
 
 * [Lecture Notes](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/coli_2020_notes.pdf)
@@ -35,6 +33,9 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * The gate to [Genesis](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/genesis.txt)
 
 #### 2. Word tokenization and part of speech
+
+Materials will be posted here at due time
+
 #### 3. Vectorization and semantic analysis
 #### 4. Word vectors
 #### 5. Applications
