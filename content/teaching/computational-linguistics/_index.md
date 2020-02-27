@@ -32,11 +32,14 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * The [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/Python4Poets.ipynb) for Python for Poets
 * The gate to [Genesis](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/genesis.txt)
 
-#### 2. Word tokenization and part of speech
+#### 2. Words and vector space model
+* The update for the lecture notes of this week remain pending. Stay tuned.
+* The [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/02_Tokens.ipynb) for tokens and the space model
+* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/02_coli_2020.pdf) on tokens
+* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/03_coli_2020.pdf) on the vector space model and sentiment analysis
 
-Materials will be posted here at due time
 
-#### 3. Vectorization and semantic analysis
+#### 3. TBD
 #### 4. Word vectors
 #### 5. Applications
 
