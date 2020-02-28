@@ -33,7 +33,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * The gate to [Genesis](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/genesis.txt)
 
 #### 2. Words and vector space model
-* The update for the lecture notes of this week remain pending. Stay tuned.
+* {Lecture Notes](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/coli_2020_notes.pdf)) as after finishing the second week..
 * The [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/02_Prepro.ipynb) for preprocessing
 * The [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/03_Tokens.ipynb) for tokens and the space model
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/02_coli_2020.pdf) on tokens
