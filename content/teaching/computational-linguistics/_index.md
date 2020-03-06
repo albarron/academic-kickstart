@@ -40,7 +40,10 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/03_coli_2020.pdf) on the vector space model and sentiment analysis
 
 
-#### 3. TBD
+#### 3. Naive Bayes
+* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_03/04_coli_2020.pdf)
+* [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_03/04_NaiveBayes.ipynb)
+
 #### 4. Word vectors
 #### 5. Applications
 
