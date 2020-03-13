@@ -45,6 +45,10 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_03/04_NaiveBayes.ipynb)
 
 #### 4. Word vectors
+* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_04/05_coli_2020.pdf)
+* [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_04/05_tf-idf.ipynb)
+
+
 #### 5. Applications
 
 ## Readings/Bibliography
