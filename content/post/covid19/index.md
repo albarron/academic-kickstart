@@ -62,7 +62,7 @@ A number of plots displaying the total number of cases and new cases per provinc
 {{< figure src="/img/plot_Venezia.png" title="Venezia">}}  | {{< figure src="/img/plot_Verbano-Cusio-Ossola.png" title="Verbano-Cusio-Ossola">}}  | {{< figure src="/img/plot_Vercelli.png" title="Vercelli">}}  | {{< figure src="/img/plot_Verona.png" title="Verona">}} 
 {{< figure src="/img/plot_ViboValentia.png" title="Vibo Valentia">}}  | {{< figure src="/img/plot_Vicenza.png" title="Vicenza">}}  | {{< figure src="/img/plot_Viterbo.png" title="Viterbo">}} 
 
-In some cases the number of new cases is negative. The [reasons](https://github.com/pcm-dpc/COVID-19/issues/358) are (in general) wrong reportings in a specific day. 
+In some cases the number of new cases is negative. The [reasons](https://github.com/pcm-dpc/COVID-19/issues/358) are (in general) wrong reportings in a specific day. They are simply clipped to 0. 
  
 Other plots are published [here](https://amadvance.github.io/covid19-italy/)
 There are other nice visualisations, such as these [dynamic maps](https://mrmatd.github.io/Covid-19-ITA/)
