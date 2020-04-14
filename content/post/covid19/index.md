@@ -28,8 +28,12 @@ image:
 projects: []
 ---
 
-First Header  | Second Header | Second Header | Second Header
-------------- | ------------- | ------------- | -------------
+## Plots Covid 2019 in Italy
+
+A number of plots displaying the total number of cases and new cases per province. 
+
+ |  |  | 
+----------------- | ---------------- | ---------------- | ----------------
 {{< figure src="/img/plot_Agrigento.png" title="Agrigento">}}  | {{< figure src="/img/plot_Alessandria.png" title="Alessandria">}}  | {{< figure src="/img/plot_Ancona.png" title="Ancona">}}  | {{< figure src="/img/plot_Aosta.png" title="Aosta">}} 
 {{< figure src="/img/plot_Arezzo.png" title="Arezzo">}}  | {{< figure src="/img/plot_AscoliPiceno.png" title="Ascoli Piceno">}}  | {{< figure src="/img/plot_Asti.png" title="Asti">}} | {{< figure src="/img/plot_Avellino.png" title="Avellino">}} 
 {{< figure src="/img/plot_Bari.png" title="Bari">}}  | {{< figure src="/img/plot_Barletta-Andria-Trani.png" title="Barletta-Andria-Trani">}}  | {{< figure src="/img/plot_Belluno.png" title="Belluno">}}  | {{< figure src="/img/plot_Benevento.png" title="Benevento">}} 
@@ -57,3 +61,10 @@ First Header  | Second Header | Second Header | Second Header
 {{< figure src="/img/plot_Treviso.png" title="Treviso">}}  | {{< figure src="/img/plot_Trieste.png" title="Trieste">}}  | {{< figure src="/img/plot_Udine.png" title="Udine">}}  | {{< figure src="/img/plot_Varese.png" title="Varese">}}
 {{< figure src="/img/plot_Venezia.png" title="Venezia">}}  | {{< figure src="/img/plot_Verbano-Cusio-Ossola.png" title="Verbano-Cusio-Ossola">}}  | {{< figure src="/img/plot_Vercelli.png" title="Vercelli">}}  | {{< figure src="/img/plot_Verona.png" title="Verona">}} 
 {{< figure src="/img/plot_ViboValentia.png" title="Vibo Valentia">}}  | {{< figure src="/img/plot_Vicenza.png" title="Vicenza">}}  | {{< figure src="/img/plot_Viterbo.png" title="Viterbo">}} 
+
+In some cases the number of new cases is negative. The [reasons](https://github.com/pcm-dpc/COVID-19/issues/358) are (in general) wrong reportings in a specific day. 
+ 
+Other plots are published [here](https://amadvance.github.io/covid19-italy/)
+There are other nice visualisations, such as these [dynamic maps](https://mrmatd.github.io/Covid-19-ITA/)
+
+The data comes from [Dipartimento della Protezione Civile](https://github.com/pcm-dpc/COVID-19)
