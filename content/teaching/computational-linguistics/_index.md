@@ -49,15 +49,18 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_04/05_tf-idf.ipynb)
 
 #### 5. From Word Counts to Meaning
-* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_05/06_coli_2020.pdf) 
+* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_05/06_coli_2020.pdf)
 * [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_05/06_topicmodeling.ipynb)
 
-#### 6. Training and Evaluation 
-* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_05/07_coli_2020.pdf) 
+#### 6. Training and Evaluation
+* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_05/07_coli_2020.pdf)
 * [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_05/07_trainingandevaluating.ipynb)
 
+#### 7. Intro to LSA
+* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_06/08_coli_2020.pdf)
+* [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_06/08_lsa.ipynb)
 
-#### 7. 
+#### 8.
 
 ## Readings/Bibliography
 
