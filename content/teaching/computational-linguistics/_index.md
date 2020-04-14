@@ -60,7 +60,10 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_06/08_coli_2020.pdf)
 * [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_06/08_lsa.ipynb)
 
-#### 8.
+#### 8. Intro to NN
+* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_07/09_coli_2020.pdf)
+* [Slides with "funny" drawings](https://github.com/albarron/academic-kickstart/blob/master/files/week_07/09_coli_2020_edited.pdf)
+* [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_07/09_nn.ipynb)
 
 ## Readings/Bibliography
 
