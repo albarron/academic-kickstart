@@ -64,7 +64,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_07/09_coli_2020.pdf) about the perceptron
 * [Slides with "funny" drawings](https://github.com/albarron/academic-kickstart/blob/master/files/week_07/09_coli_2020_edited.pdf) about the perceptron
 * [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_07/09_nn.ipynb)a about the perceptron
-* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_07/10_coli_2020.pdf) for the intro to neural networks
+* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_07/10_coli_2020-handout.pdf) for the intro to neural networks
 * [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_07/10_backprop.ipynb) introducing neural networks and keras
 
 ## Readings/Bibliography
