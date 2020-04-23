@@ -70,7 +70,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 #### 8. Word Embeddings
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_08/11_coli_2020-handout.pdf)
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_08/12_coli_2020-handout.pdf) (hands on)
-* [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_08/.1_embedding.sipynb)
+* [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_08/11_embeddings.ipynb)
 
 ## Readings/Bibliography
 
