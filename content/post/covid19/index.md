@@ -30,7 +30,9 @@ projects: []
 
 ## Plots Covid 2019 in Italy
 
-A number of plots displaying the total number of cases and new cases per province. 
+A number of plots displaying the total number of cases and new cases per province.
+
+*Notice that the bar for 28/04 is missing due to data inconsistencies*
 
  |  |  | 
 ----------------- | ---------------- | ---------------- | ----------------
