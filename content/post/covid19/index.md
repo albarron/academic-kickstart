@@ -32,8 +32,6 @@ projects: []
 
 A number of plots displaying the total number of cases and new cases per province.
 
-*Notice that the bar for 28/04 is missing due to data inconsistencies*
-
  |  |  | 
 ----------------- | ---------------- | ---------------- | ----------------
 {{< figure src="/img/plot_Agrigento.png" title="Agrigento">}}  | {{< figure src="/img/plot_Alessandria.png" title="Alessandria">}}  | {{< figure src="/img/plot_Ancona.png" title="Ancona">}}  | {{< figure src="/img/plot_Aosta.png" title="Aosta">}} 
