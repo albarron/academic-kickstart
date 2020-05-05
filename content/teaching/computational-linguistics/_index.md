@@ -29,55 +29,59 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/01_coli_2020.pdf)
 
 #### 1. Introduction to Python scripting
-* The [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/Python4Poets.ipynb) for Python for Poets
+* The [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/Python4Poets.ipynb) for Python for Poets
 * The gate to [Genesis](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/genesis.txt)
 
 #### 2. Words and vector space model
 * [Lecture Notes](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/coli_2020_notes.pdf) as after finishing the second week..
-* The [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/02_Prepro.ipynb) for preprocessing
-* The [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/03_Tokens.ipynb) for tokens and the space model
+* The [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/02_Prepro.ipynb) for preprocessing
+* The [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/03_Tokens.ipynb) for tokens and the space model
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/02_coli_2020.pdf) on tokens
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/03_coli_2020.pdf) on the vector space model and sentiment analysis
 
 
 #### 3. Naive Bayes
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_03/04_coli_2020.pdf)
-* [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_03/04_NaiveBayes.ipynb)
+* [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_03/04_NaiveBayes.ipynb)
 
 #### 4. Word vectors
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_04/05_coli_2020.pdf)
-* [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_04/05_tf-idf.ipynb)
+* [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_04/05_tf-idf.ipynb)
 
 #### 5. From Word Counts to Meaning
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_05/06_coli_2020.pdf)
-* [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_05/06_topicmodeling.ipynb)
+* [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_05/06_topicmodeling.ipynb)
 
 #### 6. Training and Evaluation
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_05/07_coli_2020.pdf)
-* [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_05/07_trainingandevaluating.ipynb)
+* [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_05/07_trainingandevaluating.ipynb)
 
 #### 7. Intro to LSA
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_06/08_coli_2020.pdf)
-* [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_06/08_lsa.ipynb)
+* [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_06/08_lsa.ipynb)
 
 #### 8. Intro to NN
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_07/09_coli_2020.pdf) about the perceptron
 * [Slides with "funny" drawings](https://github.com/albarron/academic-kickstart/blob/master/files/week_07/09_coli_2020_edited.pdf) about the perceptron
-* [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_07/09_nn.ipynb)a about the perceptron
+* [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_07/09_nn.ipynb)a about the perceptron
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_07/10_coli_2020-handout.pdf) for the intro to neural networks
-* [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_07/10_backprop.ipynb) introducing neural networks and keras
+* [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_07/10_backprop.ipynb) introducing neural networks and keras
 
 #### 9. Word Embeddings
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_08/11_coli_2020-handout.pdf)
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_08/12_coli_2020-handout.pdf) (hands on)
-* [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_08/11_embeddings.ipynb)
+* [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_08/11_embeddings.ipynb)
 
 #### 10. Visualisation
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_09/13_coli_2020-handout.pdf)
-* [Jupyter notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_09/12_viz.ipynb)
+* [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_09/12_viz.ipynb)
 
 #### 11. From document representations, towards sequences
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_09/14_coli_2020-handout.pdf)
+
+#### 12. Convolutions for text
+* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_10/15_coli_2020-handout.pdf)
+* [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_10/13_cnn.ipynb)
 
 ## Readings/Bibliography
 
