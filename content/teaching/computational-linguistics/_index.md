@@ -83,6 +83,11 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_10/15_coli_2020-handout.pdf)
 * [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_10/13_cnn.ipynb)
 
+#### 12. Text is Sequential
+* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_10/16_coli_2020-handout.pdf)
+* [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_10/14_rnn.ipynb)
+
+
 ## Readings/Bibliography
 
 ### Core
