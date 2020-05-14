@@ -87,6 +87,26 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_10/16_coli_2020-handout.pdf)
 * [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_10/14_rnn.ipynb)
 
+#### Beyond the course
+
+### Links to diverse corpora
+* A [repository](https://github.com/karthikncode/nlp-datasets) with a list of interesting corpora
+* Another [list](https://nlpforhackers.io/corpora/) of interesting corpora (incl. scripts from The Simpsons)
+* Yet [another list](https://devopedia.org/text-corpus-for-nlp) and discussion on what is a good corpus (with many more links to resoucces)
+* Google's dataset search [website](https://datasetsearch.research.google.com/)
+
+### Some interesting papers involving corpora creation
+* [The Uppsala Corpus of Student Writings: Corpus Creation, Annotation, and Analysis](https://www.aclweb.org/anthology/L16-1509/)
+* [An Evaluation Framework for Plagiarism Detection](https://www.aclweb.org/anthology/C10-2115/)
+* [Constructing Corpora for the Development and Evaluation of Paraphrase Systems](https://www.mitpressjournals.org/doi/abs/10.1162/coli.08-003-R1-07-044)
+* [The Web as a Parallel Corpus](https://www.mitpressjournals.org/doi/abs/10.1162/089120103322711578)
+* [Building Gold Standard Corpora for Medical Natural Language Processing Tasks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3540456/)
+* [Mining Parallel Corpora from Sina Weibo and Twitter](https://www.mitpressjournals.org/doi/full/10.1162/COLI_a_00249)
+* [Corpus Creation and Analysis for Named Entity Recognition in Telugu-English Code-Mixed Social Media Data](https://www.aclweb.org/anthology/P19-2025/)
+
+### Some quick guides to build corpora
+* A [quick guide](https://www.kdnuggets.com/2017/11/building-wikipedia-text-corpus-nlp.html) on constructing corpora from the Wikipedia
+* [Gensim's guide](https://radimrehurek.com/gensim/corpora/textcorpus.html) to build corpora with dictionaries
 
 ## Readings/Bibliography
 
