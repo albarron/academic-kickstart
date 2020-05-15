@@ -116,7 +116,7 @@ Alfieri, Andrea												| TBD									| TBD							| TBD	|
 Compagnoni, Anna Giulia			| TBD									| TBD							| TBD	|
 Contarino, Antonio Giovanni	| TBD									| TBD							| TBD	|
 Fabbri, Eleonora										| TBD									| TBD							| TBD	|
-Fernicola, Francesco							| TBD									| TBD							| TBD	|
+Fernicola, Francesco							| TBD									| TBD							| Sep	|
 Ferraiuolo, Mariachiara					| TBD									| TBD							| TBD	|
 Galletti, Ettore												| TBD									| TBD							| TBD	|
 Giannoni, Laura											| TBD									| TBD							| TBD	|
