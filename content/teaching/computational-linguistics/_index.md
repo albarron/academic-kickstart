@@ -146,7 +146,7 @@ Tedesco, Novella										| Geolocalised COVID-19 Twitter Discussion Explorer			
 Terenzi, Lucia												| TBD									| TBD							| TBD	|
 Vázquez Capanaga, Andrea	| TBD									| TBD							| TBD	|
 Wang, Xiaoli													| TBD									| TBD							| TBD	|
-Yu, Xin Xin															| Focused hate-speech during the pandemia	| Tentative							| TBD	|
+Yu, Xin Xin (Catherine)	| Focused hate-speech during the pandemia	| Tentative							| September	|
 Zhang, Shibingfeng								| EVALITA's [Automatic Misogyny Identification](https://amievalita2020.github.io/)	| Tentative							| TBD	|
 
 ## Readings/Bibliography
