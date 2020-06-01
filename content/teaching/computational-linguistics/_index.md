@@ -138,11 +138,11 @@ Guarino, Eugenia									| TBD									| TBD							| TBD	|
 Ippoliti, Chiara												| TBD									| TBD							| TBD	|
 Martinelli, Margherita							| TBD									| TBD							| TBD	|
 Moro, Erica														| TBD									| TBD							| TBD	|
-Muti, Arianna													| Evalita's [Acceptability & Complexity evaluation task](https://sites.google.com/view/accompl-it/home-page?authuser=0)	| Tentative			| TBD
+Muti, Arianna													| Evalita's [Acceptability & Complexity evaluation task (Subtask A)](https://sites.google.com/view/accompl-it/home-page?authuser=0)	| Agreed		| TBD |
 Norova-Lukina, Vera							| TBD									| TBD							| TBD	|
 Polverino, Francesca							| TBD									| TBD							| TBD	|
 Ravanelli, Stefania								| TBD									| TBD							| TBD	|
-Tedesco, Novella										| Geolocalised COVID-19 Twitter Discussion Explorer									| Tentative						| TBD	|
+Tedesco, Novella										| Geolocalised COVID-19 Twitter Discussion Explorer	| Tentative		| TBD	|
 Terenzi, Lucia												| TBD									| TBD							| TBD	|
 Vázquez Capanaga, Andrea	| TBD									| TBD							| TBD	|
 Wang, Xiaoli													| TBD									| TBD							| TBD	|
