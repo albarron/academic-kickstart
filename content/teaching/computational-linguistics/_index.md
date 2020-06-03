@@ -138,7 +138,7 @@ Guarino, Eugenia									| TBD									| TBD							| TBD	|
 Ippoliti, Chiara												| TBD									| TBD							| TBD	|
 Martinelli, Margherita							| TBD									| TBD							| TBD	|
 Moro, Erica														| TBD									| TBD							| TBD	|
-Muti, Arianna													| Evalita's [Automatic Misogyny Identification (Subtask A)](https://amievalita2020.github.io)	| Agreed		| TBD |
+Muti, Arianna													| Evalita's [Automatic Misogyny Identification (Subtask A)](https://amievalita2020.github.io)	| Agreed		| September |
 Norova-Lukina, Vera							| TBD									| TBD							| TBD	|
 Polverino, Francesca							| TBD									| TBD							| TBD	|
 Ravanelli, Stefania								| TBD									| TBD							| TBD	|
