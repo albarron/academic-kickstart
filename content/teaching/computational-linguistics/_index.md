@@ -130,7 +130,7 @@ Alfieri, Andrea												| TBD									| TBD							| TBD	|
 Compagnoni, Anna Giulia			| TBD									| TBD							| TBD	|
 Contarino, Antonio Giovanni	| TBD									| TBD							| TBD	|
 Fabbri, Eleonora										| TBD									| TBD							| TBD	|
-Fernicola, Francesco							| TBD									| TBD							| Sep	|
+Fernicola, Francesco							| AriEmotion				| Green flag		| Sep	|
 Ferraiuolo, Mariachiara					| TBD									| TBD							| TBD	|
 Galletti, Ettore												| TBD									| TBD							| TBD	|
 Giannoni, Laura											| TBD									| TBD							| TBD	|
@@ -138,7 +138,7 @@ Guarino, Eugenia									| TBD									| TBD							| TBD	|
 Ippoliti, Chiara												| TBD									| TBD							| TBD	|
 Martinelli, Margherita							| TBD									| TBD							| TBD	|
 Moro, Erica														| TBD									| TBD							| TBD	|
-Muti, Arianna													| Evalita's [Automatic Misogyny Identification (Subtask A)](https://amievalita2020.github.io)	| Agreed		| September |
+Muti, Arianna													| Evalita's [Automatic Misogyny Identification (Subtask A)](https://amievalita2020.github.io)	| Green flag		| Sep |
 Norova-Lukina, Vera							| TBD									| TBD							| TBD	|
 Polverino, Francesca							| TBD									| TBD							| TBD	|
 Ravanelli, Stefania								| TBD									| TBD							| TBD	|
@@ -146,8 +146,8 @@ Tedesco, Novella										| Geolocalised COVID-19 Twitter Discussion Explorer	| 
 Terenzi, Lucia												| TBD									| TBD							| TBD	|
 Vázquez Capanaga, Andrea	| TBD									| TBD							| TBD	|
 Wang, Xiaoli													| TBD									| TBD							| TBD	|
-Yu, Xin Xin (Catherine)	| Focused hate-speech during the pandemia	| Tentative							| September	|
-Zhang, Shibingfeng								| EVALITA's [Automatic Misogyny Identification](https://amievalita2020.github.io/)	| Tentative							| TBD	|
+Yu, Xin Xin (Catherine)					| Focused hate-speech during the pandemia	| Tentative							| Sep	|
+Zhang, Shibingfeng								| AriEmotion				| Green flag		| Sep	|
 
 ## Readings/Bibliography
 
