@@ -152,26 +152,26 @@ Whereas the contents could be (slightly) adapted according to the students skill
 -------------------------------------	| ------------------- | ---------------- | -------
 Alfieri, A												| TBD									| TBD							| TBD	|
 Compagnoni, A			| TBD									| TBD							| TBD	|
-Contarino, A	| TBD									| TBD							| TBD	|
-Fabbri, E										| TBD									| TBD							| TBD	|
-Fernicola, F							| AriEmotion				| Green flag		| Sep	|
-Ferraiuolo, M					| TBD									| TBD							| TBD	|
-Galletti, E												| Character recognition	| Green flag							| Sep	|
-Giannoni, L											| TBD									| TBD							| TBD	|
-Guarino, E									| TBD									| TBD							| TBD	|
-Ippoliti, C												| TBD									| TBD							| TBD	|
-Martinelli, M							| TBD									| TBD							| TBD	|
-Moro, E														| TBD									| TBD							| TBD	|
-Muti, A													| Evalita's [Automatic Misogyny Identification (Subtask A)](https://amievalita2020.github.io)	| Green flag		| Sep |
-Norova-Lukina, V							| TBD									| TBD							| TBD	|
-Polverino, F							| TBD									| TBD							| TBD	|
-Ravanelli, S								| TBD									| TBD							| TBD	|
-Tedesco, N										| Geolocalised COVID-19 Twitter Discussion Explorer	| Tentative		| TBD	|
-Terenzi, L												| TBD									| TBD							| TBD	|
-Vázquez C, A	| TBD									| TBD							| TBD	|
-Wang, X													| TBD									| TBD							| TBD	|
-Yu, X X (Catherine)					| Focused hate-speech during the pandemia	| Tentative							| Sep	|
-Zhang, S								| AriEmotion				| Green flag		| Sep	|
+Contarino, A	  | TBD									| TBD							| TBD	|
+Fabbri, E			  | TBD									| TBD							| TBD	|
+Fernicola, F		| AriEmotion				| submitted		| Sep	2020 |
+Ferraiuolo, M	    	| TBD									| TBD							| TBD	|
+Galletti, E		 	    | Theatre's character recognition	| submitted							| Feb 2021	|
+Giannoni, L							| TBD									| TBD							| TBD	|
+Guarino, E							| TBD									| TBD							| TBD	|
+Ippoliti, C							| TBD									| TBD							| TBD	|
+Martinelli, M						| TBD									| TBD							| TBD	|
+Moro, E									| TBD									| TBD							| TBD	|
+Muti, A									| Evalita's [AMI (task A)](https://amievalita2020.github.io)	| submitted	| Sep |
+Norova-Lukina, V				| Cognates for text intercomprehension				| green flag							| TBD	|
+Polverino, F						| TBD									| TBD							| TBD	|
+Ravanelli, S						| TBD									| TBD							| TBD	|
+Tedesco, N							| Geolocalised COVID-19 Twitter Discussion Explorer	| Tentative		| TBD	|
+Terenzi, L							| TBD									| TBD							| TBD	|
+Vázquez C, A	| TBD			| TBD							    | TBD	|
+Wang, X									| TBD									| TBD							| TBD	|
+Yu, X X (Catherine)			| Focused hate-speech during the pandemia	| submitted							| Feb 2021	|
+Zhang, S								| AriEmotion				| submitted		| Sep 2020	|
 
 ## Readings/Bibliography
 
