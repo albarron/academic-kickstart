@@ -117,17 +117,15 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 * **AriEmozione: Identifying Emotions in Opera Verses**<br />
   Students: Fernicola F. and Zhang Shibingfeng<br />
-  The project was developed under the umbrella of the [CRICC
-  project](https://site.unibo.it/cricc/it) and was published in
-  [CLiC-it 2020](http://clic2020.ilc.cnr.it/it/home/)<br />
-  [pdf](http://ceur-ws.org/Vol-2769/paper_58.pdf))
-
+  Developed under the umbrella of [CRICC](https://site.unibo.it/cricc/it);
+  published in [CLiC-it 2020](http://clic2020.ilc.cnr.it/it/home/)<br />
+  [pdf](http://ceur-ws.org/Vol-2769/paper_58.pdf)
 
 * **UniBO@AMI: A Multi-Class Approach to Misogyny and Aggressiveness
   Identification on Twitter Posts Using AlBERTo**<br />
   Student: Muti, A.<br />
-  The approach resulted in the best-performing model submitted (unnofficialy) to
-  [Evalita's 2020 AMI shared task](https://amievalita2020.github.io/)<br /><br />
+  Top-performing model submitted to [Evalita's 2020
+  AMI](https://amievalita2020.github.io/) shared task<br />
   [pdf](http://ceur-ws.org/Vol-2765/paper117.pdf)
   [video](https://vimeo.com/487827895)
 
