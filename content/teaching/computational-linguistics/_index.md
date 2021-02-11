@@ -111,12 +111,38 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 ## Projects
 
-**Notice** If you opt for turning your project into the participation to some shared task, it is **alright** if more than one person targets the same task. 
+**Notice** If you opt for turning your project into the participation to some shared task, it is **alright** if more than one person targets the same task.
+
+### Submitted projects (up to February 2021)
+
+* **AriEmozione: Identifying Emotions in Opera Verses**<br />
+  Students: Fernicola F. and Zhang Shibingfeng<br />
+  The project was developed under the umbrella of the [CRICC
+  project](https://site.unibo.it/cricc/it) and was published in
+  [CLiC-it 2020](http://clic2020.ilc.cnr.it/it/home/)<br />
+  [pdf](http://ceur-ws.org/Vol-2769/paper_58.pdf))
+
+
+* **UniBO@AMI: A Multi-Class Approach to Misogyny and Aggressiveness
+  Identification on Twitter Posts Using AlBERTo**<br />
+  Student: Muti, A.<br />
+  The approach resulted in the best-performing model submitted (unnofficialy) to
+  [Evalita's 2020 AMI shared task](https://amievalita2020.github.io/)<br /><br />
+  [pdf](http://ceur-ws.org/Vol-2765/paper117.pdf)
+  [video](https://vimeo.com/487827895)
+
+* **Identifying Characters’ Lines in Original and Translated Plays. The case of
+  Golden and Horan’s Class**
+  Student: Galletti, E.
+
+* **Classifying An Imbalanced Dataset with CNN, RNN, and LSTM**
+  Student: Yu, X.
+
 
 ### Some project alternatives
 * Performing a small research project taking advantage of the COVID-19 corpus (see Beyond the course)
 * Participating to some of the [EVALITA 2020](http://www.evalita.it/2020/tasks) shared tasks. There is [age and gender profiling](https://sites.google.com/view/tag-it-2020), [misogyny identification](https://amievalita2020.github.io/), and  [complexity evaluation](https://sites.google.com/view/accompl-it/home-page?authuser=0), among many others.
-* Performing research on propaganda identification in other languages than English. For inspiration, see this [IPM paper](https://www.scopus.com/record/display.uri?eid=2-s2.0-85065627668&origin=inward&txGid=9caa756c9a67cff1f3ae84fa6a79bfd2), this [EMNLP paper](https://www.aclweb.org/anthology/D19-1565/), or this [SemEval shared task](https://propaganda.qcri.org/semeval2020-task11/index.html) 
+* Performing research on propaganda identification in other languages than English. For inspiration, see this [IPM paper](https://www.scopus.com/record/display.uri?eid=2-s2.0-85065627668&origin=inward&txGid=9caa756c9a67cff1f3ae84fa6a79bfd2), this [EMNLP paper](https://www.aclweb.org/anthology/D19-1565/), or this [SemEval shared task](https://propaganda.qcri.org/semeval2020-task11/index.html)
 * Estimating the complexity of a text for a non-native speaker. For inspiration, see [READ-IT](http://www.italianlp.it/demo/read-it/)
 * Analysing the quality of Wikipedia articles across languages
 
