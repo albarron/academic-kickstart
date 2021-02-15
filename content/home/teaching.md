@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
 title = "Teaching"
-subtitle = "2020"
+subtitle = "UniBO"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -63,6 +63,16 @@ subtitle = "2020"
  css_class = ""
 +++
 
+### 2021
+
 92586 - [Computational Linguistics]({{< ref "teaching/computational-linguistics/_index.md">}}) - 6 cfu
 
-84929 - [Game and Software Localization (Modulo 2)]({{< ref "teaching/game-and-software-localization/_index.md">}})
+84929 - [Game and Software Localization (Modulo 2)]({{< ref "teaching/game-and-software-localization/_index.md">}}) - 5 cfu
+
+### 2020 
+
+(current student? Go to 2021)
+
+92586 - [Computational Linguistics]({{< ref "teaching/computational-linguistics2020/_index.md">}}) - 6 cfu
+
+84929 - [Game and Software Localization (Modulo 2)]({{< ref "teaching/game-and-software-localization2020/_index.md">}})
