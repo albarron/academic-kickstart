@@ -13,7 +13,7 @@ header:
   image: ""
 ---
 
-## Academic Year 2019/2020
+## Academic Year 2020/2021
 
 ## Learning outcomes
 
@@ -23,6 +23,7 @@ The student will learn the basic theoretical aspects of computational linguistic
 
 Whereas the contents could be (slightly) adapted according to the students skills and interests, the general structure of the course will be as follows.
 
+<!---
 #### 0. Introduction to Computational Linguistics
 
 * [Lecture Notes](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/coli_2020_notes.pdf)
@@ -206,3 +207,4 @@ Seminars will be carried out with slides and coding will be carried out with jup
 ## Office hours
 
 TBD
+-->

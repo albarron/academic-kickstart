@@ -13,15 +13,14 @@ header:
   image: ""
 ---
 
-**UPON POPULAR REQUEST, THE COURSE CONTENTS HAVE BEEN MOVED TO DIT'S MOODLE.** 
 
-
-## Academic Year 2019/2020
+## Academic Year 2020/2021
 
 ## Learning outcomes
 
 The student will learn the requirements for software release in international settings, which requires proper localization. The student will learn how to use modern software for the task of localization and will understand standard localization guidelines and the use of CAT and other localization tools.
 
+<!---
 ## Course contents
 
 #### 1. Introduction to Internationalization
@@ -56,3 +55,4 @@ Bibliography, lecture notes/handout, exercises
 ## Office hours
 
 Open schedule, upon agreement.
+-->
