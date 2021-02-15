@@ -63,16 +63,16 @@ subtitle = "UniBO"
  css_class = ""
 +++
 
+A current student? Go to **2021**. <br />(2020 editions kept just for the record)
+
 ### 2021
 
-92586 - [Computational Linguistics]({{< ref "teaching/computational-linguistics/_index.md">}}) - 6 cfu
-
+92586 - [Computational Linguistics]({{< ref "teaching/computational-linguistics/_index.md">}}) - 6 cfu <br />
 84929 - [Game and Software Localization (Modulo 2)]({{< ref "teaching/game-and-software-localization/_index.md">}}) - 5 cfu
 
 ### 2020 
 
 (current student? Go to 2021)
 
-92586 - [Computational Linguistics]({{< ref "teaching/computational-linguistics2020/_index.md">}}) - 6 cfu
-
+92586 - [Computational Linguistics]({{< ref "teaching/computational-linguistics2020/_index.md">}}) - 6 cfu <br />
 84929 - [Game and Software Localization (Modulo 2)]({{< ref "teaching/game-and-software-localization2020/_index.md">}})
