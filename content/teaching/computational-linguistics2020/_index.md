@@ -1,5 +1,5 @@
 ---
-title: Computational Linguistics
+title: Computational Linguistics. 
 
 # View.
 #   1 = List
@@ -13,7 +13,10 @@ header:
   image: ""
 ---
 
-## Academic Year 2019/2020
+**Academic Year 2019/2020**
+
+**This is not the current edition of this lecture. Jump 
+[here](https://albarron.github.io/teaching/computational-linguistics/) instead**
 
 ## Learning outcomes
 
@@ -113,27 +116,27 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 **Notice** If you opt for turning your project into the participation to some shared task, it is **alright** if more than one person targets the same task.
 
-### Submitted projects (up to February 2021)
+### Submitted projects (up to February 2021) {#coli20_projects}
 
 * **AriEmozione: Identifying Emotions in Opera Verses**<br />
-  Students: Fernicola F. and Zhang Shibingfeng<br />
-  Developed under the umbrella of [CRICC](https://site.unibo.it/cricc/it);
+  Students: Fernicola F. and Zhang S.<br />
+  Developed under [CRICC](https://site.unibo.it/cricc/it);
   published in [CLiC-it 2020](http://clic2020.ilc.cnr.it/it/home/)<br />
-  [pdf](http://ceur-ws.org/Vol-2769/paper_58.pdf)
+  \[[pdf](http://ceur-ws.org/Vol-2769/paper_58.pdf)\]
 
 * **UniBO@AMI: A Multi-Class Approach to Misogyny and Aggressiveness
   Identification on Twitter Posts Using AlBERTo**<br />
   Student: Muti, A.<br />
-  Top-performing model submitted to [Evalita's 2020
+  Top-performing model in [Evalita's 2020
   AMI](https://amievalita2020.github.io/) shared task<br />
-  [pdf](http://ceur-ws.org/Vol-2765/paper117.pdf)
-  [video](https://vimeo.com/487827895)
+  \[[pdf](http://ceur-ws.org/Vol-2765/paper117.pdf)\]
+  \[[video](https://vimeo.com/487827895)\]
 
 * **Identifying Characters’ Lines in Original and Translated Plays. The case of
-  Golden and Horan’s Class**
+  Golden and Horan’s Class**<br />
   Student: Galletti, E.
 
-* **Classifying An Imbalanced Dataset with CNN, RNN, and LSTM**
+* **Classifying An Imbalanced Dataset with CNN, RNN, and LSTM**<br />
   Student: Yu, X.
 
 

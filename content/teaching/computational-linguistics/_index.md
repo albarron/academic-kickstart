@@ -13,7 +13,7 @@ header:
   image: ""
 ---
 
-## Academic Year 2020/2021
+**Academic Year 2020/2021**
 
 ## Learning outcomes
 
@@ -23,71 +23,103 @@ The student will learn the basic theoretical aspects of computational linguistic
 
 Whereas the contents could be (slightly) adapted according to the students skills and interests, the general structure of the course will be as follows.
 
+### 0. A gentle introduction to [Python](https://www.python.org/)
+* This topic **wont be covered in class**. If you didn't attend to the crash 
+course, [visit it](https://github.com/TinfFoil/learning_dit_python) **before
+the first session** 
+
 <!---
-#### 0. Introduction to Computational Linguistics
-
-* [Lecture Notes](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/coli_2020_notes.pdf)
-* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/01_coli_2020.pdf)
-
 #### 1. Introduction to Python scripting
 * The [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/Python4Poets.ipynb) for Python for Poets
 * The gate to [Genesis](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/genesis.txt)
+-->
 
-#### 2. Words and vector space model
+
+### 1. Introduction to Computational Linguistics (25/02/21)
+<!---
+* [Lecture Notes](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/coli_2020_notes.pdf)
+* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/01_coli_2020.pdf)
+-->
+
+### 2. Words and vector space model
+<!---
 * [Lecture Notes](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/coli_2020_notes.pdf) as after finishing the second week..
 * The [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/02_Prepro.ipynb) for preprocessing
 * The [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/03_Tokens.ipynb) for tokens and the space model
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/02_coli_2020.pdf) on tokens
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/03_coli_2020.pdf) on the vector space model and sentiment analysis
+-->
 
-
-#### 3. Naive Bayes
+### 3. Naive Bayes
+<!---
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_03/04_coli_2020.pdf)
 * [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_03/04_NaiveBayes.ipynb)
+-->
 
-#### 4. Word vectors
+### 4. Word vectors
+<!---
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_04/05_coli_2020.pdf)
 * [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_04/05_tf-idf.ipynb)
+-->
 
-#### 5. From Word Counts to Meaning
+### 5. From Word Counts to Meaning
+<!---
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_05/06_coli_2020.pdf)
 * [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_05/06_topicmodeling.ipynb)
+-->
 
-#### 6. Training and Evaluation
+### 6. Training and Evaluation
+<!---
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_05/07_coli_2020.pdf)
 * [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_05/07_trainingandevaluating.ipynb)
+-->
 
-#### 7. Intro to LSA
+### 7. Intro to LSA
+<!---
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_06/08_coli_2020.pdf)
 * [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_06/08_lsa.ipynb)
+-->
 
-#### 8. Intro to NN
+### 8. Intro to NN
+<!---
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_07/09_coli_2020.pdf) about the perceptron
 * [Slides with "funny" drawings](https://github.com/albarron/academic-kickstart/blob/master/files/week_07/09_coli_2020_edited.pdf) about the perceptron
 * [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_07/09_nn.ipynb)a about the perceptron
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_07/10_coli_2020-handout.pdf) for the intro to neural networks
 * [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_07/10_backprop.ipynb) introducing neural networks and keras
+-->
 
-#### 9. Word Embeddings
+### 9. Word Embeddings
+<!---
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_08/11_coli_2020-handout.pdf)
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_08/12_coli_2020-handout.pdf) (hands on)
 * [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_08/11_embeddings.ipynb)
+-->
 
-#### 10. Visualisation
+### 10. Visualisation
+<!---
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_09/13_coli_2020-handout.pdf)
 * [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_09/12_viz.ipynb)
+-->
 
-#### 11. From document representations, towards sequences
+### 11. From document representations, towards sequences
+<!---
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_09/14_coli_2020-handout.pdf)
+-->
 
-#### 12. Convolutions for text
+### 12. Convolutions for text
+<!---
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_10/15_coli_2020-handout.pdf)
 * [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_10/13_cnn.ipynb)
+-->
 
-#### 12. Text is Sequential
+### 13. Text is Sequential
+<!---
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_10/16_coli_2020-handout.pdf)
 * [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_10/14_rnn.ipynb)
+-->
 
+<!---
 #### Beyond the course
 
 ##### Links to diverse corpora
@@ -109,70 +141,28 @@ Whereas the contents could be (slightly) adapted according to the students skill
 ##### Some quick guides to build corpora
 * A [quick guide](https://www.kdnuggets.com/2017/11/building-wikipedia-text-corpus-nlp.html) on constructing corpora from the Wikipedia
 * [Gensim's guide](https://radimrehurek.com/gensim/corpora/textcorpus.html) to build corpora with dictionaries
+-->
 
 ## Projects
 
-**Notice** If you opt for turning your project into the participation to some shared task, it is **alright** if more than one person targets the same task.
+The [evaluation](#evaluation) is based on a project. If you want 
+some inspiration, look at the [projects presented last year](../computational-linguistics2020/#coli20_projects)
 
-### Submitted projects (up to February 2021)
+### Some project ideas
 
-* **AriEmozione: Identifying Emotions in Opera Verses**<br />
-  Students: Fernicola F. and Zhang Shibingfeng<br />
-  Developed under the umbrella of [CRICC](https://site.unibo.it/cricc/it);
-  published in [CLiC-it 2020](http://clic2020.ilc.cnr.it/it/home/)<br />
-  [pdf](http://ceur-ws.org/Vol-2769/paper_58.pdf)
+Whereas you are supposed to apply the acquired knowledge on a problem of your own interest, here are some ideas, in case you find yourself lost
 
-* **UniBO@AMI: A Multi-Class Approach to Misogyny and Aggressiveness
-  Identification on Twitter Posts Using AlBERTo**<br />
-  Student: Muti, A.<br />
-  Top-performing model submitted to [Evalita's 2020
-  AMI](https://amievalita2020.github.io/) shared task<br />
-  [pdf](http://ceur-ws.org/Vol-2765/paper117.pdf)
-  [video](https://vimeo.com/487827895)
-
-* **Identifying Characters’ Lines in Original and Translated Plays. The case of
-  Golden and Horan’s Class**
-  Student: Galletti, E.
-
-* **Classifying An Imbalanced Dataset with CNN, RNN, and LSTM**
-  Student: Yu, X.
-
-
-### Some project alternatives
+<!---
 * Performing a small research project taking advantage of the COVID-19 corpus (see Beyond the course)
-* Participating to some of the [EVALITA 2020](http://www.evalita.it/2020/tasks) shared tasks. There is [age and gender profiling](https://sites.google.com/view/tag-it-2020), [misogyny identification](https://amievalita2020.github.io/), and  [complexity evaluation](https://sites.google.com/view/accompl-it/home-page?authuser=0), among many others.
+-->
+* Addressing some of the problems proposed in [EVALITA 2020](http://www.evalita.it/2020/tasks). There is [age and gender profiling](https://sites.google.com/view/tag-it-2020), [misogyny identification](https://amievalita2020.github.io/), and  [complexity evaluation](https://sites.google.com/view/accompl-it/home-page?authuser=0), among many others.
 * Performing research on propaganda identification in other languages than English. For inspiration, see this [IPM paper](https://www.scopus.com/record/display.uri?eid=2-s2.0-85065627668&origin=inward&txGid=9caa756c9a67cff1f3ae84fa6a79bfd2), this [EMNLP paper](https://www.aclweb.org/anthology/D19-1565/), or this [SemEval shared task](https://propaganda.qcri.org/semeval2020-task11/index.html)
 * Estimating the complexity of a text for a non-native speaker. For inspiration, see [READ-IT](http://www.italianlp.it/demo/read-it/)
 * Analysing the quality of Wikipedia articles across languages
 
+<!---
 **Are you defending on the first/second appello**? Why not turning your project into a [CLIC-it](http://clic2020.ilc.cnr.it/en/home-2/) paper? The deadline is on 15/07/2020.
-
-### 2020 students and their project
-
-| students																| Project name   |  Status 				| Call |
--------------------------------------	| ------------------- | ---------------- | -------
-Alfieri, A												| TBD									| TBD							| TBD	|
-Compagnoni, A			| TBD									| TBD							| TBD	|
-Contarino, A	  | TBD									| TBD							| TBD	|
-Fabbri, E			  | TBD									| TBD							| TBD	|
-Fernicola, F		| AriEmotion				| submitted		| Sep	2020 |
-Ferraiuolo, M	    	| TBD									| TBD							| TBD	|
-Galletti, E		 	    | Theatre's character recognition	| submitted							| Feb 2021	|
-Giannoni, L							| TBD									| TBD							| TBD	|
-Guarino, E							| TBD									| TBD							| TBD	|
-Ippoliti, C							| TBD									| TBD							| TBD	|
-Martinelli, M						| TBD									| TBD							| TBD	|
-Moro, E									| TBD									| TBD							| TBD	|
-Muti, A									| Evalita's [AMI (task A)](https://amievalita2020.github.io)	| submitted	| Sep |
-Norova-Lukina, V				| Cognates for text intercomprehension				| green flag							| TBD	|
-Polverino, F						| TBD									| TBD							| TBD	|
-Ravanelli, S						| TBD									| TBD							| TBD	|
-Tedesco, N							| Geolocalised COVID-19 Twitter Discussion Explorer	| Tentative		| TBD	|
-Terenzi, L							| TBD									| TBD							| TBD	|
-Vázquez C, A	| TBD			| TBD							    | TBD	|
-Wang, X									| TBD									| TBD							| TBD	|
-Yu, X X (Catherine)			| Focused hate-speech during the pandemia	| submitted							| Feb 2021	|
-Zhang, S								| AriEmotion				| submitted		| Sep 2020	|
+-->
 
 ## Readings/Bibliography
 
@@ -190,15 +180,20 @@ Zhang, S								| AriEmotion				| submitted		| Sep 2020	|
 
 ## Teaching methods
 
-The course is a combination of seminar and practical sessions. In either case, active participation of the students is expected. We will start with an introduction to the Python programming language and follow with a (practical) description of diverse models and tasks.
+The course is a combination of seminar and practical sessions. In either case, active participation of the students is expected. Assuming you know the basics of programming (e.g., by completing the python course in topic 0) we will cover a (practical) description of diverse models and tasks.
 
-Attendance to a minimum of 70% of the lessons is a must.
 
-## Assessment methods
 
-The student will work on addressing a problem within her **own research** interests with the knowledge acquired during the course. Upon agreement of the topic, the student will work on solving the problem and will write a written report. A poster session will be organized at the end of the course in which the students will present their research work.
+## Evaluation {#evaluation}
+
+The student will work on addressing a problem within her **own research** interests with the knowledge acquired during the course. Upon agreement of the topic, the student will work on solving the problem and will produce a written report. A poster session will be organized at the end of the course in which the students will present their research work.
 
 **_The final evaluation will be computed as a combination of both report and poster presentation._**
+
+### Important points
+
+* If the conditions (covid) do not allow it, we wont have a poster session. In that case, your project should be submitted **1 week before the appello** to be considered valid
+* Do you want to target **30L**? Your final project **should be submitted to a conference for publication** (talk to me well in advance)
 
 ## Teaching tools
 
@@ -206,5 +201,4 @@ Seminars will be carried out with slides and coding will be carried out with jup
 
 ## Office hours
 
-TBD
--->
+See my [UniBO website](https://www.unibo.it/sitoweb/a.barron)
