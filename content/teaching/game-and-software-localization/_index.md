@@ -16,11 +16,13 @@ header:
 
 ## Academic Year 2020/2021
 
+This lecture is held and administered from DIT's Moodle. 
+<!---
 ## Learning outcomes
 
 The student will learn the requirements for software release in international settings, which requires proper localization. The student will learn how to use modern software for the task of localization and will understand standard localization guidelines and the use of CAT and other localization tools.
 
-<!---
+
 ## Course contents
 
 #### 1. Introduction to Internationalization
