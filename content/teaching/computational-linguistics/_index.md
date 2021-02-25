@@ -39,8 +39,7 @@ the first session**
 <!---
 * [Lecture Notes](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/coli_2020_notes.pdf)
 -->
-* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_01/01_coli_2020_handout.pdf)
-
+* [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/01_coli_2020_handout.pdf)
 
 ### 2. Words and vector space model
 <!---
