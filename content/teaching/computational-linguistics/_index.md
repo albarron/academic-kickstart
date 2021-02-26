@@ -23,7 +23,7 @@ The student will learn the basic theoretical aspects of computational linguistic
 
 Whereas the contents could be (slightly) adapted according to the students skills and interests, the general structure of the course will be as follows.
 
-### 0. A gentle introduction to [Python](https://www.python.org/)
+### 0. A gentle introduction to [Python](https://www.python.org/) {#topic0}
 * This topic **wont be covered in class**. If you didn't attend to the crash 
 course, [visit it](https://github.com/TinfFoil/learning_dit_python) **before
 the first session** 
@@ -38,8 +38,8 @@ the first session**
 ### 1. Introduction to Computational Linguistics (25/02/21)
 <!---
 * [Lecture Notes](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/coli_2020_notes.pdf)
-* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/01_coli_2020.pdf)
 -->
+* [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/01_coli_2020_handout.pdf)
 
 ### 2. Words and vector space model
 <!---
@@ -119,6 +119,12 @@ the first session**
 * [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_10/14_rnn.ipynb)
 -->
 
+#### Lecture notes
+
+These lecture notes are just a supporting materials and, conditions allowing, they will be completed throughout the course.
+
+Download the file [here](https://github.com/albarron/academic-kickstart/blob/master/files/coli/dit_coli_notes.pdf)(last update: February, 2020)
+
 <!---
 #### Beyond the course
 
@@ -156,6 +162,7 @@ Whereas you are supposed to apply the acquired knowledge on a problem of your ow
 * Performing a small research project taking advantage of the COVID-19 corpus (see Beyond the course)
 -->
 * Addressing some of the problems proposed in [EVALITA 2020](http://www.evalita.it/2020/tasks). There is [age and gender profiling](https://sites.google.com/view/tag-it-2020), [misogyny identification](https://amievalita2020.github.io/), and  [complexity evaluation](https://sites.google.com/view/accompl-it/home-page?authuser=0), among many others.
+* Participating in the [fake news detection challenge](https://sites.google.com/view/fakedes/home)
 * Performing research on propaganda identification in other languages than English. For inspiration, see this [IPM paper](https://www.scopus.com/record/display.uri?eid=2-s2.0-85065627668&origin=inward&txGid=9caa756c9a67cff1f3ae84fa6a79bfd2), this [EMNLP paper](https://www.aclweb.org/anthology/D19-1565/), or this [SemEval shared task](https://propaganda.qcri.org/semeval2020-task11/index.html)
 * Estimating the complexity of a text for a non-native speaker. For inspiration, see [READ-IT](http://www.italianlp.it/demo/read-it/)
 * Analysing the quality of Wikipedia articles across languages
@@ -168,32 +175,32 @@ Whereas you are supposed to apply the acquired knowledge on a problem of your ow
 
 ### Core
 
-* Hobson Lane, Cole Howard, Hannes Hapke (2019). Natural Language Processing in Action Understanding, analyzing, and generating text with Python. Manning Publications.
-* Steven Bird, Ewan Klein, and Edward Loper. [Natural Language Processing with Python](http://www.nltk.org/book/)
+* Hobson Lane, Cole Howard, Hannes Hapke (2019). [Natural Language Processing in Action Understanding, analyzing, and generating text with Python](https://www.manning.com/books/natural-language-processing-in-action). Manning Publications.
+* Dan Jurafsky and James H. Martin. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/). 3rd ed. draft. December 30, 2020
 
 ### Optional
 
-* Dan Jurafsky and James H. Martin. Speech and Language Processing (3rd ed. draft) Draft chapters in progress, October 16, 2019
-* Yoav Goldberg. (2017). Neural Network Methods for Natural Language Processing (G. Hirst, ed.). Morgan & Claypool Publishers.
-* Emily M. Bender (2013). Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax Synthesis Lectures on Human Language Technologies. Morgan & Claypool Publishers.
-* Kenneth Ward Church. Unix for poets.
+* Steven Bird, Ewan Klein, and Edward Loper. [Natural Language Processing with Python](http://www.nltk.org/book/)
+* Yoav Goldberg. (2017). [Neural Network Methods for Natural Language Processing](https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037) (G. Hirst, ed.). Morgan & Claypool Publishers.
+* Emily M. Bender (2013). [Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax Synthesis](https://www.morganclaypool.com/doi/abs/10.2200/s00493ed1v01y201303hlt020). Lectures on Human Language Technologies. Morgan & Claypool Publishers.
+* Kenneth Ward Church. [Unix for poets](https://web.stanford.edu/class/cs124/kwc-unix-for-poets.pdf).
 
 ## Teaching methods
 
-The course is a combination of seminar and practical sessions. In either case, active participation of the students is expected. Assuming you know the basics of programming (e.g., by completing the python course in topic 0) we will cover a (practical) description of diverse models and tasks.
+The course is a combination of seminar and practical sessions. In either case, active participation of the students is expected. Assuming you know the basics of programming (e.g., by completing the python course in [Topic 0](#topic0)) we will cover a (practical) description of diverse models and tasks.
 
 
 
 ## Evaluation {#evaluation}
 
-The student will work on addressing a problem within her **own research** interests with the knowledge acquired during the course. Upon agreement of the topic, the student will work on solving the problem and will produce a written report. A poster session will be organized at the end of the course in which the students will present their research work.
+The student will work on addressing a problem within her **own research** interests with the knowledge acquired during the course. Upon agreement of the topic, the student will work on solving the problem and will produce a written report. A poster session will be organized before at the end of the course (or before every _appello_ )in which the students will present their research work.
 
 **_The final evaluation will be computed as a combination of both report and poster presentation._**
 
 ### Important points
 
-* If the conditions (covid) do not allow it, we wont have a poster session. In that case, your project should be submitted **1 week before the appello** to be considered valid
-* Do you want to target **30L**? Your final project **should be submitted to a conference for publication** (talk to me well in advance)
+* If the conditions (covid) are not favourable, we wont have a poster session. In that case, your project should be submitted **1 week before the appello** to be considered valid.
+* Do you want to target **30L**? Your final project **should be submitted to a conference for publication**. Talk to me well in advance if you aim this, as it would require my heavy involvement and a high quality will be necessary.
 
 ## Teaching tools
 
