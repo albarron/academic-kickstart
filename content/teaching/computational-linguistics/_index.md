@@ -39,7 +39,7 @@ the first session**
 <!---
 * [Lecture Notes](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/coli_2020_notes.pdf)
 -->
-* [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/01_coli_2020_handout.pdf)
+* [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/01_coli_2021_handout.pdf)
 
 ### 2. Words and vector space model
 <!---
@@ -123,7 +123,7 @@ the first session**
 
 These lecture notes are just a supporting materials and, conditions allowing, they will be completed throughout the course.
 
-Download the file [here](https://github.com/albarron/academic-kickstart/blob/master/files/coli/dit_coli_notes.pdf)(last update: February, 2020)
+Download the file [here](https://github.com/albarron/academic-kickstart/blob/master/files/coli/dit_coli_notes.pdf)(last update: 26 February, 2021)
 
 <!---
 #### Beyond the course
@@ -161,6 +161,7 @@ Whereas you are supposed to apply the acquired knowledge on a problem of your ow
 <!---
 * Performing a small research project taking advantage of the COVID-19 corpus (see Beyond the course)
 -->
+* Participating in the [ADoBO shared task](https://adobo-task.github.io) on automatic detection of borrowings.
 * Addressing some of the problems proposed in [EVALITA 2020](http://www.evalita.it/2020/tasks). There is [age and gender profiling](https://sites.google.com/view/tag-it-2020), [misogyny identification](https://amievalita2020.github.io/), and  [complexity evaluation](https://sites.google.com/view/accompl-it/home-page?authuser=0), among many others.
 * Participating in the [fake news detection challenge](https://sites.google.com/view/fakedes/home)
 * Performing research on propaganda identification in other languages than English. For inspiration, see this [IPM paper](https://www.scopus.com/record/display.uri?eid=2-s2.0-85065627668&origin=inward&txGid=9caa756c9a67cff1f3ae84fa6a79bfd2), this [EMNLP paper](https://www.aclweb.org/anthology/D19-1565/), or this [SemEval shared task](https://propaganda.qcri.org/semeval2020-task11/index.html)
