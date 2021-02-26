@@ -44,7 +44,7 @@ the first session**
 ### 2. Words and vector space model
 
 * [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/02_coli_2021_handout.pdf) 
-* [Notebook](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/01_dit_coli_words.ipynb)
+* [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_01/01_dit_coli_words.ipynb)
 
 <!---
 * The [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/02_Prepro.ipynb) for preprocessing
