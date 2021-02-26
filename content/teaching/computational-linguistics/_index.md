@@ -43,7 +43,7 @@ the first session**
 
 ### 2. Words and vector space model
 
-* [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/02_coli_2021_notes.pdf) 
+* [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/02_coli_2021_handout.pdf) 
 
 <!---
 * The [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/02_Prepro.ipynb) for preprocessing
@@ -125,7 +125,7 @@ the first session**
 
 These lecture notes are just a supporting materials and, conditions allowing, they will be completed throughout the course.
 
-Download the file [here](https://github.com/albarron/academic-kickstart/row/master/files/coli/dit_coli_notes.pdf)(last update: 26 February, 2021)
+Download the file [here](https://github.com/albarron/academic-kickstart/raw/master/files/coli/dit_coli_notes.pdf)(last update: 26 February, 2021)
 
 <!---
 #### Beyond the course
