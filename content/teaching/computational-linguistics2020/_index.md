@@ -130,7 +130,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
   Top-performing model in [Evalita's 2020
   AMI](https://amievalita2020.github.io/) shared task<br />
   \[[pdf](http://ceur-ws.org/Vol-2765/paper117.pdf)\]
-  \[[video](https://vimeo.com/487827895)\]
+  \[[video](https://vimeo.com/487827751)\]
 
 * **Identifying Characters’ Lines in Original and Translated Plays. The case of
   Golden and Horan’s Class**<br />
