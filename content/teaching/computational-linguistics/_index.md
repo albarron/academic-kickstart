@@ -35,19 +35,20 @@ the first session**
 -->
 
 
-### 1. Introduction to Computational Linguistics (25/02/21)
+### 1. Introduction to Computational Linguistics
 <!---
 * [Lecture Notes](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/coli_2020_notes.pdf)
 -->
-* [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/01_coli_2021_handout.pdf)
+* \[25/02/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/01_coli_2021_handout.pdf)
 
 ### 2. Words and vector space model
 
-* [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/02_coli_2021_handout.pdf) 
-* [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_01/01_dit_coli_words.ipynb)
-
-* [Notebook on extracting tokens](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_02/02_dit_coli_words.ipynb)
-* [Notebook on rule-based sentiment analysys](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_02/03_dit_coli_words.ipynb)
+* \[26/02/21\] [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/02_coli_2021_handout.pdf) 
+* \[04/03/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_01/01_dit_coli_words.ipynb)
+<!---
+* \[05/03/21\] [Notebook on extracting tokens](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_02/02_dit_coli_words.ipynb)
+* \[05/03/21\] [Notebook on rule-based sentiment analysys](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_02/03_dit_coli_words.ipynb)
+-->
 
 <!---
 * The [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/02_Prepro.ipynb) for preprocessing
