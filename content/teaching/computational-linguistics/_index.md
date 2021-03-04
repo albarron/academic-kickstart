@@ -46,6 +46,9 @@ the first session**
 * [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/02_coli_2021_handout.pdf) 
 * [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_01/01_dit_coli_words.ipynb)
 
+* [Notebook on extracting tokens](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_02/02_dit_coli_words.ipynb)
+* [Notebook on rule-based sentiment analysys](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_02/03_dit_coli_words.ipynb)
+
 <!---
 * The [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/02_Prepro.ipynb) for preprocessing
 * The [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/03_Tokens.ipynb) for tokens and the space model
