@@ -135,10 +135,12 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 * **Identifying Characters’ Lines in Original and Translated Plays. The case of
   Golden and Horan’s Class**<br />
-  Student: Galletti, E.
+  Student: Galletti, E.<br />
+  \[[pdf](https://github.com/albarron/academic-kickstart/raw/master/files/coli/projects2020/dit_coli2020_project_galletti.pdf)\]
 
 * **Classifying An Imbalanced Dataset with CNN, RNN, and LSTM**<br />
-  Student: Yu, X.
+  Student: Yu, X.<br />
+  \[[pdf](https://github.com/albarron/academic-kickstart/raw/master/files/coli/projects2020/dit_coli2020_project_yu.pdf)\]
 
 
 ### Some project alternatives
