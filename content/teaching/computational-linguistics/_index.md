@@ -45,20 +45,13 @@ the first session**
 
 * \[26/02/21\] [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/02_coli_2021_handout.pdf) 
 * \[04/03/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_01/01_dit_coli_words.ipynb)
-* \[05/03/21\] [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_02/04_coli_2021_handout.pdf) 
-<!---
-* \[05/03/21\] [Notebook on extracting tokens](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_02/02_dit_coli_words.ipynb)
-* \[05/03/21\] [Notebook on rule-based sentiment analysys](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_02/03_dit_coli_words.ipynb)
--->
+* \[05/03/21\] [Slides on tokens + RB sentiment](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_02/04_coli_2021_handout.pdf) 
+* \[05/03/21\] [Notebook on extracting tokens](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_02/02_dit_coli_tokens.ipynb)
+* \[11/03/21\] [Notebook on rule-based sentiment analysys](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_02/03_dit_coli_words.ipynb)
 
-<!---
-* The [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/02_Prepro.ipynb) for preprocessing
-* The [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/03_Tokens.ipynb) for tokens and the space model
-* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/02_coli_2020.pdf) on tokens
-* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_02/03_coli_2020.pdf) on the vector space model and sentiment analysis
--->
 
 ### 3. Naive Bayes
+\[11/03/21\] Slides on Naïves Bayes
 <!---
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_03/04_coli_2020.pdf)
 * [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_03/04_NaiveBayes.ipynb)
