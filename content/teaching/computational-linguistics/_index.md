@@ -51,9 +51,9 @@ the first session**
 
 
 ### 3. Naive Bayes
-\[11/03/21\] Slides on Naïves Bayes
+* \[11/03/21\] [Slides on Naïve Bayes](https://github.com/albarron/academic-kickstart/raw/master/files/week_03/05_coli_2020.pdf)
 <!---
-* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_03/04_coli_2020.pdf)
+* 
 * [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_03/04_NaiveBayes.ipynb)
 -->
 
