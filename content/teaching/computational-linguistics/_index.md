@@ -52,10 +52,7 @@ the first session**
 
 ### 3. Naive Bayes
 * \[11/03/21\] [Slides on Naïve Bayes](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_03/05_coli_2021_handout.pdf)
-<!---
-* 
-* [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_03/04_NaiveBayes.ipynb)
--->
+* \[12/03/21\] [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_03/04_dit_coli_naivebayes.ipynb)
 
 ### 4. Word vectors
 <!---
