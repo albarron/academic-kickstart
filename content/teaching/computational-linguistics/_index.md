@@ -55,10 +55,9 @@ the first session**
 * \[12/03/21\] [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_03/04_dit_coli_naivebayes.ipynb)
 
 ### 4. Word vectors
-<!---
-* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_04/05_coli_2020.pdf)
-* [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_04/05_tf-idf.ipynb)
--->
+* \[18/03/21\] [Slides on vectors and tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/week_04/06_coli_2021.pdf)
+* \[18/03/21\] Nnotebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_04/05_dit_coli_tf-idf.ipynb)
+
 
 ### 5. From Word Counts to Meaning
 <!---
