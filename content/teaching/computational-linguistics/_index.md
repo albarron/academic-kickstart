@@ -60,10 +60,8 @@ the first session**
 
 
 ### 5. From Word Counts to Meaning
-<!---
-* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_05/06_coli_2020.pdf)
-* [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_05/06_topicmodeling.ipynb)
--->
+* \[19/03/21\] [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_04/07_coli_2021_handout.pdf)
+* \[19/03/21\] [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_04/06_dit_coli_topicmodeling.ipynb)
 
 ### 6. Training and Evaluation
 <!---
