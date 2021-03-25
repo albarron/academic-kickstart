@@ -64,10 +64,9 @@ the first session**
 * \[19/03/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_04/06_dit_coli_topicmodeling.ipynb)
 
 ### 6. Training and Evaluation
-<!---
-* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_05/07_coli_2020.pdf)
-* [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_05/07_trainingandevaluating.ipynb)
--->
+
+* \[25/03/21\][Slides on training and evaluation](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_05/08_coli_2021_handout.pdf)
+* \[25/03/21\][notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_05/07_dit_coli_traineval.ipynb)
 
 ### 7. Intro to LSA
 <!---
