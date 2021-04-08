@@ -71,10 +71,8 @@ the first session**
 ### Intermezzo
 
 ### 7. Intro to LSA
-<!---
-* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_06/08_coli_2020.pdf)
-* [notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_06/08_lsa.ipynb)
--->
+*  \[08/04/21\][Slides LSA and SVD](https://github.com/albarron/academic-kickstart/raw/master/files/week_06/09_coli_2021_handout.pdf)
+*  \[08/03/21\][notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_06/08_dit_coli_lsa.ipynb)
 
 ### 8. Intro to NN
 <!---
