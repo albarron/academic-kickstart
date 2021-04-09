@@ -75,10 +75,10 @@ the first session**
 *  \[08/03/21\][notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_06/08_dit_coli_lsa.ipynb)
 
 ### 8. Intro to NN
-<!---
-* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_07/09_coli_2020.pdf) about the perceptron
-* [Slides with "funny" drawings](https://github.com/albarron/academic-kickstart/blob/master/files/week_07/09_coli_2020_edited.pdf) about the perceptron
-* [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_07/09_nn.ipynb)a about the perceptron
+
+* \[09/04/21\][Slides on the perceptron](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_06/10_coli_2021_handout.pdf) 
+* \[09/04/21\][Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_06/09_dit_coli_nn.ipynb) on the perceptron
+<!---* 
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_07/10_coli_2020-handout.pdf) for the intro to neural networks
 * [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_07/10_backprop.ipynb) introducing neural networks and keras
 -->
