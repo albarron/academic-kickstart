@@ -154,14 +154,19 @@ Whereas you are supposed to apply the acquired knowledge on a problem of your ow
 
 <!---
 * Performing a small research project taking advantage of the COVID-19 corpus (see Beyond the course)
--->
-* Participating in the [ADoBO shared task](https://adobo-task.github.io) on automatic detection of borrowings.
-* Addressing some of the problems proposed in [EVALITA 2020](http://www.evalita.it/2020/tasks). There is [age and gender profiling](https://sites.google.com/view/tag-it-2020), [misogyny identification](https://amievalita2020.github.io/), and  [complexity evaluation](https://sites.google.com/view/accompl-it/home-page?authuser=0), among many others.
-* Participating in the [fake news detection challenge](https://sites.google.com/view/fakedes/home)
+--> 
+#### __Standard__ research
+
+
 * Performing research on propaganda identification in other languages than English. For inspiration, see this [IPM paper](https://www.scopus.com/record/display.uri?eid=2-s2.0-85065627668&origin=inward&txGid=9caa756c9a67cff1f3ae84fa6a79bfd2), this [EMNLP paper](https://www.aclweb.org/anthology/D19-1565/), or this [SemEval shared task](https://propaganda.qcri.org/semeval2020-task11/index.html)
 * Estimating the complexity of a text for a non-native speaker. For inspiration, see [READ-IT](http://www.italianlp.it/demo/read-it/)
 * Analysing the quality of Wikipedia articles across languages
 
+#### Shared Tasks
+
+* The [ADoBO shared task](https://adobo-task.github.io) on automatic detection of borrowings (deadline: 17th May 2021).
+* The [FakeDeS fake news detection challenge](https://sites.google.com/view/fakedes/home) (in Spanish): (deadline: 30th April 2021).
+* Some of the problems proposed in [EVALITA 2020](http://www.evalita.it/2020/tasks). There is [age and gender profiling](https://sites.google.com/view/tag-it-2020), [misogyny identification](https://amievalita2020.github.io/), and  [complexity evaluation](https://sites.google.com/view/accompl-it/home-page?authuser=0), among many others.
 <!---
 **Are you defending on the first/second appello**? Why not turning your project into a [CLIC-it](http://clic2020.ilc.cnr.it/en/home-2/) paper? The deadline is on 15/07/2020.
 -->
