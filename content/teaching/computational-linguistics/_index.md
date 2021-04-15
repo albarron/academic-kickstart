@@ -71,17 +71,16 @@ the first session**
 ### Intermezzo
 
 ### 7. Intro to LSA
-*  \[08/04/21\][Slides LSA and SVD](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_06/09_coli_2021_handout.pdf)
-*  \[08/03/21\][notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_06/08_dit_coli_lsa.ipynb)
+*  \[08/04/21\] [Slides LSA and SVD](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_06/09_coli_2021_handout.pdf)
+*  \[08/03/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_06/08_dit_coli_lsa.ipynb)
 
 ### 8. Intro to NN
 
-* \[09/04/21\][Slides on the perceptron](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_06/10_coli_2021_handout.pdf) 
-* \[09/04/21\][Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_06/09_dit_coli_nn.ipynb) on the perceptron
-<!---* 
-* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_07/10_coli_2020-handout.pdf) for the intro to neural networks
-* [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_07/10_backprop.ipynb) introducing neural networks and keras
--->
+* \[09/04/21\] [Slides on the perceptron](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_06/10_coli_2021_handout.pdf) 
+* \[09/04/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_06/09_dit_coli_nn.ipynb) on the perceptron
+ 
+* \[15/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/week_07/11_coli_2021-handout.pdf) for the intro to neural networks
+* \[15/04/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_07/10_dit_coli_backprop.ipynb) introducing neural networks and keras
 
 ### 9. Word Embeddings
 <!---
@@ -155,7 +154,7 @@ Whereas you are supposed to apply the acquired knowledge on a problem of your ow
 <!---
 * Performing a small research project taking advantage of the COVID-19 corpus (see Beyond the course)
 --> 
-#### __Standard__ research
+#### _Standard_ research
 
 
 * Performing research on propaganda identification in other languages than English. For inspiration, see this [IPM paper](https://www.scopus.com/record/display.uri?eid=2-s2.0-85065627668&origin=inward&txGid=9caa756c9a67cff1f3ae84fa6a79bfd2), this [EMNLP paper](https://www.aclweb.org/anthology/D19-1565/), or this [SemEval shared task](https://propaganda.qcri.org/semeval2020-task11/index.html)
