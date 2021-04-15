@@ -76,10 +76,9 @@ the first session**
 
 ### 8. Intro to NN
 
-* \[09/04/21\] [Slides on the perceptron](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_06/10_coli_2021_handout.pdf) 
+* \[09/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_06/10_coli_2021_handout.pdf) on the perceptron
 * \[09/04/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_06/09_dit_coli_nn.ipynb) on the perceptron
- 
-* \[15/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/week_07/11_coli_2021-handout.pdf) for the intro to neural networks
+* \[15/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_07/11_coli_2021-handout.pdf) introducing neural networks and keras
 * \[15/04/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_07/10_dit_coli_backprop.ipynb) introducing neural networks and keras
 
 ### 9. Word Embeddings
