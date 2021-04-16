@@ -82,8 +82,9 @@ the first session**
 * \[15/04/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_07/10_dit_coli_backprop.ipynb) introducing neural networks and keras
 
 ### 9. Word Embeddings
+
+* \[16/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_08/12_coli_2021_handout.pdf) on word2vec
 <!---
-* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_08/11_coli_2020-handout.pdf)
 * [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_08/12_coli_2020-handout.pdf) (hands on)
 * [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_08/11_embeddings.ipynb)
 -->
