@@ -84,10 +84,8 @@ the first session**
 ### 9. Word Embeddings
 
 * \[16/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_07/12_coli_2021_handout.pdf) on word2vec
-<!---
-* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_08/12_coli_2020-handout.pdf) (hands on)
-* [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_08/11_embeddings.ipynb)
--->
+* \[22/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_08/13_coli_2021_handout.pdf) on word embeddings
+* \[22/04/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_08/11_dit_coli_embeddings.ipynb)
 
 ### 10. Visualisation
 <!---
