@@ -88,10 +88,10 @@ the first session**
 * \[22/04/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_08/11_dit_coli_embeddings.ipynb)
 
 ### 10. Visualisation
-<!---
-* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_09/13_coli_2020-handout.pdf)
-* [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_09/12_viz.ipynb)
--->
+
+* \[23/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_08/14_coli_2021_handout.pdf) on visualization
+* \[23/04/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_08/12_dit_coli_viz.ipynb)
+
 
 ### 11. From document representations, towards sequences
 <!---
