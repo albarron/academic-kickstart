@@ -94,21 +94,17 @@ the first session**
 
 
 ### 11. From document representations, towards sequences
-<!---
-* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_09/14_coli_2020-handout.pdf)
--->
+* \[23/04/21\][Slides](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_08/15_coli_2021_handout.pdf)
 
 ### 12. Convolutions for text
-<!---
-* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_10/15_coli_2020-handout.pdf)
-* [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_10/13_cnn.ipynb)
--->
+
+* \[29/04/21\][Slides](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_09/16_coli_2021_handout.pdf)
+* \[29/04/21\][Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_09/13_dit_coli_cnn.ipynb)
+
 
 ### 13. Text is Sequential
-<!---
-* [Slides](https://github.com/albarron/academic-kickstart/blob/master/files/week_10/16_coli_2020-handout.pdf)
-* [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/week_10/14_rnn.ipynb)
--->
+* \[30/04/21\][Slides](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_09/17_coli_2021_handout.pdf)
+* \[30/04/21\][Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_09/14_dit_coli_rnn.ipynb)
 
 #### Lecture notes
 
