@@ -94,17 +94,24 @@ the first session**
 
 
 ### 11. From document representations, towards sequences
-* \[23/04/21\][Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_08/15_coli_2021_handout.pdf)
+* \[23/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_08/15_coli_2021_handout.pdf)
 
 ### 12. Convolutions for text
 
-* \[29/04/21\][Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_09/16_coli_2021_handout.pdf)
-* \[29/04/21\][Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_09/13_dit_coli_cnn.ipynb)
+* \[29/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_09/16_coli_2021_handout.pdf)
+* \[29/04/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_09/13_dit_coli_cnn.ipynb)
 
 
 ### 13. Text is Sequential
-* \[30/04/21\][Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_09/17_coli_2021_handout.pdf)
-* \[30/04/21\][Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_09/14_dit_coli_rnn.ipynb)
+* \[30/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_09/17_coli_2021_handout.pdf) on RNN
+* \[30/04/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_09/14_dit_coli_rnn.ipynb) on RNN
+
+* \[06/05/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/18_coli_2021_handout.pdf) on BiRNN
+
+* \[06/05/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/week_10/15_dit_coli_brnn.ipynb) on BiRNN
+
+### 14. Long Short-Term Memory Networks
+
 
 #### Lecture notes
 
