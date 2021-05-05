@@ -105,10 +105,8 @@ the first session**
 ### 13. Text is Sequential
 * \[30/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_09/17_coli_2021_handout.pdf) on RNN
 * \[30/04/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_09/14_dit_coli_rnn.ipynb) on RNN
-
 * \[06/05/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/18_coli_2021_handout.pdf) on BiRNN
-
-* \[06/05/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/week_10/15_dit_coli_brnn.ipynb) on BiRNN
+* \[06/05/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/15_dit_coli_brnn.ipynb) on BiRNN
 
 ### 14. Long Short-Term Memory Networks
 
