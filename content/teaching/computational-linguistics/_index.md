@@ -109,14 +109,14 @@ the first session**
 * \[06/05/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/15_dit_coli_brnn.ipynb) on BiRNN
 
 ### 14. Long Short-Term Memory Networks
+* \[06/05/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/19_coli_2021_handout.pdf) 
 
-
-#### Lecture notes
+<!-- #### Lecture notes
 
 These lecture notes are just a supporting materials and, conditions allowing, they will be completed throughout the course.
 
 Download the file [here](https://github.com/albarron/academic-kickstart/raw/master/files/coli/dit_coli_notes.pdf)(last update: 26 February, 2021)
-
+ -->
 <!---
 #### Beyond the course
 
