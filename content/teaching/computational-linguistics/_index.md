@@ -112,7 +112,8 @@ the first session**
 * \[06/05/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/19_coli_2021_handout.pdf) 
 * \[06/05/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/16_dit_coli_lstm.ipynb)
 * \[07/05/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/19_coli_2021_handout.pdf) on characters and generation
-* \[06/05/21\] Notebook coming soon
+* \[07/05/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/17_dit_coli_chars.ipynb) on characters
+* \[07/05/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/18_dit_coli_lstm-gen.ipynb) on generation
 
 <!-- #### Lecture notes
 
