@@ -111,7 +111,7 @@ the first session**
 ### 14. Long Short-Term Memory Networks
 * \[06/05/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/19_coli_2021_handout.pdf) 
 * \[06/05/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/16_dit_coli_lstm.ipynb)
-* \[07/05/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/19_coli_2021_handout.pdf) on characters and generation
+* \[07/05/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/20_coli_2021_handout.pdf) on characters and generation
 * \[07/05/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/17_dit_coli_chars.ipynb) on characters
 * \[07/05/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/18_dit_coli_lstm-gen.ipynb) on generation
 
