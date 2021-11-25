@@ -15,7 +15,7 @@ header:
 
 ## What an NLPer wishes (and does) when permeating a Translation Department
 
-{{ partial "fontawesome.html" "github" }} 
+{{< fa bath >}}
 *Summary*
 Even if conceived in the intersection of linguistics and computing science,
 natural language processing (NLP) has slowly turned into a more computational
