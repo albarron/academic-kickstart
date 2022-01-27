@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - J Silvestre-Cerda
-- Mercedes Garc\ıa-Mart\ınez
+- Mercedes García-Martínez
 - Alberto Barrón-Cedeño
 - P Rosso
 tags: []
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T16:35:11.172314Z'
+publishDate: '2022-01-27T18:00:28.689844Z'
 publication_types:
 - '1'
 abstract: ''

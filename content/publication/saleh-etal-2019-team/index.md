@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T16:35:01.604232Z'
+publishDate: '2022-01-27T18:00:05.290136Z'
 publication_types:
 - '1'
 abstract: We describe our submission to SemEval-2019 Task 4 on Hyperpartisan News

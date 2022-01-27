@@ -16,7 +16,7 @@ authors:
 - Giovanni Da San Martino
 - Alessandro Moschitti
 - Kareem Darwish
-- Lluı́s Màrquez
+- Lluís Màrquez
 - Shafiq Joty
 - Walid Magdy
 tags: []
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T16:35:08.481247Z'
+publishDate: '2022-01-27T18:00:21.226492Z'
 publication_types:
 - '1'
 abstract: ''

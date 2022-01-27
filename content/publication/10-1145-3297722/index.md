@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T16:35:01.871347Z'
+publishDate: '2022-01-27T18:00:06.243424Z'
 publication_types:
 - '2'
 abstract: 'We study the problem of automatic fact-checking, paying special attention

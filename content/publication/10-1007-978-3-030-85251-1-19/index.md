@@ -46,7 +46,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T16:34:59.845323Z'
+publishDate: '2022-01-27T18:00:00.798947Z'
 publication_types:
 - '1'
 abstract: 'We describe the fourth edition of the CheckThat! Lab, part of the 2021

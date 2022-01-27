@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Georgi Karadzhov
 - Preslav Nakov
-- Lluı́s Màrquez
+- Lluís Màrquez
 - Alberto Barrón-Cedeño
 - Ivan Koychev
 tags: []
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T16:35:04.790697Z'
+publishDate: '2022-01-27T18:00:13.802295Z'
 publication_types:
 - '1'
 abstract: 'Given the constantly growing proliferation of false claims online in recent

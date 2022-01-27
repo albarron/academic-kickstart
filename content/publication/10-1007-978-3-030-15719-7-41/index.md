@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T16:35:01.122444Z'
+publishDate: '2022-01-27T18:00:04.247934Z'
 publication_types:
 - '1'
 abstract: 'We introduce the second edition of the CheckThat! Lab, part of the 2019
@@ -44,6 +44,6 @@ abstract: 'We introduce the second edition of the CheckThat! Lab, part of the 20
   to decide whether the claim is factually true or false. Checkthat! provides a full
   evaluation framework, consisting of data in English (derived from fact-checking
   sources) and Arabic (gathered and annotated from scratch) and evaluation based on
-  mean average precision (MAP) for ranking and F$$_1$$1for classification tasks.'
+  mean average precision (MAP) for ranking and F1 for classification tasks.'
 publication: '*Advances in Information Retrieval*'
 ---

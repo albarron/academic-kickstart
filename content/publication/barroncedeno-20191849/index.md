@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T16:35:01.740827Z'
+publishDate: '2022-01-27T18:00:05.711560Z'
 publication_types:
 - '2'
 abstract: Propaganda is a mechanism to influence public opinion, which is inherently

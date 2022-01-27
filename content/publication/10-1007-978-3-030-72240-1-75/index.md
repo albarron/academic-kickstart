@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T16:34:59.553650Z'
+publishDate: '2022-01-27T18:00:00.555287Z'
 publication_types:
 - '1'
 abstract: We describe the fourth edition of the CheckThat! Lab, part of the 2021 Cross-Language
@@ -51,7 +51,7 @@ abstract: We describe the fourth edition of the CheckThat! Lab, part of the 2021
   on COVID-19). Task 2 asks to determine whether a claim in a tweet can be verified
   using a set of previously fact-checked claims. Task 3 asks to predict the veracity
   of a target news article and its topical domain. The evaluation is carried out using
-  mean average precision or precision at rank k for the ranking tasks, and F$$_1$$1for
+  mean average precision or precision at rank k for the ranking tasks, and F1 for
   the classification tasks.
 publication: '*Advances in  Information Retrieval*'
 ---

@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Enamul Hoque
 - Shafiq Joty
-- Lluı́s Màrquez
+- Lluís Màrquez
 - Alberto Barrón-Cedeño
 - Giovanni Da San Martino
 - Alessandro Moschitti
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T16:35:06.459853Z'
+publishDate: '2022-01-27T18:00:17.268267Z'
 publication_types:
 - '1'
 abstract: We present an interactive system to provide effective and efficient search

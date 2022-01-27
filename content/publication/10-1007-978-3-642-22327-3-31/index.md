@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T16:35:10.806990Z'
+publishDate: '2022-01-27T18:00:27.693105Z'
 publication_types:
 - '1'
 abstract: 'Internet has made available huge amounts of information, also source code.
@@ -39,7 +39,7 @@ abstract: 'Internet has made available huge amounts of information, also source 
   source code reuse, a nearly investigated problem. Our preliminary experiments, based
   on character n-grams comparison, show that considering different sections of the
   code (i.e., comments, code, reserved words, etc.), leads to different results. When
-  considering three programming languages: C+þinspace+, Java, and Python, the best
-  result is obtained when comments are discarded and the entire source code is considered.'
+  considering three programming languages: C++, Java, and Python, the best result
+  is obtained when comments are discarded and the entire source code is considered.'
 publication: '*Natural Language Processing and Information Systems*'
 ---

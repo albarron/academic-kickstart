@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T16:34:59.985567Z'
+publishDate: '2022-01-27T18:00:01.129966Z'
 publication_types:
 - '1'
 abstract: We describe the third edition of the CheckThat! Lab, which is part of the
@@ -48,6 +48,6 @@ abstract: We describe the third edition of the CheckThat! Lab, which is part of 
   Web pages. Finally, the lab offers a fifth task that asks to predict the check-worthiness
   of the claims made in English political debates and speeches. CheckThat! features
   a full evaluation framework. The evaluation is carried out using mean average precision
-  or precision at rank k for ranking tasks, and F$$_1$$ for classification tasks.
+  or precision at rank k for ranking tasks, and F1 for classification tasks.
 publication: '*Advances in Information Retrieval*'
 ---

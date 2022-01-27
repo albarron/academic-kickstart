@@ -8,7 +8,7 @@ authors:
 - Israa Jaradat
 - Pepa Gencheva
 - Alberto Barrón-Cedeño
-- Lluı́s Màrquez
+- Lluís Màrquez
 - Preslav Nakov
 tags: []
 categories: []
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T16:35:03.317532Z'
+publishDate: '2022-01-27T18:00:10.127601Z'
 publication_types:
 - '1'
 abstract: We present ClaimRank, an online system for detecting check-worthy claims.

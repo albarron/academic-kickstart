@@ -6,11 +6,11 @@ title: 'The TALP-UPC Approach to System Selection: Asiya Features and Pairwise C
 subtitle: ''
 summary: ''
 authors:
-- Lluı́s Formiga
+- Lluís Formiga
 - Meritxell Gonzàlez
 - Alberto Barrón-Cedeño
 - José A. R. Fonollosa
-- Llu\ś Màrquez
+- Lluís Màrquez
 tags: []
 categories: []
 date: '2013-08-01'
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T16:35:10.239785Z'
+publishDate: '2022-01-27T18:00:25.435345Z'
 publication_types:
 - '1'
 abstract: ''

@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T16:35:03.630469Z'
+publishDate: '2022-01-27T18:00:10.634105Z'
 publication_types:
 - '1'
 abstract: 'Community Question Answering (cQA) forums are very popular nowadays, as

@@ -8,7 +8,7 @@ authors:
 - Alberto Barrón-Cedeño
 - Cristina España-Bonet
 - Josu Boldoba
-- Lluı́s Màrquez
+- Lluís Màrquez
 tags: []
 categories: []
 date: '2015-07-01'
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T16:35:08.206784Z'
+publishDate: '2022-01-27T18:00:20.293718Z'
 publication_types:
 - '1'
 abstract: ''

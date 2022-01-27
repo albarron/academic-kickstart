@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T16:35:01.449891Z'
+publishDate: '2022-01-27T18:00:05.151924Z'
 publication_types:
 - '1'
 abstract: We propose a multi-task deep-learning approach for estimating the check-worthiness

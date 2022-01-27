@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T16:35:12.890261Z'
+publishDate: '2022-01-27T18:00:33.693605Z'
 publication_types:
 - '1'
 abstract: Automatic plagiarism detection considering a reference corpus compares a

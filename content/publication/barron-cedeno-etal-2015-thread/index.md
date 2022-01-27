@@ -9,7 +9,7 @@ authors:
 - Simone Filice
 - Giovanni Da San Martino
 - Shafiq Joty
-- Lluı́s Màrquez
+- Lluís Màrquez
 - Preslav Nakov
 - Alessandro Moschitti
 tags: []
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T16:35:07.588875Z'
+publishDate: '2022-01-27T18:00:18.670544Z'
 publication_types:
 - '1'
 abstract: ''

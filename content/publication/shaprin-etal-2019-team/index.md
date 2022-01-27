@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T16:35:02.001903Z'
+publishDate: '2022-01-27T18:00:06.784304Z'
 publication_types:
 - '1'
 abstract: We describe the system submitted by the Jack Ryder team to SemEval-2019

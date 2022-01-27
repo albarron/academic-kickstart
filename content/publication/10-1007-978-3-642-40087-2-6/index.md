@@ -5,7 +5,7 @@ title: 'PAN@FIRE: Overview of the Cross-Language !ndian Text Re-Use Detection Co
 subtitle: ''
 summary: ''
 authors:
-- Alberto Barròn-Cedeño
+- Alberto Barrón-Cedeño
 - Paolo Rosso
 - Sobha Lalitha Devi
 - Paul Clough
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T16:35:09.333163Z'
+publishDate: '2022-01-27T18:00:23.288465Z'
 publication_types:
 - '1'
 abstract: The development of models for automatic detection of text re-use and plagiarism

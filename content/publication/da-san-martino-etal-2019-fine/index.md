@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T16:35:02.882305Z'
+publishDate: '2022-01-27T18:00:09.248706Z'
 publication_types:
 - '1'
 abstract: 'Propaganda aims at influencing people′s mindset with the purpose of advancing

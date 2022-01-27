@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Meritxell Gonzàlez
 - Alberto Barrón-Cedeño
-- Lluı́s Màrquez
+- Lluís Màrquez
 tags: []
 categories: []
 date: '2014-06-01'
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T16:35:08.777308Z'
+publishDate: '2022-01-27T18:00:21.831969Z'
 publication_types:
 - '1'
 abstract: ''

@@ -6,12 +6,12 @@ title: 'The TALP-UPC Phrase-Based Translation Systems for WMT13: System Combinat
 subtitle: ''
 summary: ''
 authors:
-- Lluı́s Formiga
+- Lluís Formiga
 - Marta R. Costa-jussà
 - José B. Mariño
 - José A. R. Fonollosa
 - Alberto Barrón-Cedeño
-- Llu\ś Màrquez
+- Lluís Màrquez
 tags: []
 categories: []
 date: '2013-08-01'
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T16:35:10.082111Z'
+publishDate: '2022-01-27T18:00:24.848723Z'
 publication_types:
 - '1'
 abstract: ''

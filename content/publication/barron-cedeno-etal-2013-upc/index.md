@@ -7,9 +7,9 @@ subtitle: ''
 summary: ''
 authors:
 - Alberto Barrón-Cedeño
-- Lluı́s Màrquez
+- Lluís Màrquez
 - Maria Fuentes
-- Horacio Rodr\ǵuez
+- Horacio Rodríguez
 - Jordi Turmo
 tags: []
 categories: []
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T16:35:09.162252Z'
+publishDate: '2022-01-27T18:00:22.845466Z'
 publication_types:
 - '1'
 abstract: ''

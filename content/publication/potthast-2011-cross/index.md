@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T16:35:11.001465Z'
+publishDate: '2022-01-27T18:00:28.166556Z'
 publication_types:
 - '2'
 abstract: 'Cross-language plagiarism detection deals with the automatic identification
