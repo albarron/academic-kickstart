@@ -1,0 +1,40 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: On Automatic Plagiarism Detection Based on n-Grams Comparison
+subtitle: ''
+summary: ''
+authors:
+- Alberto Barrón-Cedeño
+- Paolo Rosso
+tags: []
+categories: []
+date: '2009-01-01'
+lastmod: 2022-01-27T17:35:13+01:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-01-27T16:35:13.341037Z'
+publication_types:
+- '1'
+abstract: When automatic plagiarism detection is carried out considering a reference
+  corpus, a suspicious text is compared to a set of original documents in order to
+  relate the plagiarised text fragments to their potential source. One of the biggest
+  difficulties in this task is to locate plagiarised fragments that have been modified
+  (by rewording, insertion or deletion, for example) from the source text.
+publication: '*Advances in Information Retrieval*'
+---
