@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: An empirical analysis of nmt-derived interlingual embeddings and their use
+title: An empirical analysis of NMT-derived interlingual embeddings and their use
   in parallel sentence identification
 subtitle: ''
 summary: ''
@@ -13,8 +13,8 @@ authors:
 tags: []
 categories: []
 date: '2017-01-01'
-lastmod: 2022-01-26T18:49:38+01:00
-featured: false
+lastmod: 2022-01-31T17:00:06+01:00
+featured: true
 draft: false
 
 # Featured image
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T18:00:15.245617Z'
+publishDate: '2022-01-31T16:00:06.438447Z'
 publication_types:
 - '2'
 abstract: ''

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Crosslanguage source code re-use detection
+title: Cross-language source code re-use detection
 subtitle: ''
 summary: ''
 authors:
@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2014-01-01'
-lastmod: 2022-01-26T18:49:28+01:00
+lastmod: 2022-01-31T16:38:31+01:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T18:00:22.266164Z'
+publishDate: '2022-01-31T15:58:03.192126Z'
 publication_types:
 - '1'
 abstract: ''

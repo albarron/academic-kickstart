@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2010-05-01'
-lastmod: 2022-01-27T17:35:12+01:00
+lastmod: 2022-01-31T16:38:38+01:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T18:00:33.340882Z'
+publishDate: '2022-01-31T15:58:13.464903Z'
 publication_types:
 - '1'
 abstract: The paper presents an approach for constructing a weighted bilingual dictionary

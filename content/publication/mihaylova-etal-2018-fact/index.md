@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2018-04-01'
-lastmod: 2022-01-27T17:35:03+01:00
+lastmod: 2022-01-31T16:38:23+01:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T18:00:10.634105Z'
+publishDate: '2022-01-31T15:57:53.388345Z'
 publication_types:
 - '1'
 abstract: 'Community Question Answering (cQA) forums are very popular nowadays, as

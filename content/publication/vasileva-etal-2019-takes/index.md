@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2019-09-01'
-lastmod: 2022-01-27T17:35:01+01:00
+lastmod: 2022-01-31T16:38:20+01:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T18:00:05.151924Z'
+publishDate: '2022-01-31T15:57:49.992198Z'
 publication_types:
 - '1'
 abstract: We propose a multi-task deep-learning approach for estimating the check-worthiness

@@ -23,7 +23,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2022-01-27T17:34:59+01:00
+lastmod: 2022-01-31T16:38:18+01:00
 featured: false
 draft: false
 
@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T18:00:00.555287Z'
+publishDate: '2022-01-31T15:57:47.741288Z'
 publication_types:
 - '1'
 abstract: We describe the fourth edition of the CheckThat! Lab, part of the 2021 Cross-Language

@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2019-07-01'
-lastmod: 2022-01-27T17:35:02+01:00
+lastmod: 2022-01-31T16:38:21+01:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T18:00:07.511219Z'
+publishDate: '2022-01-31T15:57:50.913168Z'
 publication_types:
 - '1'
 abstract: We present proppy, the first publicly available real-world, real-time propaganda

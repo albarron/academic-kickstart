@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Fine-Grained Analysis of Propaganda in News Article
+title: Fine-Grained Analysis of Propaganda in News Articles
 subtitle: ''
 summary: ''
 authors:
@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2019-11-01'
-lastmod: 2022-01-27T17:35:02+01:00
+lastmod: 2022-01-31T16:38:22+01:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T18:00:09.248706Z'
+publishDate: '2022-01-31T15:57:52.151385Z'
 publication_types:
 - '1'
 abstract: 'Propaganda aims at influencing people′s mindset with the purpose of advancing

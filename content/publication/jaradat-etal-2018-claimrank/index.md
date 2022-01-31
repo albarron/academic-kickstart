@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2018-06-01'
-lastmod: 2022-01-27T17:35:03+01:00
+lastmod: 2022-01-31T16:38:22+01:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T18:00:10.127601Z'
+publishDate: '2022-01-31T15:57:52.617483Z'
 publication_types:
 - '1'
 abstract: We present ClaimRank, an online system for detecting check-worthy claims.

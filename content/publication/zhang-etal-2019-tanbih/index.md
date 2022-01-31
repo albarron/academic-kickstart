@@ -21,8 +21,8 @@ authors:
 tags: []
 categories: []
 date: '2019-11-01'
-lastmod: 2022-01-27T17:35:03+01:00
-featured: false
+lastmod: 2022-01-31T17:00:06+01:00
+featured: true
 draft: false
 
 # Featured image
@@ -39,17 +39,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T18:00:09.709780Z'
+publishDate: '2022-01-31T16:00:06.109674Z'
 publication_types:
 - '1'
-abstract: We introduce Tanbih, a news aggregator with intelligent analysis tools to
-  help readers understanding what′s behind a news story. Our system displays news
-  grouped into events and generates media profiles that show the general factuality
-  of reporting, the degree of propagandistic content, hyper-partisanship, leading
-  political ideology, general frame of reporting, and stance with respect to various
-  claims and topics of a news outlet. In addition, we automatically analyse each article
-  to detect whether it is propagandistic and to determine its stance with respect
-  to a number of controversial topics.
+abstract: ''
 publication: '*Proceedings of the 2019 Conference on Empirical Methods in Natural
   Language Processing and the 9th International Joint Conference on Natural Language
   Processing (EMNLP-IJCNLP): System Demonstrations*'

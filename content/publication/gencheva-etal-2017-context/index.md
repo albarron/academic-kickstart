@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2017-09-01'
-lastmod: 2022-01-27T16:05:31+01:00
+lastmod: 2022-01-31T16:38:25+01:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-27T18:00:15.102372Z'
+publishDate: '2022-01-31T15:57:56.491651Z'
 publication_types:
 - '1'
 abstract: 'In the context of investigative journalism, we address the problem of automatically
