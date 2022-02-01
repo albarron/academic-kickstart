@@ -15,7 +15,7 @@ role: Senior assistant professor
 # Organizations/Affiliations
 organizations:
 - name: Università di Bologna
-  url: "www.unibo.it"
+  url: "https://www.unibo.it/sitoweb/a.barron"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include .
@@ -28,13 +28,13 @@ interests:
 education:
   courses:
   - course: PhD in Computing Science
-    institution: Universitat Politecnica de Valencia 
+    institution: Universitat Politècnica de València, Spain
     year: 2012
   - course: MEng in Computing Science 
-    institution: Universitat Politecnica de Valencia 
+    institution: Universitat Politècnica de València, Spain
     year: 2009
   - course: BEng in Computing 
-    institution: Universidad Nacional Autonoma de Mexico
+    institution: Universidad Nacional Autónoma de México, Mexico
     year: 2002
 
 # Social/Academic Networking
@@ -63,10 +63,17 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
 ---
 
-Alberto Barrón-Cedeño
+Alberto is Senior assistant professor at [Università di Bologna](https://dit.unibo.it) since 2019. Alberto has been working on the (cross-language) assessment of text looking at different aspects such as originality (e.g., plagiarism detection) and intent (e.g., propaganda, hate speech).
+
+Before landing at UniBO, he spent 5 years as scientist at [QCRI](http://www.qcri.org) and 2 as research fellow at [TALP](http://www.talp.upc.edu/).
+
+<!-- Reference: https://raw.githubusercontent.com/wowchemy/starter-hugo-academic/master/content/authors/admin/_index.md  -->
