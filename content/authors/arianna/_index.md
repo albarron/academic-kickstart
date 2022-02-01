@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Alberto Barrón-Cedeño
+name: Arianna Muti
 
 # Username (this should match the folder name)
 authors:
-- admin
+- arianna
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Senior assistant professor
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -21,21 +21,16 @@ organizations:
 bio: My research interests include .
 
 interests:
-- Natural Language Processing
-- Information Retrieval
-- Machine Learning
+- Automatic misogyny identification 
 
 education:
   courses:
-  - course: PhD in Computing Science
-    institution: Universitat Politecnica de Valencia 
-    year: 2012
-  - course: MEng in Computing Science 
-    institution: Universitat Politecnica de Valencia 
-    year: 2009
-  - course: BEng in Computing 
-    institution: Universidad Nacional Autonoma de Mexico
-    year: 2002
+  - course: Master Language, Society and Communication
+    institution: Università di Bologna
+    year: 2021
+  - course: Lingue e Letterature Straniere
+    institution: Università di Bologna
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +39,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:'arianna.muti2 [at] unibo.it'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/_albarron_
+  link: https://twitter.com/aramona4
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=0q0QVG4AAAAJ
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/albarron
+  link: https://github.com/arimuti
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,12 +56,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "arianna.muti2 [at] unibo.it"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- PhD Students
 ---
 
-Alberto Barrón-Cedeño
+Arianna Muti
