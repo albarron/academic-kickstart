@@ -21,16 +21,19 @@ organizations:
 bio: My research interests include .
 
 interests:
-- Assessing MT suitability based on the source text
+- MT  and QE
+- Natural Language Processing
+- Audiovisual Translation
+- Trekking and Climbing
 
 education:
   courses:
-  # - course: MSc in Digital Methods for the Humanities
-  #   institution: Athens University of Economics and Business, Greece
-  #   year: 2020
-  # - course: MA in Applied Linguistics
-  #   institution: University of Nottingham, UK
-  #   year: 2019
+  - course: MA in Specialized Translation (EN,DE)
+    institution: Università di Bologna, Italy
+    year: ongoing
+  - course: BA in Intercultural and Linguistic Mediation (EN, DE, JP)
+    institution: Università di Bologna, Italy
+    year: 2019
   # - course: BA in English Language and Literature
   #   institution: National and Kapodistrian University of Athens, Greece
   #   year: 2018
@@ -49,9 +52,12 @@ social:
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: 
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/FrancescoFernicola
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/francesco-fernicola-69a0771b7/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
