@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Former master student
+role: Graduate student
 
 # Organizations/Affiliations
 organizations:
-- name: Università di Bologna
-  url: "https://www.unibo.it/"
+- name: Universität des Saarlandes
+  url: "https://saarland-informatics-campus.de"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include .
