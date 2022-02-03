@@ -25,15 +25,15 @@ interests:
 
 education:
   courses:
-  # - course: MSc in Digital Methods for the Humanities
-  #   institution: Athens University of Economics and Business, Greece
-  #   year: 2020
-  # - course: MA in Applied Linguistics
-  #   institution: University of Nottingham, UK
-  #   year: 2019
-  # - course: BA in English Language and Literature
-  #   institution: National and Kapodistrian University of Athens, Greece
-  #   year: 2018
+  - course: MSc in Language Science and Technology
+    institution: Universität des Saarlandes, Germany
+    year: ongoing
+  - course: MA in Specialized Translation
+    institution: Università di Bologna, Italy
+    year: 2021
+  - course: BA in Italian Language
+    institution: Sichuan International Studies University, China
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,9 +43,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:'shzh00003 [at] stud.uni-saarland.de'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/%E5%86%B0%E9%A3%8E-%E5%BC%A0%E5%8F%B2-892992204/
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: 
@@ -67,4 +67,5 @@ user_groups:
 - Alumni
 ---
 
+Before starting her masters in Saarland, Shibinfeng worked on the [identification of emotions in Italian opera lyrics](http://ceur-ws.org/Vol-2769/paper_58.pdf). 
 
