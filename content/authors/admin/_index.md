@@ -72,8 +72,8 @@ user_groups:
 - Researchers
 ---
 
-Alberto is Senior assistant professor at [Università di Bologna](https://dit.unibo.it) since 2019. Alberto has been working on the (cross-language) assessment of text looking at different aspects such as originality (e.g., plagiarism detection) and intent (e.g., propaganda, hate speech).
+I am Senior assistant professor at [Università di Bologna](https://dit.unibo.it) since 2019. I have been working on the (cross-language) assessment of text looking at different aspects such as originality (e.g., plagiarism detection) and intent (e.g., propaganda, hate speech).
 
-Before landing at UniBO, he spent 5 years as scientist at [QCRI](http://www.qcri.org) and 2 as research fellow at [TALP](http://www.talp.upc.edu/).
+Before landing at UniBO, I spent 5 years as scientist at [QCRI](http://www.qcri.org) and 2 as research fellow at [TALP](http://www.talp.upc.edu/).
 
 <!-- Reference: https://raw.githubusercontent.com/wowchemy/starter-hugo-academic/master/content/authors/admin/_index.md  -->
