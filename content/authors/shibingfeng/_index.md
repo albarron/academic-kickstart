@@ -22,6 +22,7 @@ bio: My research interests include .
 
 interests:
 - Emotion identification in Italian opera
+- Machine translation
 
 education:
   courses:
