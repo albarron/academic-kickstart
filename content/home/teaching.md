@@ -63,14 +63,8 @@ subtitle = "Università di Bologna"
  css_class = ""
 +++
 
-A current student? Go to **2021**. <br />(2020 editions kept just for the record)
-
-### 2021
+### 2021-2022
 
 92586 - [Computational Linguistics]({{< ref "teaching/computational-linguistics/_index.md">}}) - 6 cfu <br />
-84929 - [Game and Software Localization (Modulo 2)]({{< ref "teaching/game-and-software-localization/_index.md">}}) - 5 cfu
-
-### 2020 
-
-92586 - [Computational Linguistics]({{< ref "teaching/computational-linguistics2020/_index.md">}}) - 6 cfu <br />
-84929 - [Game and Software Localization (Modulo 2)]({{< ref "teaching/game-and-software-localization2020/_index.md">}})
+96829 - [Profession-based Research](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/470074) - 8 cfu <br />
+84929 - [Software Localization](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/439178) - 5 cfu
