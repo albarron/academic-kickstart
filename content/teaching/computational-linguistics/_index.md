@@ -255,7 +255,7 @@ See my [UniBO website](https://www.unibo.it/sitoweb/a.barron)
 * **Assessing Semantic Similarity between Original Texts and
 Machine Translations**<br />
   Student: Hopkins, D.<br />
-  \[[pdf]()\]
+  \[[pdf](https://github.com/albarron/academic-kickstart/raw/master/files/coli/projects2021/dit_coli2021_project_hopkins.pdf)\]
 * **Definition extraction on food-related Wikipedia articles**<br />
   Student: Martinelli, M.<br />
   \[[pdf]()\]
