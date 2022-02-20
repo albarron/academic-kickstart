@@ -151,7 +151,7 @@ Download the file [here](https://github.com/albarron/academic-kickstart/raw/mast
 ## Projects
 
 The [evaluation](#evaluation) is based on a project. If you want 
-some inspiration, look at the [projects presented last year](../computational-linguistics2020/#coli20_projects)
+some inspiration, look at the [projects presented last year](#coli_projects)
 
 ### Some project ideas
 
@@ -214,6 +214,49 @@ Seminars will be carried out with slides and coding will be carried out with jup
 ## Office hours
 
 See my [UniBO website](https://www.unibo.it/sitoweb/a.barron)
+
+## Submitted projects (up to February 2022) {#coli_projects}
+
+### 2021-2022
+**add proper links to pdfs**
+
+* **Assessing Semantic Similarity between Original Texts and
+Machine Translations**<br />
+  Student: Hopkins, D.<br />
+  \[[pdf]()\]
+* **Definition extraction on food-related Wikipedia articles**<br />
+  Student: Martinelli, M.<br />
+  \[[pdf]()\]
+
+### 2020-2021
+
+* **Identifying Characters’ Lines in Original and Translated Plays. The case of
+  Golden and Horan’s Class**<br />
+  Student: Galletti, E.<br />
+  \[[pdf](https://github.com/albarron/academic-kickstart/raw/master/files/coli/projects2020/dit_coli2020_project_galletti.pdf)\]
+
+* **Classifying An Imbalanced Dataset with CNN, RNN, and LSTM**<br />
+  Student: Yu, X.<br />
+  \[[pdf](https://github.com/albarron/academic-kickstart/raw/master/files/coli/projects2020/dit_coli2020_project_yu.pdf)\]
+
+### 2019-2020
+
+* **AriEmozione: Identifying Emotions in Opera Verses**<br />
+  Students: Fernicola F. and Zhang S.<br />
+  Developed under [CRICC](https://site.unibo.it/cricc/it);
+  published in [CLiC-it 2020](http://clic2020.ilc.cnr.it/it/home/)<br />
+  \[[pdf](http://ceur-ws.org/Vol-2769/paper_58.pdf)\]
+  \[[video](https://vimeo.com/515280902)\]
+
+* **UniBO@AMI: A Multi-Class Approach to Misogyny and Aggressiveness
+  Identification on Twitter Posts Using AlBERTo**<br />
+  Student: Muti, A.<br />
+  Top-performing model in [Evalita's 2020
+  AMI](https://amievalita2020.github.io/) shared task<br />
+  \[[pdf](http://ceur-ws.org/Vol-2765/paper117.pdf)\]
+  \[[video](https://vimeo.com/487827751)\]
+
+
 
 ## For the record
 
