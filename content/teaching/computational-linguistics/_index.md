@@ -150,8 +150,7 @@ Download the file [here](https://github.com/albarron/academic-kickstart/raw/mast
 
 ## Projects
 
-The [evaluation](#evaluation) is based on a project. If you want 
-some inspiration, look at the [projects presented last year](#coli_projects)
+The [evaluation](#evaluation) is based on a project. Look for inspiration, in the [projects presented in previous years](#coli_projects)
 
 ### Some project ideas
 
@@ -218,7 +217,6 @@ See my [UniBO website](https://www.unibo.it/sitoweb/a.barron)
 ## Submitted projects (up to February 2022) {#coli_projects}
 
 ### 2021-2022
-**add proper links to pdfs**
 
 * **Assessing Semantic Similarity between Original Texts and
 Machine Translations**<br />
