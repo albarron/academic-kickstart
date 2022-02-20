@@ -20,10 +20,9 @@ Visit the [official UniBO website](https://www.unibo.it/en/teaching/course-unit-
 ## Prerequisites
 
 ### A gentle introduction to [Python](https://www.python.org/) {#topic0}
-* This topic **wont be covered in class**.
-* This introduction was offered to the DIT community during the first three weeks of February 2022.  
-* If you did not attend, [visit the website](https://github.com/TinfFoil/learning_dit_python) and study the contents: slides, Jupyter notebooks, and video recordings from the 2021 edition of the course
-* Do it  **before the second session** 
+* This topic **wont be covered in class**. It was offered to the DIT community [earlier this year](https://github.com/TinfFoil/learning_dit_python).  
+* You did not attend? All contents (slides, notebooks, 2021 video recordings) are [here](https://github.com/TinfFoil/learning_dit_python).
+* Either you attended or not, I suggest you to **do all the exercises before the third session**.
 
 <!---
 #### 1. Introduction to Python scripting
@@ -39,84 +38,116 @@ Whereas the contents could be (slightly) adapted according to the students skill
 <!---
 * [Lecture Notes](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/coli_2020_notes.pdf)
 -->
-* \[21/02/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/01_coli_2021_handout.pdf)
+* \[21/02/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/01_coli_handout.pdf)
 
 ### 2. Words and vector space model
 
-* \[23/02/21\] [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/02_coli_2021_handout.pdf) 
+* \[23/02/21\] Slides on tokens
+<!-- [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/02_coli_2021_handout.pdf) 
+ -->
+### *Up to this point, the calendar is subject to modification*
 
-### *Up to this point, the calendar is subject to changes*
+* \[28/03/21\] Notebook
+* \[02/03/21\] Slides on tokens + RB sentiment
+* \[02/03/21\] Notebook on extracting tokens
+* \[07/03/21\] Notebook on rule-based sentiment analysis
 
-* \[28/03/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_01/01_dit_coli_words.ipynb)
+<!-- * \[28/03/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_01/01_dit_coli_words.ipynb)
 * \[02/03/21\] [Slides on tokens + RB sentiment](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_02/04_coli_2021_handout.pdf) 
 * \[02/03/21\] [Notebook on extracting tokens](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_02/02_dit_coli_tokens.ipynb)
 * \[07/03/21\] [Notebook on rule-based sentiment analysis](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_02/03_dit_coli_rulebasedsentiment.ipynb)
-
+ -->
 
 ### 3. Naive Bayes
-* \[07/03/21\] [Slides on Naïve Bayes](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_03/05_coli_2021_handout.pdf)
+* \[07/03/21\] Slides on Naïve Bayes
+* \[09/03/21\] Notebook on Naïve Bayes
+<!-- * \[07/03/21\] [Slides on Naïve Bayes](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_03/05_coli_2021_handout.pdf)
 * \[09/03/21\] [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_03/04_dit_coli_naivebayes.ipynb)
+ -->
 
 ### 4. Word vectors
-* \[14/03/21\] [Slides on vectors and tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_04/06_coli_2021_handout.pdf)
-* \[16/03/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_04/05_dit_coli_tf-idf.ipynb)
+* \[14/03/21\] Slides on vectors and tf-idf
+* \[16/03/21\] Notebook
 
+<!-- * \[14/03/21\] [Slides on vectors and tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_04/06_coli_2021_handout.pdf)
+* \[16/03/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_04/05_dit_coli_tf-idf.ipynb)
+ -->
 
 ### 5. From Word Counts to Meaning
-* \[21/03/21\] [Slides introducing topic modeling](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_04/07_coli_2021_handout.pdf)
-* \[21/03/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_04/06_dit_coli_topicmodeling.ipynb)
+* \[21/03/21\] Slides introducing topic modeling
+* \[21/03/21\] Notebook
+<!-- * \[21/03/21\] [Slides introducing topic modeling](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_04/07_coli_2021_handout.pdf)
+* \[21/03/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_04/06_dit_coli_topicmodeling.ipynb) -->
 
 ### 6. Training and Evaluation
+* \[23/03/21\] Slides on training and evaluation
+* \[23/03/21\] Notebook
+<!-- * \[23/03/21\] [Slides on training and evaluation](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_05/08_coli_2021_handout.pdf)
+* \[23/03/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_05/07_dit_coli_traineval.ipynb) -->
 
-* \[23/03/21\][Slides on training and evaluation](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_05/08_coli_2021_handout.pdf)
-* \[23/03/21\][notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_05/07_dit_coli_traineval.ipynb)
-
-### Intermezzo
+<!-- ### Intermezzo -->
 
 ### 7. Intro to LSA
-*  \[28/03/21\] [Slides LSA and SVD](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_06/09_coli_2021_handout.pdf)
-*  \[28/03/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_06/08_dit_coli_lsa.ipynb)
+*  \[28/03/21\] Slides LSA and SVD
+*  \[28/03/21\] Notebook
+<!-- *  \[28/03/21\] [Slides LSA and SVD](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_06/09_coli_2021_handout.pdf)
+*  \[28/03/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_06/08_dit_coli_lsa.ipynb) -->
 
 ### 8. Intro to NN
-
-* \[30/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_06/10_coli_2021_handout.pdf) on the perceptron
-* \[30/04/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_06/09_dit_coli_nn.ipynb) on the perceptron
+* \[30/03/21\] Slides
+* \[30/03/21\] Notebook
+* \[04/04/21\] Slides introducing neural networks and keras
+* \[04/04/21\] Notebook introducing neural networks and keras
+<!-- * \[30/03/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_06/10_coli_2021_handout.pdf) on the perceptron
+* \[30/03/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_06/09_dit_coli_nn.ipynb) on the perceptron
 * \[04/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_07/11_coli_2021_handout.pdf) introducing neural networks and keras
-* \[04/04/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_07/10_dit_coli_backprop.ipynb) introducing neural networks and keras
+* \[04/04/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_07/10_dit_coli_backprop.ipynb) introducing neural networks and keras -->
 
 ### 9. Word Embeddings
-
-* \[06/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_07/12_coli_2021_handout.pdf) on word2vec
+* \[06/04/21\] Slides on word2vec
+* \[11/04/21\] Slides on word embeddings
+* \[11/04/21\] Notebook
+<!-- * \[06/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_07/12_coli_2021_handout.pdf) on word2vec
 * \[11/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_08/13_coli_2021_handout.pdf) on word embeddings
-* \[11/04/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_08/11_dit_coli_embeddings.ipynb)
+* \[11/04/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_08/11_dit_coli_embeddings.ipynb) -->
 
 ### 10. Visualisation
-
-* \[13/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_08/14_coli_2021_handout.pdf) on visualization
-* \[13/04/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_08/12_dit_coli_viz.ipynb)
-
+* \[13/04/21\] Slides on visualization
+* \[13/04/21\] Notebook
+* \[13/04/21\] Slides on visualization
+* \[13/04/21\] Notebook
 
 ### 11. From document representations, towards sequences
-* \[13/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_08/15_coli_2021_handout.pdf)
+* \[13/04/21\] Slides
+<!-- * \[13/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_08/15_coli_2021_handout.pdf) -->
 
 ### 12. Convolutions for text
-
-* \[20/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_09/16_coli_2021_handout.pdf)
-* \[20/04/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_09/13_dit_coli_cnn.ipynb)
-
+* \[20/04/21\] Slides
+* \[20/04/21\] Notebook
+<!-- * \[20/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_09/16_coli_2021_handout.pdf)
+* \[20/04/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_09/13_dit_coli_cnn.ipynb) -->
 
 ### 13. Text is Sequential
-* \[27/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_09/17_coli_2021_handout.pdf) on RNN
+* \[27/04/21\] Slides on RNN
+* \[27/04/21\] Notebook on RNN
+* \[02/05/21\] Slides on BiRNN
+* \[02/05/21\] Notebook on BiRNN
+<!-- * \[27/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_09/17_coli_2021_handout.pdf) on RNN
 * \[27/04/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_09/14_dit_coli_rnn.ipynb) on RNN
 * \[02/05/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/18_coli_2021_handout.pdf) on BiRNN
-* \[02/05/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/15_dit_coli_brnn.ipynb) on BiRNN
+* \[02/05/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/15_dit_coli_brnn.ipynb) on BiRNN -->
 
 ### 14. Long Short-Term Memory Networks
-* \[02/05/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/19_coli_2021_handout.pdf) 
+* \[02/05/21\] Slides
+* \[02/05/21\] Notebook
+* \[04/05/21\] Slides on characters and generation
+* \[04/05/21\] Notebook on characters
+* \[04/05/21\] Notebook on generation
+<!-- * \[02/05/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/19_coli_2021_handout.pdf) 
 * \[02/05/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/16_dit_coli_lstm.ipynb)
 * \[04/05/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/20_coli_2021_handout.pdf) on characters and generation
 * \[04/05/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/17_dit_coli_chars.ipynb) on characters
-* \[04/05/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/18_dit_coli_lstm-gen.ipynb) on generation
+* \[04/05/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/18_dit_coli_lstm-gen.ipynb) on generation -->
 
 <!-- #### Lecture notes
 
@@ -166,7 +197,7 @@ Whereas you are supposed to apply the acquired knowledge on a problem of your ow
 * Estimating the complexity of a text for a non-native speaker. For inspiration, see [READ-IT](http://www.italianlp.it/demo/read-it/)
 * Analysing the quality of Wikipedia articles across languages
 
-#### Shared Tasks
+#### Shared Tasks (to be updated)
 
 * The [ADoBO shared task](https://adobo-task.github.io) on automatic detection of borrowings (deadline: 17th May 2021).
 * The [FakeDeS fake news detection challenge](https://sites.google.com/view/fakedes/home) (in Spanish): (deadline: 30th April 2021).
@@ -180,9 +211,12 @@ Whereas you are supposed to apply the acquired knowledge on a problem of your ow
 ### Core
 
 * Hobson Lane, Cole Howard, Hannes Hapke (2019). [Natural Language Processing in Action Understanding, analyzing, and generating text with Python](https://www.manning.com/books/natural-language-processing-in-action). Manning Publications.
-* Dan Jurafsky and James H. Martin. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/). 3rd ed. draft. December 30, 2020
 
 ### Optional
+
+* Dan Jurafsky and James H. Martin. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/). 3rd ed. draft. Dec, 2020
+
+* Dirk Hovy. 2021. [Text Analysis in Python for Social Scientists](https://www.cambridge.org/core/elements/abs/text-analysis-in-python-for-social-scientists/BFAB0A3604C7E29F6198EA2F7941DFF3). Cambridge University Press. 2021
 
 * Steven Bird, Ewan Klein, and Edward Loper. [Natural Language Processing with Python](http://www.nltk.org/book/)
 * Yoav Goldberg. (2017). [Neural Network Methods for Natural Language Processing](https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037) (G. Hirst, ed.). Morgan & Claypool Publishers.
@@ -197,14 +231,14 @@ The course is a combination of seminar and practical sessions. In either case, a
 
 ## Evaluation {#evaluation}
 
-The student will work on addressing a problem within her **own research** interests with the knowledge acquired during the course. Upon agreement of the topic, the student will work on solving the problem and will produce a written report. A poster session will be organized before at the end of the course (or before every _appello_ )in which the students will present their research work.
+The student will work on addressing a problem within her **own research** interests with the knowledge acquired during the course. Upon agreement of the topic, the student will work on solving the problem and will produce a written report.
 
-**_The final evaluation will be computed as a combination of both report and poster presentation._**
+**_The final evaluation will be computed as a combination of both report and the oral exam around it._**
 
 ### Important points
 
-* If the conditions (covid) are not favourable, we wont have a poster session. In that case, your project should be submitted **1 week before the appello** to be considered valid.
-* Do you want to target **30L**? Your final project **should be submitted to a conference for publication**. Talk to me well in advance if you aim this, as it would require my heavy involvement and a high quality will be necessary.
+* Your project should be submitted **1 week before the appello** to be considered valid.
+* Do you want to target **30L**? Conference quality is a good way (but it is not the only one!. Talk to me well in advance if you aim this, as it would require my own heavy commitment to reach the necessary quality.
 
 ## Teaching tools
 
@@ -214,7 +248,7 @@ Seminars will be carried out with slides and coding will be carried out with jup
 
 See my [UniBO website](https://www.unibo.it/sitoweb/a.barron)
 
-## Submitted projects (up to February 2022) {#coli_projects}
+## Previous final projects (submitted by February 2022) {#coli_projects}
 
 ### 2021-2022
 
