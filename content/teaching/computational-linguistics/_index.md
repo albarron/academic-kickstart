@@ -42,12 +42,12 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 ### 2. Words and vector space model
 
-* \[23/02/21\] Slides on tokens
-<!-- [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/02_coli_2021_handout.pdf) 
- -->
+* \[23/02/21\] [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/02_coli_handout.pdf) 
+* \[28/03/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_01/01_dit_coli_words.ipynb)
+
 ### *Up to this point, the calendar is subject to modification*
 
-* \[28/03/21\] Notebook
+
 * \[02/03/21\] Slides on tokens + RB sentiment
 * \[02/03/21\] Notebook on extracting tokens
 * \[07/03/21\] Notebook on rule-based sentiment analysis
