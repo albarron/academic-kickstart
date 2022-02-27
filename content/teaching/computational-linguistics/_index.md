@@ -40,25 +40,22 @@ Whereas the contents could be (slightly) adapted according to the students skill
 -->
 * \[21/02/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/01_coli_handout.pdf)
 
-### 2. Words and vector space model
+### 2. Words and the vector space model
 
 * \[23/02/21\] [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/02_coli_handout.pdf) 
-* \[28/03/21\] [Notebook](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/02_dit_coli_words.ipynb)
-
-### *Up to this point, the calendar is subject to modification*
-
-
+* \[23/03/21\] [Notebook on tokens and normalisation](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/02_dit_coli_words.ipynb)
+* \[28/02/21\] [Notebook on tokens and vector space model](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_02/03_dit_coli_tokens.ipynb)
 * \[02/03/21\] Slides on tokens + RB sentiment
-* \[02/03/21\] Notebook on extracting tokens
 * \[07/03/21\] Notebook on rule-based sentiment analysis
 
 <!-- * \[28/03/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_01/01_dit_coli_words.ipynb)
 * \[02/03/21\] [Slides on tokens + RB sentiment](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_02/04_coli_2021_handout.pdf) 
-* \[02/03/21\] [Notebook on extracting tokens](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_02/02_dit_coli_tokens.ipynb)
+* \[02/03/21\] 
 * \[07/03/21\] [Notebook on rule-based sentiment analysis](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_02/03_dit_coli_rulebasedsentiment.ipynb)
  -->
+### *Up to this point, the calendar is subject to modification*
 
-### 3. Naive Bayes
+### 3. Naïve Bayes
 * \[07/03/21\] Slides on Naïve Bayes
 * \[09/03/21\] Notebook on Naïve Bayes
 <!-- * \[07/03/21\] [Slides on Naïve Bayes](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_03/05_coli_2021_handout.pdf)
