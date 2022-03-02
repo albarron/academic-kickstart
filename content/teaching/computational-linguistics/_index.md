@@ -38,119 +38,108 @@ Whereas the contents could be (slightly) adapted according to the students skill
 <!---
 * [Lecture Notes](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/coli_2020_notes.pdf)
 -->
-* \[21/02/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/01_coli_handout.pdf)
+* \[21/02/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/01_coli_handout.pdf)
 
 ### 2. Words and the vector space model
 
-* \[23/02/21\] [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/02_coli_handout.pdf) 
-* \[23/03/21\] [Notebook on tokens and normalisation](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/02_dit_coli_words.ipynb)
-* \[28/02/21\] [Notebook on tokens and vector space 
-model](https://github.com/albarron/academic-kickstart/blob/master/files/coli/ 
-week_02/03_dit_coli_tokens.ipynb)
-* \[02/03/21\] [Slides on tokens + RB 
-sentiment](https://github.com/albarron/academic-kickstart/raw/master/files/coli/
-week_02/04_coli_handout.pdf) 
-* \[02/03/21\] [Notebook on rule-based sentiment 
-analysis](https://github.com/albarron/academic-kickstart/raw/master/files/
-coli / week_02/04_dit_coli_rulebasedsentiment.ipynb)
+* \[23/02/22\] [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/02_coli_handout.pdf) 
+* \[23/03/22\] [Notebook on tokens and normalisation](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/02_dit_coli_words.ipynb)
+* \[28/02/22\] [Notebook on tokens and vector space model](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_02/03_dit_coli_tokens.ipynb)
+* \[02/03/22\] [Slides on tokens + RB sentiment](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_02/04_coli_handout.pdf) 
+* \[02/03/22\] [Notebook on rule-based sentiment analysis](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_02/04_dit_coli_rulebasedsentiment.ipynb)
 
-<!-- 
-
-* \[02/03/21\] 
-
- -->
 ### *Up to this point, the calendar is subject to modification*
 
 ### 3. Naïve Bayes
-* \[07/03/21\] Slides on Naïve Bayes
-* \[09/03/21\] Notebook on Naïve Bayes
-<!-- * \[07/03/21\] [Slides on Naïve Bayes](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_03/05_coli_2021_handout.pdf)
-* \[09/03/21\] [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_03/04_dit_coli_naivebayes.ipynb)
+* \[07/03/22\] Slides on Naïve Bayes
+* \[09/03/22\] Notebook on Naïve Bayes
+<!-- * \[07/03/22\] [Slides on Naïve Bayes](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_03/05_coli_2021_handout.pdf)
+* \[09/03/22\] [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_03/04_dit_coli_naivebayes.ipynb)
  -->
 
 ### 4. Word vectors
-* \[14/03/21\] Slides on vectors and tf-idf
-* \[16/03/21\] Notebook
+* \[14/03/22\] Slides on vectors and tf-idf
+* \[16/03/22\] Notebook
 
-<!-- * \[14/03/21\] [Slides on vectors and tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_04/06_coli_2021_handout.pdf)
-* \[16/03/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_04/05_dit_coli_tf-idf.ipynb)
+<!-- * \[14/03/22\] [Slides on vectors and tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_04/06_coli_2021_handout.pdf)
+* \[16/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_04/05_dit_coli_tf-idf.ipynb)
  -->
 
 ### 5. From Word Counts to Meaning
-* \[21/03/21\] Slides introducing topic modeling
-* \[21/03/21\] Notebook
-<!-- * \[21/03/21\] [Slides introducing topic modeling](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_04/07_coli_2021_handout.pdf)
-* \[21/03/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_04/06_dit_coli_topicmodeling.ipynb) -->
+* \[21/03/22\] Slides introducing topic modeling
+* \[21/03/22\] Notebook
+<!-- * \[21/03/22\] [Slides introducing topic modeling](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_04/07_coli_2021_handout.pdf)
+* \[21/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_04/06_dit_coli_topicmodeling.ipynb) -->
 
 ### 6. Training and Evaluation
-* \[23/03/21\] Slides on training and evaluation
-* \[23/03/21\] Notebook
-<!-- * \[23/03/21\] [Slides on training and evaluation](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_05/08_coli_2021_handout.pdf)
-* \[23/03/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_05/07_dit_coli_traineval.ipynb) -->
+* \[23/03/22\] Slides on training and evaluation
+* \[23/03/22\] Notebook
+<!-- * \[23/03/22\] [Slides on training and evaluation](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_05/08_coli_2021_handout.pdf)
+* \[23/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_05/07_dit_coli_traineval.ipynb) -->
 
 <!-- ### Intermezzo -->
 
 ### 7. Intro to LSA
-*  \[28/03/21\] Slides LSA and SVD
-*  \[28/03/21\] Notebook
-<!-- *  \[28/03/21\] [Slides LSA and SVD](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_06/09_coli_2021_handout.pdf)
-*  \[28/03/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_06/08_dit_coli_lsa.ipynb) -->
+*  \[28/03/22\] Slides LSA and SVD
+*  \[28/03/22\] Notebook
+<!-- *  \[28/03/22\] [Slides LSA and SVD](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_06/09_coli_2021_handout.pdf)
+*  \[28/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_06/08_dit_coli_lsa.ipynb) -->
 
 ### 8. Intro to NN
-* \[30/03/21\] Slides
-* \[30/03/21\] Notebook
-* \[04/04/21\] Slides introducing neural networks and keras
-* \[04/04/21\] Notebook introducing neural networks and keras
-<!-- * \[30/03/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_06/10_coli_2021_handout.pdf) on the perceptron
-* \[30/03/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_06/09_dit_coli_nn.ipynb) on the perceptron
-* \[04/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_07/11_coli_2021_handout.pdf) introducing neural networks and keras
-* \[04/04/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_07/10_dit_coli_backprop.ipynb) introducing neural networks and keras -->
+* \[30/03/22\] Slides
+* \[30/03/22\] Notebook
+* \[04/04/22\] Slides introducing neural networks and keras
+* \[04/04/22\] Notebook introducing neural networks and keras
+<!-- * \[30/03/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_06/10_coli_2021_handout.pdf) on the perceptron
+* \[30/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_06/09_dit_coli_nn.ipynb) on the perceptron
+* \[04/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_07/11_coli_2021_handout.pdf) introducing neural networks and keras
+* \[04/04/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_07/10_dit_coli_backprop.ipynb) introducing neural networks and keras -->
 
 ### 9. Word Embeddings
-* \[06/04/21\] Slides on word2vec
-* \[11/04/21\] Slides on word embeddings
-* \[11/04/21\] Notebook
-<!-- * \[06/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_07/12_coli_2021_handout.pdf) on word2vec
-* \[11/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_08/13_coli_2021_handout.pdf) on word embeddings
-* \[11/04/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_08/11_dit_coli_embeddings.ipynb) -->
+* \[06/04/22\] Slides on word2vec
+* \[11/04/22\] Slides on word embeddings
+* \[11/04/22\] Notebook
+<!-- * \[06/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_07/12_coli_2021_handout.pdf) on word2vec
+* \[11/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_08/13_coli_2021_handout.pdf) on word embeddings
+* \[11/04/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_08/11_dit_coli_embeddings.ipynb) -->
 
 ### 10. Visualisation
-* \[13/04/21\] Slides on visualization
-* \[13/04/21\] Notebook
-* \[13/04/21\] Slides on visualization
-* \[13/04/21\] Notebook
+* \[13/04/22\] Slides on visualization
+* \[13/04/22\] Notebook
+* \[13/04/22\] Slides on visualization
+* \[13/04/22\] Notebook
 
 ### 11. From document representations, towards sequences
-* \[13/04/21\] Slides
-<!-- * \[13/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_08/15_coli_2021_handout.pdf) -->
+* \[13/04/22\] Slides
+<!-- * \[13/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_08/15_coli_2021_handout.pdf) -->
 
 ### 12. Convolutions for text
-* \[20/04/21\] Slides
-* \[20/04/21\] Notebook
-<!-- * \[20/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_09/16_coli_2021_handout.pdf)
-* \[20/04/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_09/13_dit_coli_cnn.ipynb) -->
+* \[20/04/22\] Slides
+* \[20/04/22\] Notebook
+<!-- * \[20/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_09/16_coli_2021_handout.pdf)
+* \[20/04/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_09/13_dit_coli_cnn.ipynb) -->
 
 ### 13. Text is Sequential
-* \[27/04/21\] Slides on RNN
-* \[27/04/21\] Notebook on RNN
-* \[02/05/21\] Slides on BiRNN
-* \[02/05/21\] Notebook on BiRNN
-<!-- * \[27/04/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_09/17_coli_2021_handout.pdf) on RNN
-* \[27/04/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_09/14_dit_coli_rnn.ipynb) on RNN
-* \[02/05/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/18_coli_2021_handout.pdf) on BiRNN
-* \[02/05/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/15_dit_coli_brnn.ipynb) on BiRNN -->
+* \[27/04/22\] Slides on RNN
+* \[27/04/22\] Notebook on RNN
+* \[02/05/22\] Slides on BiRNN
+* \[02/05/22\] Notebook on BiRNN
+<!-- * \[27/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_09/17_coli_2021_handout.pdf) on RNN
+* \[27/04/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_09/14_dit_coli_rnn.ipynb) on RNN
+* \[02/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/18_coli_2021_handout.pdf) on BiRNN
+* \[02/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/15_dit_coli_brnn.ipynb) on BiRNN -->
 
 ### 14. Long Short-Term Memory Networks
-* \[02/05/21\] Slides
-* \[02/05/21\] Notebook
-* \[04/05/21\] Slides on characters and generation
-* \[04/05/21\] Notebook on characters
-* \[04/05/21\] Notebook on generation
-<!-- * \[02/05/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/19_coli_2021_handout.pdf) 
-* \[02/05/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/16_dit_coli_lstm.ipynb)
-* \[04/05/21\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/20_coli_2021_handout.pdf) on characters and generation
-* \[04/05/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/17_dit_coli_chars.ipynb) on characters
-* \[04/05/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/18_dit_coli_lstm-gen.ipynb) on generation -->
+* \[02/05/22\] Slides
+* \[02/05/22\] Notebook
+* \[04/05/22\] Slides on characters and generation
+* \[04/05/22\] Notebook on characters
+* \[04/05/22\] Notebook on generation
+<!-- * \[02/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/19_coli_2021_handout.pdf) 
+* \[02/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/16_dit_coli_lstm.ipynb)
+* \[04/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/20_coli_2021_handout.pdf) on characters and generation
+* \[04/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/17_dit_coli_chars.ipynb) on characters
+* \[04/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/18_dit_coli_lstm-gen.ipynb) on generation -->
 
 <!-- #### Lecture notes
 
