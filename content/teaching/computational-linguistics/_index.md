@@ -44,14 +44,20 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 * \[23/02/21\] [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/02_coli_handout.pdf) 
 * \[23/03/21\] [Notebook on tokens and normalisation](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/02_dit_coli_words.ipynb)
-* \[28/02/21\] [Notebook on tokens and vector space model](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_02/03_dit_coli_tokens.ipynb)
-* \[02/03/21\] Slides on tokens + RB sentiment
-* \[07/03/21\] Notebook on rule-based sentiment analysis
+* \[28/02/21\] [Notebook on tokens and vector space 
+model](https://github.com/albarron/academic-kickstart/blob/master/files/coli/ 
+week_02/03_dit_coli_tokens.ipynb)
+* \[02/03/21\] [Slides on tokens + RB 
+sentiment](https://github.com/albarron/academic-kickstart/raw/master/files/coli/
+week_02/04_coli_handout.pdf) 
+* \[02/03/21\] [Notebook on rule-based sentiment 
+analysis](https://github.com/albarron/academic-kickstart/raw/master/files/
+coli / week_02/04_dit_coli_rulebasedsentiment.ipynb)
 
-<!-- * \[28/03/21\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_01/01_dit_coli_words.ipynb)
-* \[02/03/21\] [Slides on tokens + RB sentiment](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_02/04_coli_2021_handout.pdf) 
+<!-- 
+
 * \[02/03/21\] 
-* \[07/03/21\] [Notebook on rule-based sentiment analysis](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_02/03_dit_coli_rulebasedsentiment.ipynb)
+
  -->
 ### *Up to this point, the calendar is subject to modification*
 
