@@ -48,22 +48,21 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[02/03/22\] [Slides on tokens + RB sentiment](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_02/04_coli_handout.pdf) 
 * \[02/03/22\] [Notebook on rule-based sentiment analysis](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_02/04_dit_coli_rulebasedsentiment.ipynb)
 
-### *Up to this point, the calendar is subject to modification*
-
 ### 3. Naïve Bayes
-* \[07/03/22\] Slides on Naïve Bayes
-* \[09/03/22\] Notebook on Naïve Bayes
-<!-- * \[07/03/22\] [Slides on Naïve Bayes](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_03/05_coli_2021_handout.pdf)
-* \[09/03/22\] [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_03/04_dit_coli_naivebayes.ipynb)
- -->
+* \[07/03/22\] [Slides on Naïve Bayes](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_03/05_coli_handout.pdf)
+* \[09/03/22\] [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_03/05_dit_coli_naivebayes.ipynb)
+
 
 ### 4. Word vectors
 * \[14/03/22\] Slides on vectors and tf-idf
 * \[16/03/22\] Notebook
 
+
 <!-- * \[14/03/22\] [Slides on vectors and tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_04/06_coli_2021_handout.pdf)
 * \[16/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_04/05_dit_coli_tf-idf.ipynb)
  -->
+
+### *Up to this point, the calendar is subject to modification*
 
 ### 5. From Word Counts to Meaning
 * \[21/03/22\] Slides introducing topic modeling
