@@ -58,7 +58,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[14/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_04/07_dit_coli_tf-idf.ipynb)
 
 ### 5. From Word Counts to Meaning
-* \[16/03/22\] [Slides introducing topic modeling](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_04/08_coli_handout.pdf)
+* \[16/03/22\] [Slides introducing topic modeling](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_04/08_dit_coli_handout.pdf)
 * \[16/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_04/08_dit_coli_topicmodeling.ipynb) 
 
 ### 6. Training and Evaluation
