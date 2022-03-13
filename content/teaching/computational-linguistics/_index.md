@@ -54,21 +54,21 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 
 ### 4. Word vectors
-* \[14/03/22\] Slides on vectors and tf-idf
-* \[16/03/22\] Notebook
+* \[14/03/22\] [Slides on vectors and tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_04/07_dit_coli_handout.pdf)
+* \[14/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_04/07_dit_coli_tf-idf.ipynb)
 
 
-<!-- * \[14/03/22\] [Slides on vectors and tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_04/06_coli_2021_handout.pdf)
-* \[16/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_04/05_dit_coli_tf-idf.ipynb)
+<!-- * \[14/03/22\] 
+* \[16/03/22\] 
  -->
 
-### *Up to this point, the calendar is subject to modification*
-
 ### 5. From Word Counts to Meaning
-* \[21/03/22\] Slides introducing topic modeling
-* \[21/03/22\] Notebook
+* \[16/03/22\] Slides introducing topic modeling
+* \[16/03/22\] Notebook
 <!-- * \[21/03/22\] [Slides introducing topic modeling](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_04/07_coli_2021_handout.pdf)
 * \[21/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_04/06_dit_coli_topicmodeling.ipynb) -->
+
+### *Up to this point, the calendar is subject to modification*
 
 ### 6. Training and Evaluation
 * \[23/03/22\] Slides on training and evaluation
