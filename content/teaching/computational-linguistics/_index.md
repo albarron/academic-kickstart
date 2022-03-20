@@ -62,18 +62,16 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[16/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_04/08_dit_coli_topicmodeling.ipynb) 
 
 ### 6. Training and Evaluation
-* \[23/03/22\] Slides on training and evaluation
-* \[23/03/22\] Notebook
-<!-- * \[23/03/22\] [Slides on training and evaluation](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_05/08_coli_2021_handout.pdf)
-* \[23/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_05/07_dit_coli_traineval.ipynb) -->
+* \[21/03/22\] [Slides on training and evaluation](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_05/09_dit_coli_handout.pdf)
+* \[21/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_05/09_dit_coli_traineval.ipynb)
 
 ### *Up to this point, the calendar is subject to modification*
 
 <!-- ### Intermezzo -->
 
 ### 7. Intro to LSA
-*  \[28/03/22\] Slides LSA and SVD
-*  \[28/03/22\] Notebook
+*  \[23/03/22\] Slides LSA and SVD
+*  \[23/03/22\] Notebook
 <!-- *  \[28/03/22\] [Slides LSA and SVD](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_06/09_coli_2021_handout.pdf)
 *  \[28/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_06/08_dit_coli_lsa.ipynb) -->
 
