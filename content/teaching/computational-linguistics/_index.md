@@ -74,14 +74,12 @@ Whereas the contents could be (slightly) adapted according to the students skill
 <!-- ### Intermezzo -->
 
 ### 8. Intro to NN
-* \[28/03/22\] Slides
-* \[28/03/22\] Notebook
+* \[28/03/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_06/11_dit_coli_handout.pdf) on the perceptron
+* \[28/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_06/11_dit_coli_nn.ipynb) on the perceptron
 * \[30/03/22\] Slides introducing neural networks and keras
 * \[30/03/22\] Notebook introducing neural networks and keras
-<!-- * \[30/03/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_06/10_coli_2021_handout.pdf) on the perceptron
-* \[30/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_06/09_dit_coli_nn.ipynb) on the perceptron
-* \[04/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_07/11_coli_2021_handout.pdf) introducing neural networks and keras
-* \[04/04/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_07/10_dit_coli_backprop.ipynb) introducing neural networks and keras -->
+<!-- * \[30/03/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_07/11_coli_2021_handout.pdf) introducing neural networks and keras
+* \[30/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_07/10_dit_coli_backprop.ipynb) introducing neural networks and keras -->
 
 ### *Up to this point, the calendar is subject to modification*
 
