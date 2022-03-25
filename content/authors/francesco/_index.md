@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:'francesco.fernicola [at] studio.unibo.it'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:'daimon.f [at] outlook.com'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/
@@ -70,7 +70,7 @@ email: "francesco.fernicola [at] studio.unibo.it"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Alumni
 ---
 
 
