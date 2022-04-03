@@ -83,11 +83,8 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 ### 9. Word Embeddings
 * \[04/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_07/13_dit_coli_handout.pdf) on word2vec
-* \[06/04/22\] Slides on word embeddings
-* \[06/04/22\] Notebook
-<!-- * \[06/04/22\] 
-* \[11/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_08/13_coli_2021_handout.pdf) on word embeddings
-* \[11/04/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_08/11_dit_coli_embeddings.ipynb) -->
+* \[06/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_07/14_dit_coli_handout.pdf) on word embeddings
+* \[06/04/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_07/14_dit_coli_embeddings.ipynb)
 
 ### *Up to this point, the calendar is subject to modification*
 
