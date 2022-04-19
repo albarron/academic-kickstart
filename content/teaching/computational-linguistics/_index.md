@@ -96,13 +96,13 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[20/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_08/15_dit_coli_handout.pdf) 
 * \[20/04/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_08/15_dit_coli_d2v.ipynb)
 
-### 12. Convolutions for text
+### 11. Convolutions for text
 * \[20/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_09/16_dit_coli_handout.pdf)
 * \[20/04/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_09/16_dit_coli_cnn.ipynb)
 
 ### *Up to this point, the calendar is subject to modification*
 
-### 13. Text is Sequential
+### 12. Text is Sequential
 * \[27/04/22\] Slides on RNN
 * \[27/04/22\] Notebook on RNN
 * \[02/05/22\] Slides on BiRNN
@@ -112,7 +112,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[02/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/18_coli_2021_handout.pdf) on BiRNN
 * \[02/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/15_dit_coli_brnn.ipynb) on BiRNN -->
 
-### 14. Long Short-Term Memory Networks
+### 13. Long Short-Term Memory Networks
 * \[02/05/22\] Slides
 * \[02/05/22\] Notebook
 * \[04/05/22\] Slides on characters and generation
