@@ -154,7 +154,7 @@ Download the file [here](https://github.com/albarron/academic-kickstart/raw/mast
 * [Gensim's guide](https://radimrehurek.com/gensim/corpora/textcorpus.html) to build corpora with dictionaries
 -->
 
-## Projects
+## <a id="projects"></a>Projects
 
 The [evaluation](#evaluation) is based on a project. Look for inspiration, in the [projects presented in previous years](#coli_projects)
 
