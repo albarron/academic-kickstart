@@ -86,23 +86,23 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[06/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_07/14_dit_coli_handout.pdf) on word embeddings
 * \[06/04/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_07/14_dit_coli_embeddings.ipynb)
 
-### *Up to this point, the calendar is subject to modification*
-
-### 10. Visualisation
+<!-- ### 10. Visualisation
+  I have decided not to offer this lecture anymore
 * \[13/04/22\] Slides on visualization
 * \[13/04/22\] Notebook
-* \[13/04/22\] Slides on visualization
-* \[13/04/22\] Notebook
+ -->
 
-### 11. From document representations, towards sequences
-* \[13/04/22\] Slides
-<!-- * \[13/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_08/15_coli_2021_handout.pdf) -->
+### 10. Doc2Vec
+* \[20/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_08/15_dit_coli_handout.pdf) 
+* \[20/04/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_08/15_dit_coli_d2v.ipynb)
 
 ### 12. Convolutions for text
 * \[20/04/22\] Slides
 * \[20/04/22\] Notebook
 <!-- * \[20/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_09/16_coli_2021_handout.pdf)
 * \[20/04/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_09/13_dit_coli_cnn.ipynb) -->
+
+### *Up to this point, the calendar is subject to modification*
 
 ### 13. Text is Sequential
 * \[27/04/22\] Slides on RNN
