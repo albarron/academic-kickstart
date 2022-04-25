@@ -100,17 +100,16 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[27/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_09/16_dit_coli_handout.pdf)
 * \[27/04/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_09/16_dit_coli_cnn.ipynb)
 
-### *Up to this point, the calendar is subject to modification*
-
 ### 12. Text is Sequential
-* \[02/05/22\] (https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/17_dit_coli_handout.pdf) on RNN
-* \[02/05/22\] (https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/17_dit_coli_rnn.ipynb) on RNN
+* \[02/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/17_dit_coli_handout.pdf) on RNN
+* \[02/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/17_dit_coli_rnn.ipynb) on  RNN
 * \[04/05/22\] Slides on BiRNN
 * \[04/05/22\] Notebook on BiRNN
-<!-- * \[27/04/22\] [Slides]
-* \[27/04/22\] [Notebook]
+<!-- 
 * \[02/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/18_coli_2021_handout.pdf) on BiRNN
 * \[02/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/15_dit_coli_brnn.ipynb) on BiRNN -->
+
+### *Up to this point, the calendar is subject to modification*
 
 ### 13. Long Short-Term Memory Networks
 * \[02/05/22\] Slides
