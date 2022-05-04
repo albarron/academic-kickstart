@@ -105,14 +105,14 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[02/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/17_dit_coli_rnn.ipynb) on  RNN
 * \[04/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/18_dit_coli_handout.pdf) on BiRNN and LSTM
 * \[04/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/18_dit_coli_brnn.ipynb) on BiRNN 
+* \[04/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/18_dit_coli_lstm.ipynb) on LSTM
 <!-- ### 13. Long Short-Term Memory Networks -->
 <!-- * \[04/05/22\] Slides -->
-* \[04/05/22\] Notebook
 * \[09/05/22\] Slides on characters and generation
 * \[09/05/22\] Notebook on characters
 * \[09/05/22\] Notebook on generation
 <!-- * \[02/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/19_coli_2021_handout.pdf) 
-* \[02/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/16_dit_coli_lstm.ipynb)
+* \[02/05/22\] 
 * \[04/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/20_coli_2021_handout.pdf) on characters and generation
 * \[04/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/17_dit_coli_chars.ipynb) on characters
 * \[04/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/18_dit_coli_lstm-gen.ipynb) on generation -->
