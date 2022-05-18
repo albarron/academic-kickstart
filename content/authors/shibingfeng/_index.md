@@ -70,3 +70,5 @@ user_groups:
 
 Before starting her masters in Saarland, Shibinfeng worked on the [identification of emotions in Italian opera lyrics](http://ceur-ws.org/Vol-2769/paper_58.pdf). 
 
+**Masters dissertation**<br/>
+Zhang, Shibingfeng (2021) [Emotion Identification in Italian Opera](https://amslaurea.unibo.it/23510/). Università di Bologna, Corso di Studio in Specialized translation - Forli

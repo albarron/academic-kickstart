@@ -67,4 +67,6 @@ user_groups:
 - Alumni
 ---
 
+**Masters dissertation**<br/>
+Martinelli, Margherita (2022) [Methods of Definition Extraction and Linking for Food Recipes](https://amslaurea.unibo.it/25308/). Università di Bologna, Corso di Studio in Specialized translation - Forli
 

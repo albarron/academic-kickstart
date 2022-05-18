@@ -30,7 +30,7 @@ education:
   courses:
   - course: MA in Specialized Translation (EN,DE)
     institution: Università di Bologna, Italy
-    year: ongoing
+    year: 2022
   - course: BA in Intercultural and Linguistic Mediation (EN, DE, JP)
     institution: Università di Bologna, Italy
     year: 2019
@@ -73,4 +73,6 @@ user_groups:
 - Alumni
 ---
 
-
+**Masters dissertation**<br/>
+Fernicola, Francesco (2022) [Return to the Source: Assessing Machine Translation Suitability
+based on the Source Text using XLM-RoBERTa](). Università di Bologna, Corso di Studio in Specialized translation - Forli
