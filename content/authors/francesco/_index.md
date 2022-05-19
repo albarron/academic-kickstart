@@ -75,4 +75,5 @@ user_groups:
 
 **Masters dissertation**<br/>
 Fernicola, Francesco (2022) [Return to the Source: Assessing Machine Translation Suitability
-based on the Source Text using XLM-RoBERTa](). Università di Bologna, Corso di Studio in Specialized translation - Forli
+based on the Source Text using XLM-RoBERTa](https://amslaurea.unibo.it/25307/). 
+Università di Bologna, Corso di Studio in Specialized translation - Forli
