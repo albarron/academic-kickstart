@@ -112,6 +112,11 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[09/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/19_dit_coli_handout.pdf) on characters and generation
 * \[09/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/19_dit_coli_chars.ipynb) on characters
 * \[09/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/19_dit_coli_lstm-gen.ipynb) on generation
+
+### 14. Closing Remarks
+* \[11/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/20_dit_coli_handout.pdf)
+
+
 <!-- 
 * \[04/05/22\] [Notebook on characters
 * \[04/05/22\] [Notebook on generation -->
