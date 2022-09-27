@@ -63,8 +63,22 @@ subtitle = "Università di Bologna"
  css_class = ""
 +++
 
+### 2022-2023
+91258 - [Natural Language Processing]({{< ref "teaching/naturalllanguage-processing/_index.md">}}) - 5 cfu
+B0385 - [Natural Language Processing]({{< ref "teaching/natural-language-processing/_index.md">}}) - 6 cfu
+
 ### 2021-2022
 
 92586 - [Computational Linguistics]({{< ref "teaching/computational-linguistics/_index.md">}}) - 6 cfu <br />
 96829 - [Profession-based Research](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/470074) - 8 cfu <br />
 84929 - [Software Localization](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/439178) - 5 cfu
+
+### 2020-2021
+
+92586 - Computational Linguistics - 6 cfu <br />
+84929 - Software Localization - 5 cfu
+
+### 2019-2020
+
+92586 - Computational Linguistics - 6 cfu <br />
+84929 - Software Localization - 5 cfu
