@@ -30,9 +30,12 @@ education:
   - course: PhD in Computing Science
     institution: Universitat Politècnica de València, Spain
     year: 2012
-  - course: MEng in Computing Science 
+  - course: MSc in Artificial Intelligence
     institution: Universitat Politècnica de València, Spain
     year: 2009
+  - course: MSc in Computing
+    institution: Universidad Nacional Autónoma de México, Mexico
+    year: 2007
   - course: BEng in Computing 
     institution: Universidad Nacional Autónoma de México, Mexico
     year: 2002
@@ -72,8 +75,14 @@ user_groups:
 - Researchers
 ---
 
-I am Senior assistant professor at [Università di Bologna](https://dit.unibo.it) since 2019. I have been working on the (cross-language) assessment of text looking at different aspects such as originality (e.g., plagiarism detection) and intent (e.g., propaganda, hate speech).
+I am Associate Professor at [Università di Bologna](https://dit.unibo.it) since 
+2022 (after three years as Senior assistant professor; RTDb, in the 
+Italian system). I have been working on the (cross-language) assessment of 
+text looking at different aspects such as originality (e.g., plagiarism 
+detection) and intent (e.g., propaganda, hate speech).
 
-Before landing at UniBO, I spent 5 years as scientist at [QCRI](http://www.qcri.org) and 2 as research fellow at [TALP](http://www.talp.upc.edu/).
+Before landing at [UniBO](https://dit.unibo.it), I spent 5 years as a 
+Scientist at [QCRI](http://www.qcri.org) and 2 as research fellow at 
+[TALP](http://www.talp.upc.edu/).
 
 <!-- Reference: https://raw.githubusercontent.com/wowchemy/starter-hugo-academic/master/content/authors/admin/_index.md  -->
