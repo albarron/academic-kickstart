@@ -1,5 +1,5 @@
 ---
-title: Computational Linguistics
+title: Natural Language Processing
 
 # View.
 #   1 = List
@@ -13,16 +13,30 @@ header:
   image: ""
 ---
 
-**Academic Year 2021/2022**
+**Academic Year 2022/2023**
 
-Visit the [official UniBO website](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/452386) for official and administrative details
+Visit the [UniBO website of the lecture 
+](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/470093) for 
+official and administrative details.
 
 ## Prerequisites
 
 ### A gentle introduction to [Python](https://www.python.org/) {#topic0}
-* This topic **wont be covered in class**. It was offered to the DIT community [earlier this year](https://github.com/TinfFoil/learning_dit_python).  
-* You did not attend? All contents (slides, notebooks, 2021 video recordings) are [here](https://github.com/TinfFoil/learning_dit_python).
-* Either you attended or not, I suggest you to **do all the exercises before the third session**.
+This topic **wont be covered in class**.
+
+```
+if you are a student of TraTec:
+  you learned the intro to Python in PBR
+else: 
+  check the slides, notebooks, and 2021 video recordings
+```
+
+All materias are available at 
+[https://github.com/TinfFoil/learning_dit_python]( 
+https://github.com/TinfFoil/learning_dit_python). 
+
+Either you attended either of the introductions, I suggest you to **do all the exercises ASAP 
+and before the third session**.
 
 <!---
 #### 1. Introduction to Python scripting
@@ -34,58 +48,88 @@ Visit the [official UniBO website](https://www.unibo.it/en/teaching/course-unit-
 
 Whereas the contents could be (slightly) adapted according to the students skills and interests, the general structure of the course will be as follows.
 
-### 1. Introduction to Computational Linguistics
+### 1. Introduction to Natural Language Processing
 <!---
 * [Lecture Notes](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/coli_2020_notes.pdf)
 -->
-* \[21/02/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/01_coli_handout.pdf)
+* \[29/09/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/01_coli_handout.pdf)
 
+
+---
+**The dates from here are indicative and subject to (continuous) modification**
+
+---
 ### 2. Words and the vector space model
-
+* \[04/10/22\] 
+* \[06/10/22\] 
+* \[11/10/22\] 
+<!---
 * \[23/02/22\] [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/02_coli_handout.pdf) 
 * \[23/03/22\] [Notebook on tokens and normalisation](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/02_dit_coli_words.ipynb)
 * \[28/02/22\] [Notebook on tokens and vector space model](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_02/03_dit_coli_tokens.ipynb)
 * \[02/03/22\] [Slides on tokens + RB sentiment](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_02/04_coli_handout.pdf) 
 * \[02/03/22\] [Notebook on rule-based sentiment analysis](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_02/04_dit_coli_rulebasedsentiment.ipynb)
+-->
 
 ### 3. Naïve Bayes
+* \[13/10/22\]
+* \[18/10/22\]
+<!---
 * \[07/03/22\] [Slides on Naïve Bayes](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_03/05_coli_handout.pdf)
 * \[09/03/22\] [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_03/05_dit_coli_naivebayes.ipynb)
-
+-->
 
 ### 4. Word vectors
+* \[20/10/22\]
+* \[25/10/22\]
+<!---
 * \[14/03/22\] [Slides on vectors and tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_04/07_dit_coli_handout.pdf)
 * \[14/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_04/07_dit_coli_tf-idf.ipynb)
+--->
 
 ### 5. From Word Counts to Meaning
+* \[27/10/22\]
+* \[03/11/22\]
+<!---
 * \[16/03/22\] [Slides introducing topic modeling](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_04/08_dit_coli_handout.pdf)
 * \[16/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_04/08_dit_coli_topicmodeling.ipynb) 
+-->
 
 ### 6. Training and Evaluation
+* \[08/11/22\]
+<!---
 * \[21/03/22\] [Slides on training and evaluation](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_05/09_dit_coli_handout.pdf)
 * \[21/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_05/09_dit_coli_traineval.ipynb)
+-->
 
 ### 7. Intro to LSA
+* \[10/10/22\]
+<!---
 *  \[23/03/22\] [Slides LSA and SVD](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_05/10_dit_coli_handout.pdf)
 *  \[23/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_05/10_dit_coli_lsa.ipynb)
-<!-- *  \[28/03/22\] 
-*  \[28/03/22\]  -->
+-->
 
 <!-- ### Intermezzo -->
 
 ### 8. Intro to NN
+* \[15/11/22\]
+* \[17/11/22\]
+
+<!---
 * \[28/03/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_06/11_dit_coli_handout.pdf) on the perceptron
 * \[28/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_06/11_dit_coli_nn.ipynb) on the perceptron
 * \[30/03/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_06/12_dit_coli_handout.pdf) introducing neural networks and keras
 * \[30/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_06/12_dit_coli_backprop.ipynb) introducing neural networks and keras
-<!-- * \[30/03/22\] 
-* \[30/03/22\]  -->
+-->
 
 ### 9. Word Embeddings
+* \[22/11/22\]
+* \[24/11/22\]
+<!---
 * \[04/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_07/13_dit_coli_handout.pdf) on word2vec
 * \[06/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_07/14_dit_coli_handout.pdf) on word embeddings
 * \[06/04/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_07/14_dit_coli_embeddings.ipynb)
-
+-->
 <!-- ### 10. Visualisation
   I have decided not to offer this lecture anymore
 * \[13/04/22\] Slides on visualization
@@ -93,29 +137,44 @@ Whereas the contents could be (slightly) adapted according to the students skill
  -->
 
 ### 10. Doc2Vec
+* \[29/11/22\]
+* \[01/12/22\]
+<!---
 * \[20/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_08/15_dit_coli_handout.pdf) 
 * \[20/04/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_08/15_dit_coli_d2v.ipynb)
+-->
 
-### 11. Convolutions for text
+### 11. Convolutions for 
+* \[06/11/22\]
+<!---
 * \[27/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_09/16_dit_coli_handout.pdf)
 * \[27/04/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_09/16_dit_coli_cnn.ipynb)
+-->
 
 ### 12. Text is Sequential / LSTM
+* \[13/12/22\]
+<!---
 * \[02/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/17_dit_coli_handout.pdf) on RNN
 * \[02/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/17_dit_coli_rnn.ipynb) on  RNN
 * \[04/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/18_dit_coli_handout.pdf) on BiRNN and LSTM
 * \[04/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/18_dit_coli_brnn.ipynb) on BiRNN 
 * \[04/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/18_dit_coli_lstm.ipynb) on LSTM
+-->
  
 ### 13. Text generation
 <!-- * \[04/05/22\] Slides -->
+<!---
 * \[09/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/19_dit_coli_handout.pdf) on characters and generation
 * \[09/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/19_dit_coli_chars.ipynb) on characters
 * \[09/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/19_dit_coli_lstm-gen.ipynb) on generation
+-->
 
-### 14. Closing Remarks
+### 14. Large Language Models
+
+### 15. Closing Remarks
+<!---
 * \[11/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/20_dit_coli_handout.pdf)
-
+-->
 
 <!-- 
 * \[04/05/22\] [Notebook on characters
@@ -302,24 +361,33 @@ See my [UniBO website](https://www.unibo.it/sitoweb/a.barron)
 
 ### 2021-2022
 
-* **Assessing Semantic Similarity between Original Texts and
-Machine Translations**<br />
-  Student: Hopkins, D.<br />
-  \[[pdf](https://github.com/albarron/academic-kickstart/raw/master/files/coli/projects2021/dit_coli2021_project_hopkins.pdf)\]
-* **Definition extraction on food-related Wikipedia articles**<br />
-  Student: Martinelli, M.<br />
-  \[[pdf]()\]
+* **Hate Speech Detection in Incel Online Spaces**<br />
+  Student: Gajo, P.<br />
+  [{{< fa file-pdf >}}](https://github.com/albarron/academic-kickstart/raw/master/files/coli/projects2022/dit_coli2022_project_gajo.pdf)
+
+* **Fishing for catfishes: using a model trained on Twitter data to predict
+author gender in Reddit posts**<br />
+  Student: Kovacs, M. <br />
+  [{{< fa file-pdf >}}](https://github.com/albarron/academic-kickstart/raw/master/files/coli/projects2022/dit_coli2022_project_kovacs.pdf)
 
 ### 2020-2021
 
+* **Assessing Semantic Similarity between Original Texts and Machine Translations**<br />
+  Student: Hopkins, D.<br />
+  [{{< fa file-pdf >}}](https://github.com/albarron/academic-kickstart/raw/master/files/coli/projects2021/dit_coli2021_project_hopkins.pdf)
+
+* **Definition extraction on food-related Wikipedia articles**<br />
+  Student: Martinelli, M.<br />
+ <!-- \[[pdf]()\]-->
+  
 * **Identifying Characters’ Lines in Original and Translated Plays. The case of
   Golden and Horan’s Class**<br />
   Student: Galletti, E.<br />
-  \[[pdf](https://github.com/albarron/academic-kickstart/raw/master/files/coli/projects2020/dit_coli2020_project_galletti.pdf)\]
+  [{{< fa file-pdf >}}](https://github.com/albarron/academic-kickstart/raw/master/files/coli/projects2020/dit_coli2020_project_galletti.pdf)
 
 * **Classifying An Imbalanced Dataset with CNN, RNN, and LSTM**<br />
   Student: Yu, X.<br />
-  \[[pdf](https://github.com/albarron/academic-kickstart/raw/master/files/coli/projects2020/dit_coli2020_project_yu.pdf)\]
+  [{{< fa file-pdf >}}](https://github.com/albarron/academic-kickstart/raw/master/files/coli/projects2020/dit_coli2020_project_yu.pdf)
 
 ### 2019-2020
 
@@ -327,16 +395,16 @@ Machine Translations**<br />
   Students: Fernicola F. and Zhang S.<br />
   Developed under [CRICC](https://site.unibo.it/cricc/it);
   published in [CLiC-it 2020](http://clic2020.ilc.cnr.it/it/home/)<br />
-  \[[pdf](http://ceur-ws.org/Vol-2769/paper_58.pdf)\]
-  \[[video](https://vimeo.com/515280902)\]
+  [{{< fa file-pdf >}}](http://ceur-ws.org/Vol-2769/paper_58.pdf)
+  [{{< fa video >}}](https://vimeo.com/515280902)
 
 * **UniBO@AMI: A Multi-Class Approach to Misogyny and Aggressiveness
   Identification on Twitter Posts Using AlBERTo**<br />
   Student: Muti, A.<br />
   Top-performing model in [Evalita's 2020
   AMI](https://amievalita2020.github.io/) shared task<br />
-  \[[pdf](http://ceur-ws.org/Vol-2765/paper117.pdf)\]
-  \[[video](https://vimeo.com/487827751)\]
+  [{{< fa file-pdf >}}](http://ceur-ws.org/Vol-2765/paper117.pdf)
+  [{{< fa video >}}](https://vimeo.com/487827751)
 
 
 
