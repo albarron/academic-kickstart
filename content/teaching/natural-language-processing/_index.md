@@ -213,7 +213,7 @@ Download the file [here](https://github.com/albarron/academic-kickstart/raw/mast
 
 ## <a id="projects"></a>Projects
 
-The [evaluation](#evaluation) is based on a project. Look for inspiration, in the [projects presented in previous years](#coli_projects)
+The [evaluation](#evaluation) is based on a project. Look for inspiration, in the [projects presented in previous years](#nlp_projects)
 
 ### Some project ideas
 
@@ -364,7 +364,7 @@ Seminars will be carried out with slides and coding will be carried out with jup
 
 See my [UniBO website](https://www.unibo.it/sitoweb/a.barron)
 
-## Previous final projects (submitted by September 2022) {#coli_projects}
+## Previous final projects (submitted by September 2022) {#nlp_projects}
 
 ### 2021-2022
 
