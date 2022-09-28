@@ -31,12 +31,11 @@ else:
   check the slides, notebooks, and 2021 video recordings
 ```
 
-All materias are available at 
+All materials are available at 
 [https://github.com/TinfFoil/learning_dit_python]( 
 https://github.com/TinfFoil/learning_dit_python). 
 
-Either you attended either of the introductions, I suggest you to **do all the exercises ASAP 
-and before the third session**.
+Regardless of whether you attended either of the introductions, I suggest you to **do (or re-visit) all the exercises ASAP and before next session**.
 
 <!---
 #### 1. Introduction to Python scripting
@@ -46,13 +45,13 @@ and before the third session**.
 
 ## Course contents
 
-Whereas the contents could be (slightly) adapted according to the students skills and interests, the general structure of the course will be as follows.
+Whereas the contents could be (slightly) adapted according to the students skills and interests, the general structure of the course is as follows.
 
 ### 1. Introduction to Natural Language Processing
 <!---
 * [Lecture Notes](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/coli_2020_notes.pdf)
 -->
-* \[29/09/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/01_coli_handout.pdf)
+* \[29/09/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_01/01_nlp_handout.pdf)
 
 
 ---
@@ -64,49 +63,49 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[06/10/22\] 
 * \[11/10/22\] 
 <!---
-* \[23/02/22\] [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/02_coli_handout.pdf) 
-* \[23/03/22\] [Notebook on tokens and normalisation](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_01/02_dit_coli_words.ipynb)
-* \[28/02/22\] [Notebook on tokens and vector space model](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_02/03_dit_coli_tokens.ipynb)
-* \[02/03/22\] [Slides on tokens + RB sentiment](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_02/04_coli_handout.pdf) 
-* \[02/03/22\] [Notebook on rule-based sentiment analysis](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_02/04_dit_coli_rulebasedsentiment.ipynb)
+* \[23/02/22\] [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_01/02_nlp_handout.pdf) 
+* \[23/03/22\] [Notebook on tokens and normalisation](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_01/02_dit_coli_words.ipynb)
+* \[28/02/22\] [Notebook on tokens and vector space model](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_02/03_dit_coli_tokens.ipynb)
+* \[02/03/22\] [Slides on tokens + RB sentiment](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_02/04_nlp_handout.pdf) 
+* \[02/03/22\] [Notebook on rule-based sentiment analysis](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_02/04_dit_coli_rulebasedsentiment.ipynb)
 -->
 
 ### 3. Naïve Bayes
 * \[13/10/22\]
 * \[18/10/22\]
 <!---
-* \[07/03/22\] [Slides on Naïve Bayes](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_03/05_coli_handout.pdf)
-* \[09/03/22\] [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_03/05_dit_coli_naivebayes.ipynb)
+* \[07/03/22\] [Slides on Naïve Bayes](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_03/05_nlp_handout.pdf)
+* \[09/03/22\] [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_03/05_dit_coli_naivebayes.ipynb)
 -->
 
 ### 4. Word vectors
 * \[20/10/22\]
 * \[25/10/22\]
 <!---
-* \[14/03/22\] [Slides on vectors and tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_04/07_dit_coli_handout.pdf)
-* \[14/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_04/07_dit_coli_tf-idf.ipynb)
+* \[14/03/22\] [Slides on vectors and tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_04/07_dit_nlp_handout.pdf)
+* \[14/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_04/07_dit_coli_tf-idf.ipynb)
 --->
 
 ### 5. From Word Counts to Meaning
 * \[27/10/22\]
 * \[03/11/22\]
 <!---
-* \[16/03/22\] [Slides introducing topic modeling](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_04/08_dit_coli_handout.pdf)
-* \[16/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_04/08_dit_coli_topicmodeling.ipynb) 
+* \[16/03/22\] [Slides introducing topic modeling](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_04/08_dit_nlp_handout.pdf)
+* \[16/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_04/08_dit_coli_topicmodeling.ipynb) 
 -->
 
 ### 6. Training and Evaluation
 * \[08/11/22\]
 <!---
-* \[21/03/22\] [Slides on training and evaluation](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_05/09_dit_coli_handout.pdf)
-* \[21/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_05/09_dit_coli_traineval.ipynb)
+* \[21/03/22\] [Slides on training and evaluation](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_05/09_dit_nlp_handout.pdf)
+* \[21/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_05/09_dit_coli_traineval.ipynb)
 -->
 
 ### 7. Intro to LSA
 * \[10/10/22\]
 <!---
-*  \[23/03/22\] [Slides LSA and SVD](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_05/10_dit_coli_handout.pdf)
-*  \[23/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_05/10_dit_coli_lsa.ipynb)
+*  \[23/03/22\] [Slides LSA and SVD](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_05/10_dit_nlp_handout.pdf)
+*  \[23/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_05/10_dit_coli_lsa.ipynb)
 -->
 
 <!-- ### Intermezzo -->
@@ -116,19 +115,19 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[17/11/22\]
 
 <!---
-* \[28/03/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_06/11_dit_coli_handout.pdf) on the perceptron
-* \[28/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_06/11_dit_coli_nn.ipynb) on the perceptron
-* \[30/03/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_06/12_dit_coli_handout.pdf) introducing neural networks and keras
-* \[30/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_06/12_dit_coli_backprop.ipynb) introducing neural networks and keras
+* \[28/03/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_06/11_dit_nlp_handout.pdf) on the perceptron
+* \[28/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_06/11_dit_coli_nn.ipynb) on the perceptron
+* \[30/03/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_06/12_dit_nlp_handout.pdf) introducing neural networks and keras
+* \[30/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_06/12_dit_coli_backprop.ipynb) introducing neural networks and keras
 -->
 
 ### 9. Word Embeddings
 * \[22/11/22\]
 * \[24/11/22\]
 <!---
-* \[04/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_07/13_dit_coli_handout.pdf) on word2vec
-* \[06/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_07/14_dit_coli_handout.pdf) on word embeddings
-* \[06/04/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_07/14_dit_coli_embeddings.ipynb)
+* \[04/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_07/13_dit_nlp_handout.pdf) on word2vec
+* \[06/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_07/14_dit_nlp_handout.pdf) on word embeddings
+* \[06/04/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_07/14_dit_coli_embeddings.ipynb)
 -->
 <!-- ### 10. Visualisation
   I have decided not to offer this lecture anymore
@@ -140,40 +139,40 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[29/11/22\]
 * \[01/12/22\]
 <!---
-* \[20/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_08/15_dit_coli_handout.pdf) 
-* \[20/04/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_08/15_dit_coli_d2v.ipynb)
+* \[20/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_08/15_dit_nlp_handout.pdf) 
+* \[20/04/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_08/15_dit_coli_d2v.ipynb)
 -->
 
 ### 11. Convolutions for 
 * \[06/11/22\]
 <!---
-* \[27/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_09/16_dit_coli_handout.pdf)
-* \[27/04/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_09/16_dit_coli_cnn.ipynb)
+* \[27/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_09/16_dit_nlp_handout.pdf)
+* \[27/04/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_09/16_dit_coli_cnn.ipynb)
 -->
 
 ### 12. Text is Sequential / LSTM
 * \[13/12/22\]
 <!---
-* \[02/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/17_dit_coli_handout.pdf) on RNN
-* \[02/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/17_dit_coli_rnn.ipynb) on  RNN
-* \[04/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/18_dit_coli_handout.pdf) on BiRNN and LSTM
-* \[04/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/18_dit_coli_brnn.ipynb) on BiRNN 
-* \[04/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/18_dit_coli_lstm.ipynb) on LSTM
+* \[02/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_10/17_dit_nlp_handout.pdf) on RNN
+* \[02/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_10/17_dit_coli_rnn.ipynb) on  RNN
+* \[04/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_10/18_dit_nlp_handout.pdf) on BiRNN and LSTM
+* \[04/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_10/18_dit_coli_brnn.ipynb) on BiRNN 
+* \[04/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_10/18_dit_coli_lstm.ipynb) on LSTM
 -->
  
 ### 13. Text generation
 <!-- * \[04/05/22\] Slides -->
 <!---
-* \[09/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/19_dit_coli_handout.pdf) on characters and generation
-* \[09/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/19_dit_coli_chars.ipynb) on characters
-* \[09/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/coli/week_10/19_dit_coli_lstm-gen.ipynb) on generation
+* \[09/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_10/19_dit_nlp_handout.pdf) on characters and generation
+* \[09/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_10/19_dit_coli_chars.ipynb) on characters
+* \[09/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_10/19_dit_coli_lstm-gen.ipynb) on generation
 -->
 
 ### 14. Large Language Models
 
 ### 15. Closing Remarks
 <!---
-* \[11/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/coli/week_10/20_dit_coli_handout.pdf)
+* \[11/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_10/20_dit_nlp_handout.pdf)
 -->
 
 <!-- 
@@ -217,6 +216,9 @@ Download the file [here](https://github.com/albarron/academic-kickstart/raw/mast
 The [evaluation](#evaluation) is based on a project. Look for inspiration, in the [projects presented in previous years](#coli_projects)
 
 ### Some project ideas
+
+\[Notice that these projects have been proposed for last year and should be updated. They are left by now just for reference\]
+
 
 Whereas you are supposed to apply the acquired knowledge on a problem of your own interest, here are some ideas, in case you find yourself lost
 
@@ -334,7 +336,9 @@ Available resources: we have a manual segmentation of the audiovisual text segme
 
 ## Teaching methods
 
-The course is a combination of seminar and practical sessions. In either case, active participation of the students is expected. Assuming you know the basics of programming (e.g., by completing the python course in [Topic 0](#topic0)) we will cover a (practical) description of diverse models and tasks.
+The course is a combination of seminar and practical sessions. In either case, active participation of the students is expected. Assuming you know the basics of programming (e.g., by completing the python course in [Topic 0](#topic0)) we will cover a (practical) description of diverse models and tasks
+
+In order to succeed, the student has to carry our regular homework, which comes in the form of small exercises.
 
 
 
@@ -344,10 +348,13 @@ The student will work on addressing a problem within her **own research** intere
 
 **_The final evaluation will be computed as a combination of both report and the oral exam around it._**
 
+
 ### Important points
 
 * Your project should be submitted **1 week before the appello** to be considered valid.
-* Do you want to target **30L**? Conference quality is a good way (but it is not the only one!. Talk to me well in advance if you aim this, as it would require my own heavy commitment to reach the necessary quality.
+* Do you want to target **30L**? Conference quality is a good way (but it is not the only one!). Talk to me well in advance if you aim this, as it would require my own heavy commitment to reach the necessary quality.
+
+
 
 ## Teaching tools
 
@@ -357,7 +364,7 @@ Seminars will be carried out with slides and coding will be carried out with jup
 
 See my [UniBO website](https://www.unibo.it/sitoweb/a.barron)
 
-## Previous final projects (submitted by February 2022) {#coli_projects}
+## Previous final projects (submitted by September 2022) {#coli_projects}
 
 ### 2021-2022
 
@@ -394,7 +401,7 @@ author gender in Reddit posts**<br />
 * **AriEmozione: Identifying Emotions in Opera Verses**<br />
   Students: Fernicola F. and Zhang S.<br />
   Developed under [CRICC](https://site.unibo.it/cricc/it);
-  published in [CLiC-it 2020](http://clic2020.ilc.cnr.it/it/home/)<br />
+  published in [CLiC-it 2020](http://ceur-ws.org/Vol-2769/)<br />
   [{{< fa file-pdf >}}](http://ceur-ws.org/Vol-2769/paper_58.pdf)
   [{{< fa video >}}](https://vimeo.com/515280902)
 
@@ -412,5 +419,6 @@ author gender in Reddit posts**<br />
 
 You can visit previous editions of the course:
 
-2021 - [Computational Linguistics]({{< ref "teaching/computational-linguistics2021/_index.md">}}) - 6 cfu <br />
-2020 - [Computational Linguistics]({{< ref "teaching/computational-linguistics2020/_index.md">}}) - 6 cfu <br />
+2021-2022 - [Computational Linguistics]({{< ref "teaching/computational-linguistics2021/_index.md">}}) - 6 cfu <br />
+2020-2021 - [Computational Linguistics]({{< ref "teaching/computational-linguistics2021/_index.md">}}) - 6 cfu <br />
+2019-2020 - [Computational Linguistics]({{< ref "teaching/computational-linguistics2020/_index.md">}}) - 6 cfu <br />
