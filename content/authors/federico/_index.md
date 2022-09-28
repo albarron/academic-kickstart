@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research fellow / Adjunct Professor 
+role: Adjunct Professor / Research fellow 
 
 # Organizations/Affiliations
 organizations:

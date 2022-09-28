@@ -76,16 +76,17 @@ user_groups:
 ---
 
 I am Associate Professor at [Università di Bologna](https://dit.unibo.it) since 
-2022 (after three years as Senior assistant professor; RTDb, in the 
-Italian system). I have been working on the (cross-language) assessment of 
+2022 (after three years as Senior assistant professor; RTDb, in the Italian 
+system). I have been working on the (cross-language) assessment of 
 text looking at different aspects such as originality (e.g., plagiarism 
 detection) and intent (e.g., propaganda, hate speech).
 
 Visit my [UniBO website](https://www.unibo.it/sitoweb/a.barron) for university 
 matters.
 
-Before landing at [UniBO](https://dit.unibo.it), I spent 5 years as a 
-Scientist at [QCRI](http://www.qcri.org) and 2 as research fellow at 
+Before landing at [UniBO](https://dit.unibo.it), I spent 5 years as a Scientist 
+at the Languuage Technologies group of [QCRI](http://www.qcri.org) and 2 as 
+research fellow at 
 [TALP](http://www.talp.upc.edu/).
 
 <!-- Reference: https://raw.githubusercontent.com/wowchemy/starter-hugo-academic/master/content/authors/admin/_index.md  -->
