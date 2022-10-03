@@ -54,10 +54,6 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[29/09/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_01/01_nlp_handout.pdf)
 
 
----
-**The dates from here are indicative and subject to (continuous) modification**
-
----
 ### 2. Words and the vector space model
 * \[04/10/22\] [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_02/02_nlp_handout.pdf) 
 * \[06/10/22\] [Notebook on tokens and normalisation](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_02/02_dit_nlp_words.ipynb)
@@ -69,6 +65,10 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[02/03/22\] [Notebook on rule-based sentiment analysis](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_02/04_dit_coli_rulebasedsentiment.ipynb)
 -->
 
+---
+**The dates from here are indicative and subject to (continuous) modification**
+
+---
 ### 3. Naïve Bayes
 * \[13/10/22\]
 * \[18/10/22\]
