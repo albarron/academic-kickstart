@@ -58,7 +58,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[04/10/22\] [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_02/02_nlp_handout.pdf) 
 * \[04/10/22\] [Notebook on tokens and normalisation](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_02/02_dit_nlp_words.ipynb)
 * \[06/10/22\] [Slides on VSM + RB sentiment](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_02/03_nlp_handout.pdf) 
-* \[06/10/22\] [Notebook on VSM](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_02/03_dit_nlp_tokens.ipynb)
+* \[06/10/22\]  [Notebook on VSM](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_02/03_dit_nlp_tokens.ipynb)
 * \[06/10/22\] [Notebook on RB sentiment](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_02/03_dit_nlp_rulebasedsentiment.ipynb)
 <!---
 
