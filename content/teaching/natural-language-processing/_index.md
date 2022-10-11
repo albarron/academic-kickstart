@@ -67,10 +67,10 @@ Whereas the contents could be (slightly) adapted according to the students skill
 ---
 ### 3. Naïve Bayes
 * \[11/10/22\] [Slides on Naïve Bayes](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_03/04_nlp_handout.pdf)
-* \[13/10/22\]
+* \[11/10/22\] [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_03/04_dit_coli_naivebayes.ipynb)
 <!---
 * \[07/03/22\] 
-* \[09/03/22\] [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_03/05_dit_coli_naivebayes.ipynb)
+* \[09/03/22\] 
 -->
 
 ### 4. Word vectors
