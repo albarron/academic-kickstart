@@ -61,43 +61,39 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[06/10/22\]  [Notebook on VSM](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_02/03_dit_nlp_tokens.ipynb)
 * \[06/10/22\] [Notebook on RB sentiment](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_02/03_dit_nlp_rulebasedsentiment.ipynb)
 
----
-**The dates from here are indicative and subject to (continuous) modification**
-
----
 ### 3. Naïve Bayes
 * \[11/10/22\] [Slides on Naïve Bayes](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_03/04_nlp_handout.pdf)
 * \[11/10/22\] [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_03/04_dit_coli_naivebayes.ipynb)
-<!---
-* \[07/03/22\] 
-* \[09/03/22\] 
--->
 
 ### 4. Word vectors
-* \[20/10/22\]
-* \[25/10/22\]
+* \[13/10/22\] 
+* \[18/10/22\]
 <!---
 * \[14/03/22\] [Slides on vectors and tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_04/07_dit_nlp_handout.pdf)
 * \[14/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_04/07_dit_coli_tf-idf.ipynb)
 --->
 
+---
+**The dates from here are indicative and subject to (continuous) modification**
+
+---
 ### 5. From Word Counts to Meaning
-* \[27/10/22\]
-* \[03/11/22\]
+* \[20/10/22\]
+* \[25/11/22\]
 <!---
 * \[16/03/22\] [Slides introducing topic modeling](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_04/08_dit_nlp_handout.pdf)
 * \[16/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_04/08_dit_coli_topicmodeling.ipynb) 
 -->
 
 ### 6. Training and Evaluation
-* \[08/11/22\]
+* \[27/11/22\]
 <!---
 * \[21/03/22\] [Slides on training and evaluation](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_05/09_dit_nlp_handout.pdf)
 * \[21/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_05/09_dit_coli_traineval.ipynb)
 -->
 
 ### 7. Intro to LSA
-* \[10/10/22\]
+* \[03/10/22\]
 <!---
 *  \[23/03/22\] [Slides LSA and SVD](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_05/10_dit_nlp_handout.pdf)
 *  \[23/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_05/10_dit_coli_lsa.ipynb)
@@ -106,8 +102,8 @@ Whereas the contents could be (slightly) adapted according to the students skill
 <!-- ### Intermezzo -->
 
 ### 8. Intro to NN
-* \[15/11/22\]
-* \[17/11/22\]
+* \[08/11/22\]
+* \[10/11/22\]
 
 <!---
 * \[28/03/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_06/11_dit_nlp_handout.pdf) on the perceptron
@@ -117,8 +113,8 @@ Whereas the contents could be (slightly) adapted according to the students skill
 -->
 
 ### 9. Word Embeddings
-* \[22/11/22\]
-* \[24/11/22\]
+* \[15/11/22\]
+* \[17/11/22\]
 <!---
 * \[04/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_07/13_dit_nlp_handout.pdf) on word2vec
 * \[06/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_07/14_dit_nlp_handout.pdf) on word embeddings
@@ -131,22 +127,22 @@ Whereas the contents could be (slightly) adapted according to the students skill
  -->
 
 ### 10. Doc2Vec
-* \[29/11/22\]
-* \[01/12/22\]
+* \[22/11/22\]
+* \[24/12/22\]
 <!---
 * \[20/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_08/15_dit_nlp_handout.pdf) 
 * \[20/04/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_08/15_dit_coli_d2v.ipynb)
 -->
 
 ### 11. Convolutions for 
-* \[06/11/22\]
+* \[29/11/22\]
 <!---
 * \[27/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_09/16_dit_nlp_handout.pdf)
 * \[27/04/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_09/16_dit_coli_cnn.ipynb)
 -->
 
 ### 12. Text is Sequential / LSTM
-* \[13/12/22\]
+* \[01/12/22\]
 <!---
 * \[02/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_10/17_dit_nlp_handout.pdf) on RNN
 * \[02/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_10/17_dit_coli_rnn.ipynb) on  RNN
@@ -156,7 +152,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 -->
  
 ### 13. Text generation
-<!-- * \[04/05/22\] Slides -->
+* \[06/05/22\] 
 <!---
 * \[09/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_10/19_dit_nlp_handout.pdf) on characters and generation
 * \[09/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_10/19_dit_coli_chars.ipynb) on characters
