@@ -60,22 +60,16 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[06/10/22\] [Slides on VSM + RB sentiment](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_02/03_nlp_handout.pdf) 
 * \[06/10/22\] [Notebook on VSM](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_02/03_dit_nlp_tokens.ipynb)
 * \[06/10/22\] [Notebook on RB sentiment](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_02/03_dit_nlp_rulebasedsentiment.ipynb)
-<!---
-
-* \[28/02/22\] 
-* \[02/03/22\] 
-* \[02/03/22\] [Notebook on rule-based sentiment analysis](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_02/04_dit_coli_rulebasedsentiment.ipynb)
--->
 
 ---
 **The dates from here are indicative and subject to (continuous) modification**
 
 ---
 ### 3. Naïve Bayes
+* \[11/10/22\] [Slides on Naïve Bayes](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_03/04_nlp_handout.pdf)
 * \[13/10/22\]
-* \[18/10/22\]
 <!---
-* \[07/03/22\] [Slides on Naïve Bayes](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_03/05_nlp_handout.pdf)
+* \[07/03/22\] 
 * \[09/03/22\] [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_03/05_dit_coli_naivebayes.ipynb)
 -->
 
