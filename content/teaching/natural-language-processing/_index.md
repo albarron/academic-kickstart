@@ -63,11 +63,11 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 ### 3. Naïve Bayes
 * \[11/10/22\] [Slides on Naïve Bayes](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_03/04_nlp_handout.pdf)
-* \[11/10/22\] [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_03/04_dit_coli_naivebayes.ipynb)
+* \[11/10/22\] [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_03/04_dit_nlp_naivebayes.ipynb)
 
 ### 4. Word vectors
-* \[13/10/22\] [Slides on tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_03/05_dit_nlp_handout.pdf)
-* \[13/10/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_03/05_dit_coli_tf-idf.ipynb)
+* \[13/10/22\] [Slides on tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_03/05_nlp_handout.pdf)
+* \[13/10/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_03/05_dit_nlp_tf-idf.ipynb)
 <!---
 * \[14/03/22\] [Slides on vectors and tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_04/07_dit_nlp_handout.pdf)
 * \[14/03/22\] 
