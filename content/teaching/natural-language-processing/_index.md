@@ -66,11 +66,11 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[11/10/22\] [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_03/04_dit_coli_naivebayes.ipynb)
 
 ### 4. Word vectors
-* \[13/10/22\] 
-* \[18/10/22\]
+* \[13/10/22\] [Slides on tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_03/05_dit_nlp_handout.pdf)
+* \[13/10/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_03/05_dit_coli_tf-idf.ipynb)
 <!---
 * \[14/03/22\] [Slides on vectors and tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_04/07_dit_nlp_handout.pdf)
-* \[14/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_04/07_dit_coli_tf-idf.ipynb)
+* \[14/03/22\] 
 --->
 
 ---
