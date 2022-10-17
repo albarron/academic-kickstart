@@ -68,22 +68,15 @@ Whereas the contents could be (slightly) adapted according to the students skill
 ### 4. Word vectors
 * \[13/10/22\] [Slides on tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_03/05_nlp_handout.pdf)
 * \[13/10/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_03/05_dit_nlp_tf-idf.ipynb)
-<!---
-* \[14/03/22\] [Slides on vectors and tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_04/07_dit_nlp_handout.pdf)
-* \[14/03/22\] 
---->
 
 ---
 **The dates from here are indicative and subject to (continuous) modification**
 
 ---
 ### 5. From Word Counts to Meaning
-* \[18/10/22\]
+* \[18/10/22\] [Slides introducing topic modeling](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_04/06_dit_nlp_handout.pdf)
+* \[18/10/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_04/06_dit_nlp_topicmodeling.ipynb) 
 * \[20/11/22\]
-<!---
-* \[16/03/22\] [Slides introducing topic modeling](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_04/08_dit_nlp_handout.pdf)
-* \[16/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_04/08_dit_coli_topicmodeling.ipynb) 
--->
 
 ### 6. Training and Evaluation
 * \[25/10/22\]
