@@ -69,10 +69,6 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[13/10/22\] [Slides on tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_03/05_nlp_handout.pdf)
 * \[13/10/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_03/05_dit_nlp_tf-idf.ipynb)
 
----
-**The dates from here are indicative and subject to (continuous) modification**
-
----
 ### 5. From Word Counts to Meaning
 * \[18/10/22\] [Slides introducing topic modeling](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_04/06_dit_nlp_handout.pdf)
 * \[18/10/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_04/06_dit_nlp_topicmodeling.ipynb) 
@@ -84,6 +80,10 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[21/03/22\] [Slides on training and evaluation](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_05/09_dit_nlp_handout.pdf)
 * \[21/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_05/09_dit_coli_traineval.ipynb)
 -->
+---
+**The dates from here are indicative and subject to (continuous) modification**
+
+---
 
 ### 7. Intro to LSA
 * \[27/10/22\]
