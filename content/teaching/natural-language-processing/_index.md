@@ -85,12 +85,12 @@ Whereas the contents could be (slightly) adapted according to the students skill
 <!-- ### Intermezzo -->
 
 ### 7. Intro to NN
-* \[27/10/22\]
-* \[03/11/22\]
+* \[27/10/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_05/09_nlp_handout.pdf) on the perceptron
+* \[03/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_05/09_dit_nlp_nn.ipynb) on the perceptron
 
 <!---
-* \[28/03/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_06/11_dit_nlp_handout.pdf) on the perceptron
-* \[28/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_06/11_dit_coli_nn.ipynb) on the perceptron
+* \[28/03/22\] 
+* \[28/03/22\] 
 * \[30/03/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_06/12_dit_nlp_handout.pdf) introducing neural networks and keras
 * \[30/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_06/12_dit_coli_backprop.ipynb) introducing neural networks and keras
 -->
