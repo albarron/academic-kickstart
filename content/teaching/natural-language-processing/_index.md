@@ -65,9 +65,11 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[11/10/22\] [Slides on Naïve Bayes](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_03/04_nlp_handout.pdf)
 * \[11/10/22\] [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_03/04_dit_nlp_naivebayes.ipynb)
 
+
 ### 4. Word vectors
 * \[13/10/22\] [Slides on tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_03/05_nlp_handout.pdf)
 * \[13/10/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_03/05_dit_nlp_tf-idf.ipynb)
+
 
 ### 5. From Word Counts to Meaning
 * \[18/10/22\] [Slides introducing topic modeling](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_04/06_nlp_handout.pdf)
@@ -77,18 +79,9 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 
 ### 6. Training and Evaluation
-* \[25/10/22\]
-<!---
-* \[21/03/22\] [Slides on training and evaluation](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_05/09_nlp_handout.pdf)
-* \[21/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_05/09_dit_nlp_traineval.ipynb)
--->
-
----
-**The dates from here are indicative and subject to (continuous) modification**
-
----
-
-
+* \[25/10/22\] [Slides on training and evaluation](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_05/08_nlp_handout.pdf)
+* \[25/10/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_05/08_dit_nlp_traineval.ipynb)
+ 
 <!-- ### Intermezzo -->
 
 ### 7. Intro to NN
@@ -101,6 +94,11 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[30/03/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_06/12_dit_nlp_handout.pdf) introducing neural networks and keras
 * \[30/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_06/12_dit_coli_backprop.ipynb) introducing neural networks and keras
 -->
+
+---
+**The dates from here are indicative and subject to (continuous) modification**
+
+---
 
 ### 8. Word Embeddings
 * \[08/11/22\]
