@@ -65,7 +65,8 @@ subtitle = "Università di Bologna"
 
 ### 2022-2023
 91258 - [Natural Language Processing]({{< ref "teaching/natural-language-processing/_index.md">}}) - 5 cfu <br />
-B0385 - [Natural Language Processing]({{< ref "teaching/natural-language-processing/_index.md">}}) - 6 cfu
+B0385 - [Natural Language Processing]({{< ref "teaching/natural-language-processing/_index.md">}}) - 6 cfu <br />
+96949 - [Advanced Skills CL2]({{< ref "teaching/advanced-skills/_index.md">}}) - 3 cfu
 
 ### 2021-2022
 
