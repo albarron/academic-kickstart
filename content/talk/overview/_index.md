@@ -13,6 +13,30 @@ header:
   image: ""
 ---
 
+## Iniciativas para identificar (algunos) contenidos maliciosos
+
+
+{{< fa file-pdf >}} 
+[**Slides**](/pdf/barroncedeno_IaSpain22_malicious.pdf)
+{{< fa youtube-play >}} 
+[**Video** (in Spanish)](https://youtu.be/vnr4X3x0Xac)
+{{< fa location-arrow>}} 
+**Spain AI-AI Tech Talk, Valencia, Spain (online)**
+{{< fa calendar>}} **October, 2022**
+
+**Abstract**
+The Internet is plagued with contents that go from hate speech to 
+disinformation, from propagaganda to scam, to mention just some of them. In this 
+seminar I talk about some of our efforts to spot some of them, under the main 
+premise that, if they turn evident, their effect on the user get dimmed. The 
+talk will start talking about the identification of propaganda in text (news, 
+tweets, email) and will head towards the identification of hate speech both in 
+text and memes. 
+
+**THIS PAGE IS UNDER CONSTRUCTION. I WILL FIND THE TIME SOMEWHEN TO UPLOAD MANY 
+MORE TALKS I HAVE OFFERED (RATHER THAN KEEPING THIS 2-YEAR HOLE)**
+
+
 ## What an NLPer wishes (and does) when permeating a Translation Department
 
 {{< fa file-pdf >}} 
