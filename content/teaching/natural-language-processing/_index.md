@@ -86,19 +86,11 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 ### 7. Intro to NN
 * \[27/10/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_05/09_nlp_handout.pdf) on the perceptron
-* \[03/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_05/09_dit_nlp_nn.ipynb) on the perceptron
+* \[27/10/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_05/09_dit_nlp_nn.ipynb) on the perceptron
+* \[03/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_06/10_dit_nlp_handout.pdf) introducing neural networks and keras
+* \[03/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_06/10_dit_nlp_backprop.ipynb) introducing neural networks and keras
 
-<!---
-* \[28/03/22\] 
-* \[28/03/22\] 
-* \[30/03/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_06/12_dit_nlp_handout.pdf) introducing neural networks and keras
-* \[30/03/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_06/12_dit_coli_backprop.ipynb) introducing neural networks and keras
--->
 
----
-**The dates from here are indicative and subject to (continuous) modification**
-
----
 
 ### 8. Word Embeddings
 * \[08/11/22\]
@@ -114,6 +106,11 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[13/04/22\] Notebook
  -->
 
+ ---
+**The dates from here are indicative and subject to (continuous) modification**
+
+---
+ 
 ### 9. Doc2Vec
 * \[15/11/22\]
 * \[17/11/22\]
