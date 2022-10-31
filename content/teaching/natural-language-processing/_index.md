@@ -90,16 +90,20 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[03/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_06/10_nlp_handout.pdf) introducing neural networks and keras
 * \[03/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_06/10_dit_nlp_backprop.ipynb) introducing neural networks and keras
 
-
-
 ### 8. Word Embeddings
-* \[08/11/22\]
-* \[10/11/22\]
+* \[08/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_07/11_nlp_handout.pdf) on word2vec
+* \[10/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_07/12_nlp_handout.pdf) on word embeddings
+* \[10/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_07/12_dit_nlp_embeddings.ipynb)
+
+ 
+### 9. Doc2Vec
+* \[15/11/22\]
+* \[17/11/22\]
 <!---
-* \[04/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_07/13_dit_nlp_handout.pdf) on word2vec
-* \[06/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_07/14_dit_nlp_handout.pdf) on word embeddings
-* \[06/04/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_07/14_dit_coli_embeddings.ipynb)
+* \[20/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_08/15_dit_nlp_handout.pdf) 
+* \[20/04/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_08/15_dit_coli_d2v.ipynb)
 -->
+
 <!-- ### 10. Visualisation
   I have decided not to offer this lecture anymore
 * \[13/04/22\] Slides on visualization
@@ -110,14 +114,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 **The dates from here are indicative and subject to (continuous) modification**
 
 ---
- 
-### 9. Doc2Vec
-* \[15/11/22\]
-* \[17/11/22\]
-<!---
-* \[20/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_08/15_dit_nlp_handout.pdf) 
-* \[20/04/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_08/15_dit_coli_d2v.ipynb)
--->
+
 
 ### 10. Convolutions for  text
 * \[22/11/22\]
