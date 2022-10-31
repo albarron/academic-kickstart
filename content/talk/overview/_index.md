@@ -18,7 +18,7 @@ header:
 
 {{< fa file-pdf >}} 
 [**Slides**](/pdf/barroncedeno_IaSpain22_malicious.pdf)
-{{< fa youtube-play >}} 
+{{< fa play >}} 
 [**Video** (in Spanish)](https://youtu.be/vnr4X3x0Xac)
 {{< fa location-arrow>}} 
 **Spain AI-AI Tech Talk, Valencia, Spain (online)**
