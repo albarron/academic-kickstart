@@ -109,18 +109,13 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 
 ### 10. Convolutions for  text
-* \[17/11/22\]
-* \[17/11/22\]
-<!---
-* \[27/04/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_09/16_dit_nlp_handout.pdf)
-* \[27/04/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_09/16_dit_coli_cnn.ipynb)
--->
+* \[17/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_09/14_nlp_handout.pdf)
+* \[17/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_09/14_dit_nlp_cnn.ipynb)
 
 ---
 **The dates from here are indicative and subject to (continuous) modification**
 
 ---
-
 
 ### 11. Text is Sequential / LSTM
 * \[22/11/22\]
@@ -142,11 +137,12 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 ### 13. Large Language Models
 * \[29/11/22\] 
-
-
-### 14. Closing Remarks
 * \[01/12/22\]
 * \[06/12/22\]
+
+### 14. Closing Remarks
+
+* \[13/12/22\]
 <!---
 * \[11/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_10/20_dit_nlp_handout.pdf)
 -->
