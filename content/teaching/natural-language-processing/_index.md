@@ -193,8 +193,6 @@ The [evaluation](#evaluation) is based on a project. Look for inspiration, in th
 
 ### Some project ideas
 
-\[Notice that these projects have been proposed for last year and should be updated. They are left by now just for reference\]
-
 
 Whereas you are supposed to apply the acquired knowledge on a problem of your own interest, here are some ideas, in case you find yourself lost
 
@@ -206,80 +204,84 @@ Whereas you are supposed to apply the acquired knowledge on a problem of your ow
 
 1. **Sarcasm identification in implicit misogyny**
 
-    This project consists of four main tasks. (a) Train a model for implicit hate speech identification using the the [corpus from ElSherief et al.](https://github.com/gt-salt/implicit-hate). (b) Train a model on a sarcasm/humour using (for instance) this [kaggle dataset](https://www.kaggle.com/competitions/humor-detection/data). (c) Apply both resulting models to the [AMI 2018 dataset](https://amievalita2018.wordpress.com/)  (d) Analyse whether the AMI dataset contains cases of both implicit misogyny and/or sarcasm/humour.
+    This project consists of four main tasks. (a) Train a model for implicit hate speech identification using the the [corpus from ElSherief et al.](https://github.com/gt-salt/implicit-hate) (b) Train a model on sarcasm/humour using (for instance) this [kaggle dataset](https://www.kaggle.com/competitions/humor-detection/data). (c) Apply both resulting models to the [AMI 2018 dataset](https://amievalita2018.wordpress.com/)  (d) Analyse whether the AMI dataset contains cases of both implicit misogyny and/or sarcasm/humour.
 2. **Dataset detective: where does this instance come from?**
 
     In this project, you will train a model to try to identify the dataset an instance comes from rather than the actual task it is intended to. 
     (a) Train and evaluate  one-vs-the-rest models for each of the four datasets.
     (b) Train and evaluate a multi-class model for all instances in all four datasets.
-    (c) Repeat (a) and (b) but this time consider only positive (negative)
- instances    
- (d) Analyse the outcome: can you build a classifier that differentiates datasets? 
-     The four datasets are on [hate speech and offensive language](https://github.com/t-davidson/hate-speech-and-offensive-language/tree/master/data) (2 partitions), [aggression](https://github.com/kmi-linguistics/trac-1), and [toxicity](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data).
+    (c) Repeat (a) and (b) but this time consider only positive (negative) instances    
+    (d) Analyse the outcome: can you build a classifier that differentiates datasets? 
+    The four datasets are on [hate speech and offensive language](https://github.com/t-davidson/hate-speech-and-offensive-language/tree/master/data) (2 partitions), [aggression](https://github.com/kmi-linguistics/trac-1), and [toxicity](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data).
     
 #### Do not translate
 
 1. **Identifying the L2 level for a text**
 
-    Create a model to score the complexity/readability/comprehensibility for a student at a given L2 level. The scores are B1, B2, C1 and C2
+    Create a model to score the complexity/readability/comprehensibility for a student at a given L2 level. The scores are A1, A2, B1, B2, C1 and C2. This is an ordinal regression task.
 
 2. **Spot definitions within Wikipedia articles in multiple languages**
 
     Given a Wikipedia article, spot the sentence with a definitional context. Do this in Wikipedia articles about the same topic in multiple languages.
 
-#### Anaysis of TV series
+#### Anaysis of TV series (with DAR)
 
 The main object of study is medical TV dramas; in particular [Grey's Anatomy](https://en.wikipedia.org/wiki/Grey%27s_Anatomy). 
 
 Available resources: we have a manual segmentation of the audiovisual text segment=portion of video characterised by the spatio-temporal-action continuity); codifications of each segment with the kind of narrative (SP=sentimental plot, PP=professional plot, MC=medical case plot).
 
-1. **Subtitles and audiovisual text**
-
-    Analysing the subtitles and their relationship with the segmentation and codification of the audiovisual text.
-
-2. **Linguistic analysis of subtitles** 
-
-    Analysing the subtitiles (of which we lack character tags) and explore them from the linguistic point of view.
-
-3. **Narrative identification**
+1. **Narrative identification**
 
     Identify the narrative line of short and long summaries from [Grey's anatomy fandom site](https://greysanatomy.fandom.com/wiki/A_Hard_Day%27s_Night) to identify the evolution of the different storylines 
- of the diverse stories.
+    of the diverse stories.
 
 #### Shared Tasks
 
-1. **Text Complexity DE Challenge 2022** 
+**SemEval 2023** 
 
-    Developing machine learning based regression models to predict the complexity of a sentence in German for German learners in the B level. More information at the [DE challenge website](https://qulab.github.io/text_complexity_challlenge/). Release of the test set on 20th June; deadline on **4th July**.
+This year there are 12 tasks at [SemEval](https://semeval.github.io/SemEval2023/tasks). I recommend to have a look at:
 
-    More Germeval tasks should [come soon](https://germeval.github.io/).
+1. [Task 2](https://multiconer.github.io/) MultiCoNER II. Multilingual Complex Named Entity Recognition
+
+    Identify medical terms, locations, creative works, groups, persons and products in multiple languages (incl. Italian, Frencj, Spanish, German, and English)
 
 
+2. [Task 3](https://propaganda.math.unipd.it/semeval2023task3/) Detecting the Genre, the Framing, and the Persuasion Techniques in Online News in a Multi-lingual Setup
 
-2. **Irony and stereotypes spreaders**
+     Determine whether a news article is an opinion piece, aims at objective news reporting, or is a satire piece (there are two other tasks). The task runs in English, French, German, Italian, Polish and Russian).
+     
+3. [Task 4](https://touche.webis.de/semeval23/touche23-web/index.html) Human Value Detection
 
-    Given a Twitter feed in English, determine whether its author spreads Irony and Stereotypes. Input: Timelines of authors sharing Irony and Stereotypes towards, for instance, women or the LGTB community. More details at the [PAN website](https://pan.webis.de/clef22/pan22-web/author-profiling.html); deadline around **24 May**.
+    Given a textual argument and a human value category (e.g., humility, concern), classify whether or not the argument draws on that category
+    
+4. [Task 10](https://codalab.lisn.upsaclay.fr/competitions/7124) Explainable Detection of Online Sexism
 
-2. **Detection of Aggressive and Violent INCIdents from Social Media in Spanish**
+    
+    A. Predict whether a post is sexist or not sexist.
+    B. Identify if a sexist post is (1) threat, (2)  derogation, (3) animosity, (4) prejudiced discussion. 
+    (there is a third task).
 
-    **Violent event identification**. Determine whether a given tweet is associated with a violent incident or not (binary classification). **Violent event category recognition**. Recognize the crime category (see above) to which a given tweet belongs (multi-class classification). More information at the [DA-VINCIS website](https://sites.google.com/view/davincis-iberlef/home). The test set will be released on 10th May; deadline around **21st May**.
+**CLEF 2023**
 
-3. **PoliticEs: Spanish Author Profiling for Political Ideology**
+[CLEF](http://clef2023.clef-initiative.eu) focuses on information retrieval and access in multilingual and multimodal settinds. Consider:
 
-    Task 1: identifying political ideology from a text collection (binary). Task 2: identifying the gender and the profession as demographic traits from a set of tweets of a user . More information at the [IBERLEF 2022 website](https://codalab.lisn.upsaclay.fr/competitions/1948). Test set announced for April 18th. Deadline around **May 4th**.
+1. [CheckThat!](http://checkthat.gitlab.io/) lab on Check-Worthiness, Subjectivity, Political Bias, Factuality, and Authority of News Articles and their Sources
 
-4. **Recommendation System, Sentiment Analysis and Covid Semaphore Prediction for Mexican Tourist Texts**
+    It offers tasks on identifying the checkworthiness of a text (+image) item, the level of subjectivity of a news article (incl. Italian), the political bias of a news article, etc.
+    
+2. [eRisk](https://erisk.irlab.org/)  lab on Early Risk Prediction on the Internet
 
-    **Recommendation system**: given a TripAdvisor tourist and a Mexican tourist place, predict the degree of satisfaction in range [1, 5] that the tourist will have when visiting that place.
-    **Sentiment analysis**: given an opinion about a Mexican tourist place, determine the polarity in range [1, 5] and the type of opinion among hotel, restaurant or attraction. **Epidemiological semaphore prediction**: given the news related to covid of a Mexican region, determine the semaphore color of the weeks 0, 2, 4 and 8 in the future. More information at the [Rest-Mex 2022 website](https://sites.google.com/cicese.edu.mx/rest-mex-2022). Test set released on 13th April. Deadline around **May 4th**.
+    The challenge consists of ranking sentences from a collection of user writings according to their relevance to one of 21 depression symptoms. It includes a task on pathological gambling and eatig disorders as well).
+    
+3. [EXIST](http://nlp.uned.es/exist2023/) lab on sEXism Identification in Social neTworks
 
-5. **sEXism Identification in Social neTworks**
+    Decide whether a tweet is sexist (or describes a sexist behaviour), the intention of the tweet and the type of sexism.
+    
+4. [JOKER](https://www.joker-project.com/) lab on Automatic Wordplay Analysis
+    
+    Detect puns; interpret puns and translate puns (all three tasks are offered in English, French and Spanish).
 
-    **Sexism Identification**: decide whether a tweet contains sexist expressions or behaviours. **Sexism Categorization**: once a message has been classified as sexist, categorize the message according to the type of sexism (5 classes). More information at the [EXIST 2022 website](http://nlp.uned.es/exist2022/). Test set release on 22 March; deadline on **12 April**.
-
-6. **Many others** 
-
-    Consider the problems proposed in [EVALITA 2020](http://www.evalita.it/2020/tasks). There is [age and gender profiling](https://sites.google.com/view/tag-it-2020), [misogyny identification](https://amievalita2020.github.io/), and  [complexity evaluation](https://sites.google.com/view/accompl-it/home-page?authuser=0).
+    
 
 #### _Standard_ research
 
