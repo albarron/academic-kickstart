@@ -212,11 +212,19 @@ Whereas you are supposed to apply the acquired knowledge on a problem of your ow
     
 #### Do not translate
 
-1. **Identifying the L2 level for a text**
+1. **Identifying translated fragments in Wikipedia and press**
+
+    Given a pair of Wikipedia or news paper articles, spot does text fragments that they have in common, becuase one is a translation from the other or because they come from a common source.
+    
+2. **Identifying translations by non-native speakers**
+
+    Given a text that has been presumably translated, identify whether the person that carried out the work is a native speaker of the target language.
+
+3. **Identifying the L2 level for a text**
 
     Create a model to score the complexity/readability/comprehensibility for a student at a given L2 level. The scores are A1, A2, B1, B2, C1 and C2. This is an ordinal regression task.
 
-2. **Spot definitions within Wikipedia articles in multiple languages**
+4. **Spot definitions within Wikipedia articles in multiple languages**
 
     Given a Wikipedia article, spot the sentence with a definitional context. Do this in Wikipedia articles about the same topic in multiple languages.
 
