@@ -109,8 +109,8 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 
 ### 10. Convolutions for  text
-* \[17/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_09/14_nlp_handout.pdf)
-* \[17/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_09/14_dit_nlp_cnn.ipynb)
+* \[17/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_08/14_nlp_handout.pdf)
+* \[17/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_08/14_dit_nlp_cnn.ipynb)
 
 ---
 **The dates from here are indicative and subject to (continuous) modification**
@@ -120,15 +120,15 @@ Whereas the contents could be (slightly) adapted according to the students skill
 ### 11. Text is Sequential / LSTM
 * \[22/11/22\]
 <!---
-* \[02/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_10/17_dit_nlp_handout.pdf) on RNN
-* \[02/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_10/17_dit_coli_rnn.ipynb) on  RNN
-* \[04/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_10/18_dit_nlp_handout.pdf) on BiRNN and LSTM
-* \[04/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_10/18_dit_coli_brnn.ipynb) on BiRNN 
-* \[04/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_10/18_dit_coli_lstm.ipynb) on LSTM
+* \[22/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_09/17_dit_nlp_handout.pdf) on RNN
+* \[22/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_09/17_dit_coli_rnn.ipynb) on  RNN
+* \[24/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_09/18_dit_nlp_handout.pdf) on BiRNN and LSTM
+* \[24/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_09/18_dit_coli_brnn.ipynb) on BiRNN 
+* \[24/24/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_09/18_dit_coli_lstm.ipynb) on LSTM
 -->
  
 ### 12. Text generation
-* \[24/12/22\] 
+* \[29/12/22\] 
 <!---
 * \[09/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_10/19_dit_nlp_handout.pdf) on characters and generation
 * \[09/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_10/19_dit_coli_chars.ipynb) on characters
@@ -136,9 +136,9 @@ Whereas the contents could be (slightly) adapted according to the students skill
 -->
 
 ### 13. Large Language Models
-* \[29/11/22\] 
-* \[01/12/22\]
+* \[01/11/22\] 
 * \[06/12/22\]
+* \[13/12/22\]
 
 ### 14. Closing Remarks
 
