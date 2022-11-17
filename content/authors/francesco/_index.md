@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master student
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -34,9 +34,7 @@ education:
   - course: BA in Intercultural and Linguistic Mediation (EN, DE, JP)
     institution: Università di Bologna, Italy
     year: 2019
-  # - course: BA in English Language and Literature
-  #   institution: National and Kapodistrian University of Athens, Greece
-  #   year: 2018
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -65,12 +63,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "francesco.fernicola [at] studio.unibo.it"
+email: "francesco.fernicola2 [at] unibo.it"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- PhD Students
 ---
 
 **Masters dissertation**<br/>
