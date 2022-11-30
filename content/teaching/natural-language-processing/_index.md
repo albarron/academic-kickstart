@@ -111,22 +111,12 @@ Whereas the contents could be (slightly) adapted according to the students skill
 ### 10. Convolutions for  text
 * \[17/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_08/14_nlp_handout.pdf)
 * \[17/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_08/14_dit_nlp_cnn.ipynb)
-
 * \[22/11/22\] Lesson cancelled
 * \[24/11/22\] Lesson cancelled
 
----
-**The dates from here are indicative and subject to (continuous) modification**
-
----
-
 ### 11. Text is Sequential / LSTM
-* \[01/12/22\] 
-[Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/
-week_09/16_nlp_handout.pdf) on RNN
-* \[01/12/22\] 
-[Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/
-nlp22/week_09/16_dit_nlp_rnn.ipynb) on  RNN
+* \[01/12/22\]  [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_09/16_nlp_handout.pdf) on RNN
+* \[01/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_09/16_dit_nlp_rnn.ipynb) on  RNN
 * \[06/12/22\]
 * \[06/12/22\]
 * \[06/12/22\]
@@ -136,6 +126,11 @@ nlp22/week_09/16_dit_nlp_rnn.ipynb) on  RNN
 * \[24/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_09/18_dit_coli_brnn.ipynb) on BiRNN 
 * \[24/24/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_09/18_dit_coli_lstm.ipynb) on LSTM
 -->
+
+---
+**The dates from here are indicative and subject to (continuous) modification**
+
+---
  
 ### 12. Text generation
 * \[15/12/22\] 
