@@ -112,13 +112,17 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[17/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_08/14_nlp_handout.pdf)
 * \[17/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_08/14_dit_nlp_cnn.ipynb)
 
+* \[22/11/22\] Lesson cancelled
+* \[24/11/22\] Lesson cancelled
+
 ---
 **The dates from here are indicative and subject to (continuous) modification**
 
 ---
 
 ### 11. Text is Sequential / LSTM
-* \[22/11/22\]
+* \[01/12/22\]
+* \[06/12/22\]
 <!---
 * \[22/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_09/17_dit_nlp_handout.pdf) on RNN
 * \[22/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_09/17_dit_coli_rnn.ipynb) on  RNN
@@ -128,7 +132,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 -->
  
 ### 12. Text generation
-* \[29/12/22\] 
+* \[15/12/22\] 
 <!---
 * \[09/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_10/19_dit_nlp_handout.pdf) on characters and generation
 * \[09/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_10/19_dit_coli_chars.ipynb) on characters
@@ -137,12 +141,12 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 ### 13. Large Language Models
 * \[01/11/22\] 
-* \[06/12/22\]
-* \[13/12/22\]
+* \[20/12/22\]
+* \[22/12/22\]
 
 ### 14. Closing Remarks
 
-* \[13/12/22\]
+* \[22/12/22\]
 <!---
 * \[11/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_10/20_dit_nlp_handout.pdf)
 -->
