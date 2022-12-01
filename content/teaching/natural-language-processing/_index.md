@@ -113,7 +113,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[17/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_08/14_dit_nlp_cnn.ipynb)
 * \[22/11/22\] Lesson cancelled
 * \[24/11/22\] Lesson cancelled
-
+* \[29/11/22\] CNN
 ### 11. Text is Sequential / LSTM
 * \[01/12/22\]  [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_09/16_nlp_handout.pdf) on RNN
 * \[01/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_09/16_dit_nlp_rnn.ipynb) on  RNN
