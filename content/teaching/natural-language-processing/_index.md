@@ -114,18 +114,13 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[22/11/22\] Lesson cancelled
 * \[24/11/22\] Lesson cancelled
 * \[29/11/22\] CNN
-### 11. Text is Sequential / LSTM
-* \[01/12/22\]  [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_09/16_nlp_handout.pdf) on RNN
-* \[01/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_09/16_dit_nlp_rnn.ipynb) on  RNN
-* \[06/12/22\]
-* \[06/12/22\]
-* \[06/12/22\]
 
-<!---
-* \[24/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_09/18_dit_nlp_handout.pdf) on BiRNN and LSTM
-* \[24/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_09/18_dit_coli_brnn.ipynb) on BiRNN 
-* \[24/24/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_09/18_dit_coli_lstm.ipynb) on LSTM
--->
+### 11. Text is Sequential / LSTM
+* \[01/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_09/16_nlp_handout.pdf) on RNN
+* \[01/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_09/16_dit_nlp_rnn.ipynb) on  RNN
+* \[06/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_10/17_dit_nlp_handout.pdf) on BiRNN and LSTM
+* \[06/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_10/17_dit_nlp_brnn.ipynb) on BiRNN 
+* \[06/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_10/17_dit_nlp_lstm.ipynb) on LSTM
 
 ---
 **The dates from here are indicative and subject to (continuous) modification**
