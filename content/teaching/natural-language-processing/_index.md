@@ -15,8 +15,7 @@ header:
 
 **Academic Year 2022/2023**
 
-Visit the [UniBO website of the lecture 
-](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/470093) for 
+Visit the [UniBO website of the lecture](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/470093) for 
 official and administrative details.
 
 ## Prerequisites
@@ -32,8 +31,7 @@ else:
 ```
 
 All materials are available at 
-[https://github.com/TinfFoil/learning_dit_python]( 
-https://github.com/TinfFoil/learning_dit_python). 
+[https://github.com/TinfFoil/learning_dit_python](https://github.com/TinfFoil/learning_dit_python). 
 
 Regardless of whether you attended either of the introductions, I suggest you to **do (or re-visit) all the exercises ASAP and before next session**.
 
@@ -47,10 +45,11 @@ Regardless of whether you attended either of the introductions, I suggest you to
 
 Whereas the contents could be (slightly) adapted according to the students skills and interests, the general structure of the course is as follows.
 
-### 1. Introduction to Natural Language Processing
 <!---
 * [Lecture Notes](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/coli_2020_notes.pdf)
 -->
+
+### 1. Introduction to Natural Language Processing
 * \[29/09/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_01/01_nlp_handout.pdf)
 
 
@@ -122,18 +121,12 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[06/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_10/17_dit_nlp_brnn.ipynb) on BiRNN 
 * \[06/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_10/17_dit_nlp_lstm.ipynb) on LSTM
 
----
-**The dates from here are indicative and subject to (continuous) modification**
-
----
  
 ### 12. Text generation
-* \[15/12/22\] 
-<!---
-* \[09/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_10/19_dit_nlp_handout.pdf) on characters and generation
-* \[09/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_10/19_dit_coli_chars.ipynb) on characters
-* \[09/05/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_10/19_dit_coli_lstm-gen.ipynb) on generation
--->
+* \[15/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_11/18_nlp_handout.pdf) on characters and generation
+* \[15/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_11/18_dit_nlp_chars.ipynb) on characters
+* \[15/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_11/18_dit_nlp_lstm-gen.ipynb) on generation
+
 
 ### 13. Large Language Models
 * \[20/12/22\] 
@@ -151,8 +144,13 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[04/05/22\] [Notebook on characters
 * \[04/05/22\] [Notebook on generation -->
 <!-- ### *Up to this point, the calendar is subject to modification*
- -->
 
+---
+**The dates from here are indicative and subject to (continuous) modification**
+
+---
+-->
+ 
 <!-- #### Lecture notes
 
 These lecture notes are just a supporting materials and, conditions allowing, they will be completed throughout the course.
