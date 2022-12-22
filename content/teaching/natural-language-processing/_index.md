@@ -130,7 +130,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 ### 13. Seq2Seq and Large Language Models ; Closing Remaks
 * \[20/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_12/19_nlp_handout.pdf) 
-* \[22/12/22\]
+* \[22/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_12/20_nlp_handout.pdf) 
 
 <!-- ### 14. Closing Remarks -->
 
