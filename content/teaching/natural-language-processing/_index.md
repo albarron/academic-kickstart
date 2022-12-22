@@ -128,7 +128,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[15/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_11/18_dit_nlp_lstm-gen.ipynb) on generation
 
 
-### 13. Seq2Seq and Large Language Models ; Closing Remaks
+### 13. Intro to Seq2Seq and Transformers ; Closing Remaks
 * \[20/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_12/19_nlp_handout.pdf) 
 * \[22/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_12/20_nlp_handout.pdf) 
 
