@@ -61,5 +61,5 @@ See my [UniBO website](https://www.unibo.it/sitoweb/a.barron)
 
 ## Beyond
 
-Visit the gentle introduction to python course, intended for PhD students at DIT
+Visit the [gentle introduction to python course](https://albarron.github.io/teaching/phd-python), intended for PhD students at DIT
 if you want to go beyond this course (e.g., with python for poets).
