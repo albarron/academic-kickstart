@@ -33,7 +33,7 @@ Translation from English into Italian: Practical
 
 ### 3. Quick Introduction to Python
 * \[09/01/23\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/triennale22/03_ilt_handout.pdf)
-* \[09/01/23\] [Notebook](https://github.com/albarron/academic-kickstart/raw/master/files/triennale22/03_ilt_handout.pdf)
+* \[09/01/23\] [Notebook](https://github.com/albarron/academic-kickstart/raw/master/files/triennale22/DIT_python_notebook_1_static.ipynb)
 
 
 
