@@ -25,11 +25,28 @@ for the students of the [PhD on Translation, Interpreting and Intercultural stud
 Currently the contents are available directly from the [git project](https://github.com/TinfFoil/learning_dit_python). 
 In particular:
 
+### Session 1
 
-* \[16/01/23\] [Module 1: The basics](https://github.com/TinfFoil/learning_dit_python/tree/main/01_the_basics)
-* \[18/01/23\] [Module 2. Data](https://github.com/TinfFoil/learning_dit_python/tree/main/02_python_data)
-* \[18/01/23\] [Module 3. Python for Poets 1](https://github.com/TinfFoil/learning_dit_python/tree/main/03_python_4_poets1)
-* \[23/01/23\] [Module 3. Python for Poets 2](https://github.com/TinfFoil/learning_dit_python/tree/main/04_python_4_poets2) 
+[Module 1: The basics](https://github.com/TinfFoil/learning_dit_python/tree/main/01_the_basics)
+* \[16/01/23\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/dottorato23/dit_learning_python_01_notebook.pdf)
+* \[16/01/23\] [Notebook](https://github.com/TinfFoil/learning_dit_python/blob/main/01_the_basics/code/DIT_python_notebook_1_static.ipynb)
+
+### Session 2
+
+[Module 2. Data](https://github.com/TinfFoil/learning_dit_python/tree/main/02_python_data)
+* \[18/01/23\] [Notebook](https://github.com/TinfFoil/learning_dit_python/blob/main/02_python_data/02_PythonData_static.ipynb) on functions and data structures
+
+[Module 3. Python for Poets 1](https://github.com/TinfFoil/learning_dit_python/tree/main/03_python_4_poets1)
+* \[18/01/23\] [Slides]()
+* \[18/01/23\] [Notebook](https://github.com/TinfFoil/learning_dit_python/blob/main/03_python_4_poets1/02_Python4Poets_1stpart_static.ipynb)
+* \[18/01/23\] [Corpus](https://github.com/TinfFoil/learning_dit_python/blob/main/03_python_4_poets1/genesis.txt)
+
+
+### Session 3
+
+[Module 3. Python for Poets 2](https://github.com/TinfFoil/learning_dit_python/tree/main/04_python_4_poets2)
+
+* \[23/01/23\] [Notebook](https://github.com/TinfFoil/learning_dit_python/blob/main/04_python_4_poets2/Python4Poets_2ndpart_static.ipynb) 
 
 
 ## Teaching methods
