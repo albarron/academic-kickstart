@@ -21,19 +21,18 @@ organizations:
 bio: My research interests include 
 
 interests:
-- Identification and Forecasting of Hate Speech in Inceldom
-
+- NLP
+- Subtitling
+- Sociolinguistics
+- Drumming
 education:
   courses:
-  # - course: MSc in Digital Methods for the Humanities
-  #   institution: Athens University of Economics and Business, Greece
-  #   year: 2020
-  # - course: MA in Applied Linguistics
-  #   institution: University of Nottingham, UK
-  #   year: 2019
-  # - course: BA in English Language and Literature
-  #   institution: National and Kapodistrian University of Athens, Greece
-  #   year: 2018
+  - course: MA in Specialized Translation (EN, ES)
+    institution: Università di Bologna, Italy 
+    year: 2023 (ongoing)
+  - course: BA in Linguistic and Cultural Mediation (EN, ES) , 2021
+    institution: Università Ca’ Foscari, Italy
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -68,5 +67,6 @@ user_groups:
 ---
 
 **Masters dissertation**<br/>
+Identification and Forecasting of Hate Speech in Inceldom (ongoing)
 
 
