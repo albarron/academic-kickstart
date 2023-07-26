@@ -67,6 +67,6 @@ user_groups:
 ---
 
 **Masters dissertation**<br/>
-Identification and Forecasting of Hate Speech in Inceldom (ongoing)
+Identification and Forecasting of Hate Speech in Inceldom
 
 

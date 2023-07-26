@@ -22,7 +22,7 @@ bio: My research interests include
 
 interests:
 - NLP
-- Multimodal learnin
+- Multimodal learning
 education:
   courses:
   - course: MA in Specialized Translation
@@ -36,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:'margherit.martinell3 [at] studio.unibo.it'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:'alice.fedotova [at] studio.unibo.it'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/
@@ -62,6 +62,5 @@ user_groups:
 ---
 
 **Masters dissertation**<br/>
-Identification and Forecasting of Hate Speech in Inceldom (ongoing)
-
+Decoding Medical Dramas: Identifying Isotopies through Multimodal Classification
 
