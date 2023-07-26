@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Paolo Gajo
+name: Alice Fedotova
 
 # Username (this should match the folder name)
 authors:
-- paolo
+- alice
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,17 +22,12 @@ bio: My research interests include
 
 interests:
 - NLP
-- Subtitling
-- Sociolinguistics
-- Drumming
+- Multimodal learnin
 education:
   courses:
-  - course: MA in Specialized Translation (EN, ES)
+  - course: MA in Specialized Translation
     institution: Università di Bologna, Italy 
-    year: 2023 (ongoing)
-  - course: BA in Linguistic and Cultural Mediation (EN, ES) , 2021
-    institution: Università Ca’ Foscari, Italy
-    year: 2021
+    year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -58,7 +53,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "paolo.gajo [at] studio.unibo.it"
+email: "alice.fedotova [at] studio.unibo.it"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
