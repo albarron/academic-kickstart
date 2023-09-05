@@ -89,4 +89,5 @@ at the Languuage Technologies group of [QCRI](http://www.qcri.org) and 2 as
 research fellow at 
 [TALP](http://www.talp.upc.edu/).
 
+[RANLP 23 talk](https://docs.google.com/presentation/d/1s0hrME2Qoxd9JvB7r3EFBuSlL3CSm1ggNKTVgy9WT1M/edit?usp=sharing)
 <!-- Reference: https://raw.githubusercontent.com/wowchemy/starter-hugo-academic/master/content/authors/admin/_index.md  -->
