@@ -56,7 +56,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 ### 2. Words and the vector space model
 
-* \[04/10/22\] [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_02/02_nlp_handout.pdf) 
+* \[04/10/22\] [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_01/02_nlp_handout.pdf) 
 <!-- 
 * \[03/10/22\] [Notebook on tokens and normalisation](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_02/02_dit_nlp_words.ipynb)
 * \[06/10/22\] [Slides on VSM + RB sentiment](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_02/03_nlp_handout.pdf) 
