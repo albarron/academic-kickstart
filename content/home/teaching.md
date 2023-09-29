@@ -63,9 +63,26 @@ subtitle = "Università di Bologna"
  css_class = ""
 +++
 
-### 2022-2023
+### 2023-2024
+
+## Masters in Translation and Technology
 91258 - [Natural Language Processing]({{< ref "teaching/natural-language-processing/_index.md">}}) - 5 cfu <br />
+99813 - [Advanced Research Skills Lab]() - 3 cfu<br />
+B3520 - [Profession-based Research](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/497626) - 8 cfu
+
+## Masters in Specialised Translation
 B0385 - [Natural Language Processing]({{< ref "teaching/natural-language-processing/_index.md">}}) - 6 cfu <br />
+99797 - [Advanced Professional Skills Lab]() - 3 cfu<br />
+
+
+## Bachelors in Languages and Technologies for Intercultural Communication 
+B2696 - Language, Technology, Research I: Computational Thinking - 6 cfu<br />
+
+
+### 2022-2023
+91258 - [Natural Language Processing]({{< ref "teaching/natural-language-processing2022/_index.md">}}) - 5 cfu <br />
+B0385 - [Natural Language Processing]({{< ref "teaching/natural-language-processing2022/_index.md">}}) - 6 cfu <br />
+96829 - [Profession-based Research](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/470074) - 8 cfu<br />
 96949 - Advanced Skills CL2<!--[]({{< ref "teaching/advanced-skills/_index.md">}})--> - 3 cfu <br />
 33409 - [Into Language Technologies]({{< ref "teaching/triennale2022/_index.md">}})<br />
 [PhD Python Gentle Introduction]({{< ref "teaching/phd-python/_index.md">}})

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student
+role: --
 
 # Organizations/Affiliations
 organizations:
@@ -28,6 +28,9 @@ interests:
 
 education:
   courses:
+  - course: PhD
+    institution: Università di Bologna / Eurac Research, Italy
+    year: 2023 (completed only the first year)
   - course: MA in Specialized Translation (EN,DE)
     institution: Università di Bologna, Italy
     year: 2022
@@ -68,8 +71,10 @@ email: "francesco.fernicola2 [at] unibo.it"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Alumni
 ---
+
+Francesco is currently working as a Computational Linguist at the European Parliament.
 
 **Masters dissertation**<br/>
 Fernicola, Francesco (2022) [Return to the Source: Assessing Machine Translation Suitability

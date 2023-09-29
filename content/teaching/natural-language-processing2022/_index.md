@@ -13,7 +13,7 @@ header:
   image: ""
 ---
 
-**Academic Year 2023/2024**
+**Academic Year 2022/2023**
 
 Visit the [UniBO website of the lecture](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/470093) for 
 official and administrative details.
@@ -48,7 +48,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 <!---
 * [Lecture Notes](https://github.com/albarron/academic-kickstart/blob/master/files/week_01/coli_2020_notes.pdf)
 -->
-<!-- 
+
 ### 1. Introduction to Natural Language Processing
 * \[29/09/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_01/01_nlp_handout.pdf)
 
@@ -81,7 +81,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[25/10/22\] [Slides on training and evaluation](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_05/08_nlp_handout.pdf)
 * \[25/10/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_05/08_dit_nlp_traineval.ipynb)
  
- ### Intermezzo 
+<!-- ### Intermezzo -->
 
 ### 7. Intro to NN
 * \[27/10/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_05/09_nlp_handout.pdf) on the perceptron
@@ -99,7 +99,6 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[15/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_08/13_nlp_handout.pdf)
 * \[15/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_08/13_dit_nlp_d2v.ipynb)
 * \[15/11/22\] [Project reminder](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_08/13_nlp_projects.pdf)
--->
 
 <!-- ### 10. Visualisation
   I have decided not to offer this lecture anymore
@@ -107,7 +106,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[13/04/22\] Notebook
  -->
 
-<!--
+
 ### 10. Convolutions for  text
 * \[17/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_08/14_nlp_handout.pdf)
 * \[17/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_08/14_dit_nlp_cnn.ipynb)
@@ -132,7 +131,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 ### 13. Intro to Seq2Seq and Transformers ; Closing Remaks
 * \[20/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_12/19_nlp_handout.pdf) for part one
 * \[22/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_12/20_nlp_handout.pdf) for part two
- -->
+
 <!-- ### 14. Closing Remarks -->
 
 <!-- * \[22/12/22\] -->
@@ -399,7 +398,6 @@ author gender in Reddit posts**<br />
 
 You can visit previous editions of the course:
 
-2022-2023 - [Natural Language Processing]({{< ref "teaching/natural-language-processing2022/_index.md">}}) - 6 cfu <br />
 2021-2022 - [Computational Linguistics]({{< ref "teaching/computational-linguistics2021/_index.md">}}) - 6 cfu <br />
 2020-2021 - [Computational Linguistics]({{< ref "teaching/computational-linguistics2021/_index.md">}}) - 6 cfu <br />
 2019-2020 - [Computational Linguistics]({{< ref "teaching/computational-linguistics2020/_index.md">}}) - 6 cfu <br />
