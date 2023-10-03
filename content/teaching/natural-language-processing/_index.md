@@ -55,12 +55,13 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 
 ### 2. Words and the vector space model
+
+* \[04/10/22\] [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_01/02_nlp_handout.pdf) 
 <!-- 
-* \[03/10/22\] [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_02/02_nlp_handout.pdf) 
-* \[03/10/22\] [Notebook on tokens and normalisation](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_02/02_dit_nlp_words.ipynb)
-* \[06/10/22\] [Slides on VSM + RB sentiment](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_02/03_nlp_handout.pdf) 
-* \[06/10/22\]  [Notebook on VSM](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_02/03_dit_nlp_tokens.ipynb)
-* \[06/10/22\] [Notebook on RB sentiment](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_02/03_dit_nlp_rulebasedsentiment.ipynb)
+* \[03/10/22\] [Notebook on tokens and normalisation](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_02/02_dit_nlp_words.ipynb)
+* \[06/10/22\] [Slides on VSM + RB sentiment](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_02/03_nlp_handout.pdf) 
+* \[06/10/22\]  [Notebook on VSM](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_02/03_dit_nlp_tokens.ipynb)
+* \[06/10/22\] [Notebook on RB sentiment](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_02/03_dit_nlp_rulebasedsentiment.ipynb)
  -->
 
 ---
@@ -68,47 +69,47 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 ---
 ### 3. Naïve Bayes
-<!-- * \[11/10/22\] [Slides on Naïve Bayes](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_03/04_nlp_handout.pdf)
-* \[11/10/22\] [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_03/04_dit_nlp_naivebayes.ipynb)
+<!-- * \[11/10/22\] [Slides on Naïve Bayes](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_03/04_nlp_handout.pdf)
+* \[11/10/22\] [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_03/04_dit_nlp_naivebayes.ipynb)
  -->
 
 ### 4. Word vectors
-<!-- * \[13/10/22\] [Slides on tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_03/05_nlp_handout.pdf)
-* \[13/10/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_03/05_dit_nlp_tf-idf.ipynb)
+<!-- * \[13/10/22\] [Slides on tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_03/05_nlp_handout.pdf)
+* \[13/10/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_03/05_dit_nlp_tf-idf.ipynb)
  -->
 
 ### 5. From Word Counts to Meaning
-<!-- * \[18/10/22\] [Slides introducing topic modeling](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_04/06_nlp_handout.pdf)
-* \[18/10/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_04/06_dit_nlp_topicmodeling.ipynb) 
-* \[20/11/22\] [Slides introducing LSA and SVD](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_04/07_nlp_handout.pdf)
-* \[20/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_04/07_dit_nlp_lsa.ipynb)
+<!-- * \[18/10/22\] [Slides introducing topic modeling](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_04/06_nlp_handout.pdf)
+* \[18/10/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_04/06_dit_nlp_topicmodeling.ipynb) 
+* \[20/11/22\] [Slides introducing LSA and SVD](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_04/07_nlp_handout.pdf)
+* \[20/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_04/07_dit_nlp_lsa.ipynb)
  -->
 
 ### 6. Training and Evaluation
-<!-- * \[25/10/22\] [Slides on training and evaluation](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_05/08_nlp_handout.pdf)
-* \[25/10/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_05/08_dit_nlp_traineval.ipynb)
+<!-- * \[25/10/22\] [Slides on training and evaluation](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_05/08_nlp_handout.pdf)
+* \[25/10/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_05/08_dit_nlp_traineval.ipynb)
  --> 
 
  <!-- ### Intermezzo  -->
 
 ### 7. Intro to NN
-<!-- * \[27/10/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_05/09_nlp_handout.pdf) on the perceptron
-* \[27/10/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_05/09_dit_nlp_nn.ipynb) on the perceptron
-* \[03/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_06/10_nlp_handout.pdf) introducing neural networks and keras
-* \[03/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_06/10_dit_nlp_backprop.ipynb) introducing neural networks and keras
+<!-- * \[27/10/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_05/09_nlp_handout.pdf) on the perceptron
+* \[27/10/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_05/09_dit_nlp_nn.ipynb) on the perceptron
+* \[03/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_06/10_nlp_handout.pdf) introducing neural networks and keras
+* \[03/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_06/10_dit_nlp_backprop.ipynb) introducing neural networks and keras
  -->
 
 ### 8. Word Embeddings
-<!-- * \[08/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_07/11_nlp_handout.pdf) on word2vec
-* \[10/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_07/12_nlp_handout.pdf) on word embeddings
-* \[10/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_07/12_dit_nlp_embeddings.ipynb)
+<!-- * \[08/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_07/11_nlp_handout.pdf) on word2vec
+* \[10/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_07/12_nlp_handout.pdf) on word embeddings
+* \[10/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_07/12_dit_nlp_embeddings.ipynb)
  -->
  
 ### 9. Doc2Vec
 <!--
-* \[15/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_08/13_nlp_handout.pdf)
-* \[15/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_08/13_dit_nlp_d2v.ipynb)
-* \[15/11/22\] [Project reminder](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_08/13_nlp_projects.pdf)
+* \[15/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_08/13_nlp_handout.pdf)
+* \[15/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_08/13_dit_nlp_d2v.ipynb)
+* \[15/11/22\] [Project reminder](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_08/13_nlp_projects.pdf)
 -->
 
 <!-- THIS WAS NOT GIVEN SINCE LAST YEAR
@@ -119,37 +120,37 @@ Whereas the contents could be (slightly) adapted according to the students skill
  -->
 
 ### 10. Convolutions for  text
-<!-- * \[17/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_08/14_nlp_handout.pdf)
-* \[17/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_08/14_dit_nlp_cnn.ipynb)
+<!-- * \[17/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_08/14_nlp_handout.pdf)
+* \[17/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_08/14_dit_nlp_cnn.ipynb)
 * \[22/11/22\] Lesson cancelled
 * \[24/11/22\] Lesson cancelled
 * \[29/11/22\] CNN
  -->
 
 ### 11. Text is Sequential / LSTM
-<!-- * \[01/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_09/16_nlp_handout.pdf) on RNN
-* \[01/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_09/16_dit_nlp_rnn.ipynb) on  RNN
-* \[06/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_10/17_nlp_handout.pdf) on BiRNN and LSTM
-* \[06/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_10/17_dit_nlp_brnn.ipynb) on BiRNN 
-* \[06/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_10/17_dit_nlp_lstm.ipynb) on LSTM
+<!-- * \[01/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_09/16_nlp_handout.pdf) on RNN
+* \[01/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_09/16_dit_nlp_rnn.ipynb) on  RNN
+* \[06/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_10/17_nlp_handout.pdf) on BiRNN and LSTM
+* \[06/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_10/17_dit_nlp_brnn.ipynb) on BiRNN 
+* \[06/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_10/17_dit_nlp_lstm.ipynb) on LSTM
  -->
  
 ### 12. Text generation
-<!-- * \[15/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_11/18_nlp_handout.pdf) on characters and generation
-* \[15/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_11/18_dit_nlp_chars.ipynb) on characters
-* \[15/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp22/week_11/18_dit_nlp_lstm-gen.ipynb) on generation
+<!-- * \[15/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_11/18_nlp_handout.pdf) on characters and generation
+* \[15/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_11/18_dit_nlp_chars.ipynb) on characters
+* \[15/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_11/18_dit_nlp_lstm-gen.ipynb) on generation
  -->
 
 ### 13. Intro to Seq2Seq and Transformers ; Closing Remaks
 <!--
-* \[20/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_12/19_nlp_handout.pdf) for part one
-* \[22/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_12/20_nlp_handout.pdf) for part two
+* \[20/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_12/19_nlp_handout.pdf) for part one
+* \[22/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_12/20_nlp_handout.pdf) for part two
  -->
 <!-- ### 14. Closing Remarks -->
 
 <!-- * \[22/12/22\] -->
 <!---
-* \[11/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp22/week_10/20_dit_nlp_handout.pdf)
+* \[11/05/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_10/20_dit_nlp_handout.pdf)
 -->
 
 <!-- 
