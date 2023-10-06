@@ -60,12 +60,8 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[03/10/22\] [Notebook on tokens and normalisation](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_01/02_dit_nlp_words.ipynb)
 
 * \[09/10/23\] [Slides on VSM + RB sentiment](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_02/03_nlp_handout.pdf) 
-<!--
-* \[06/10/22\]  [Notebook on 
-VSM](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/
-week_02/03_dit_nlp_tokens.ipynb)
-* \[06/10/22\] [Notebook on RB sentiment](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_02/03_dit_nlp_rulebasedsentiment.ipynb)
- -->
+* \[09/10/23\] [Notebook on VSM](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_02/03_dit_nlp_tokens.ipynb)
+* \[09/10/23\] [Notebook on RB sentiment](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_02/03_dit_nlp_rulebasedsentiment.ipynb)
 
 ### 3. Naïve Bayes
 * \[10/10/23\] [Slides on Naïve Bayes](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_02/04_nlp_handout.pdf)
