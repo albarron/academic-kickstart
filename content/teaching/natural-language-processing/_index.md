@@ -60,14 +60,14 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[03/10/22\] [Notebook on tokens and normalisation](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_01/02_dit_nlp_words.ipynb)
 * \[09/10/23\] [Slides on VSM](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_02/03_nlp_handout.pdf) 
 * \[09/10/23\] [Notebook on VSM](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_02/03_dit_nlp_tokens.ipynb)
-* \[09/10/23\] [Slides on RB sentiment (+ naive bayes)](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_02/03_nlp_handout.pdf) 
-* \[10/10/23\] [Notebook on RB sentiment](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_02/03_dit_nlp_rulebasedsentiment.ipynb)
+* \[10/10/23\] [Slides on RB sentiment (+ naive bayes)](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_02/04_nlp_handout.pdf) 
+* \[10/10/23\] [Notebook on RB sentiment](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_02/04_dit_nlp_rulebasedsentiment.ipynb)
+
 
 ### 3. Naïve Bayes
 * \[10/10/23\] [Slides on Naïve Bayes](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_02/04_nlp_handout.pdf)
-<!-- 
-* \[11/10/22\] [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_03/04_dit_nlp_naivebayes.ipynb)
- -->
+* \[10/10/22\] [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_03/04_dit_nlp_naivebayes.ipynb)
+
 
 ### 4. Word vectors
 <!-- * \[13/10/22\] [Slides on tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_03/05_nlp_handout.pdf)
