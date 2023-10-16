@@ -66,7 +66,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 ### 3. Naïve Bayes
 * \[10/10/23\] [Slides on Naïve Bayes](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_02/04_nlp_handout.pdf)
-* \[16/10/23\] [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_03/04_dit_nlp_naivebayes.ipynb)
+* \[16/10/23\] [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_02/04_dit_nlp_naivebayes.ipynb)
 
 
 ### 4. Word vectors
