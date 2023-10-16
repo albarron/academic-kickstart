@@ -56,8 +56,8 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 ### 2. Words and the vector space model
 
-* \[03/10/22\] [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_01/02_nlp_handout.pdf) 
-* \[03/10/22\] [Notebook on tokens and normalisation](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_01/02_dit_nlp_words.ipynb)
+* \[03/10/23\] [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_01/02_nlp_handout.pdf) 
+* \[03/10/23\] [Notebook on tokens and normalisation](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_01/02_dit_nlp_words.ipynb)
 * \[09/10/23\] [Slides on VSM](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_02/03_nlp_handout.pdf) 
 * \[09/10/23\] [Notebook on VSM](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_02/03_dit_nlp_tokens.ipynb)
 * \[10/10/23\] [Slides on RB sentiment (+ naive bayes)](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_02/04_nlp_handout.pdf) 
@@ -66,20 +66,19 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 ### 3. Naïve Bayes
 * \[10/10/23\] [Slides on Naïve Bayes](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_02/04_nlp_handout.pdf)
-* \[16/10/22\] [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_03/04_dit_nlp_naivebayes.ipynb)
+* \[16/10/23\] [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_03/04_dit_nlp_naivebayes.ipynb)
 
 
 ### 4. Word vectors
-* \[16/10/22\] [Slides on tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_03/05_nlp_handout.pdf)
-<!--* \[13/10/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_03/05_dit_nlp_tf-idf.ipynb)
- -->
+* \[16/10/23\] [Slides on tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_03/05_nlp_handout.pdf)
+* \[16/10/23\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_03/05_dit_nlp_tf-idf.ipynb)
  
 
 ### 5. From Word Counts to Meaning
 * \[17/10/23\] [Slides introducing topic modeling](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_03/06_nlp_handout.pdf)
-<!-- * \[18/10/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_04/06_dit_nlp_topicmodeling.ipynb) 
-* \[20/11/22\] [Slides introducing LSA and SVD](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_04/07_nlp_handout.pdf)
-* \[20/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_04/07_dit_nlp_lsa.ipynb)
+<!-- * \[18/10/23\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_04/06_dit_nlp_topicmodeling.ipynb) 
+* \[20/11/23\] [Slides introducing LSA and SVD](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_04/07_nlp_handout.pdf)
+* \[20/11/23\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_04/07_dit_nlp_lsa.ipynb)
  -->
 
 ---
@@ -88,8 +87,8 @@ Whereas the contents could be (slightly) adapted according to the students skill
 ---
 
 ### 6. Training and Evaluation
-<!-- * \[25/10/22\] [Slides on training and evaluation](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_05/08_nlp_handout.pdf)
-* \[25/10/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_05/08_dit_nlp_traineval.ipynb)
+<!-- * \[25/10/23\] [Slides on training and evaluation](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_05/08_nlp_handout.pdf)
+* \[25/10/23\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_05/08_dit_nlp_traineval.ipynb)
  --> 
 
  <!-- ### Intermezzo  -->
