@@ -82,7 +82,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 ### 6. Training and Evaluation
 * \[30/10/23\] [Slides on training and evaluation](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_05/09_dit_nlp_handout.pdf)
-* \[25/10/23\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_05/09_dit_nlp_traineval.ipynb)
+* \[30/10/23\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_05/09_dit_nlp_traineval.ipynb)
 
 
  <!-- ### Intermezzo  -->
@@ -92,9 +92,9 @@ Whereas the contents could be (slightly) adapted according to the students skill
 ---
 
 ### 7. Intro to NN
-<!-- * \[27/10/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_05/09_nlp_handout.pdf) on the perceptron
-* \[27/10/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_05/09_dit_nlp_nn.ipynb) on the perceptron
-* \[03/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_06/10_nlp_handout.pdf) introducing neural networks and keras
+* \[31/10/23\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_05/10_dit_nlp_handout.pdf) on the perceptron
+* \[31/10/23\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_05/10_dit_nlp_nn.ipynb) on the perceptron
+<!-- * \[03/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_06/10_nlp_handout.pdf) introducing neural networks and keras
 * \[03/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_06/10_dit_nlp_backprop.ipynb) introducing neural networks and keras
  -->
 
