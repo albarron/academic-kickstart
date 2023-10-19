@@ -81,7 +81,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[24/10/23\] [Notebook on LSA](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_04/08_dit_nlp_lsa.ipynb)
 
 ### 6. Training and Evaluation
-* \[30/10/23\] [Slides on training and evaluation](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_05/09_nlp_handout.pdf)
+* \[30/10/23\] [Slides on training and evaluation](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_05/09_dit_nlp_handout.pdf)
 * \[25/10/23\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_05/09_dit_nlp_traineval.ipynb)
 
 
