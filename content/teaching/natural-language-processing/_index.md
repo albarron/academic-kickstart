@@ -90,7 +90,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 ### 7. Intro to NN
 * \[31/10/23\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_05/10_dit_nlp_handout.pdf) on the perceptron
 * \[31/10/23\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_05/10_dit_nlp_nn.ipynb) on the perceptron
-* \[06/11/23\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_06/11_nlp_handout.pdf) introducing neural networks and keras
+* \[06/11/23\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_06/11_dit_nlp_handout.pdf) introducing neural networks and keras
 * \[06/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_06/11_dit_nlp_backprop.ipynb) introducing neural networks and keras
 
 
@@ -100,14 +100,14 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 
 ### 8. Word Embeddings
-<!-- * \[08/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_07/11_nlp_handout.pdf) on word2vec
-* \[10/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_07/12_nlp_handout.pdf) on word embeddings
+<!-- * \[08/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_07/11_dit_nlp_handout.pdf) on word2vec
+* \[10/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_07/12_dit_nlp_handout.pdf) on word embeddings
 * \[10/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_07/12_dit_nlp_embeddings.ipynb)
  -->
  
 ### 9. Doc2Vec
 <!--
-* \[15/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_08/13_nlp_handout.pdf)
+* \[15/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_08/13_dit_nlp_handout.pdf)
 * \[15/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_08/13_dit_nlp_d2v.ipynb)
 * \[15/11/22\] [Project reminder](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_08/13_nlp_projects.pdf)
 -->
@@ -120,7 +120,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
  -->
 
 ### 10. Convolutions for  text
-<!-- * \[17/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_08/14_nlp_handout.pdf)
+<!-- * \[17/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_08/14_dit_nlp_handout.pdf)
 * \[17/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_08/14_dit_nlp_cnn.ipynb)
 * \[22/11/22\] Lesson cancelled
 * \[24/11/22\] Lesson cancelled
@@ -128,23 +128,23 @@ Whereas the contents could be (slightly) adapted according to the students skill
  -->
 
 ### 11. Text is Sequential / LSTM
-<!-- * \[01/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_09/16_nlp_handout.pdf) on RNN
+<!-- * \[01/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_09/16_dit_nlp_handout.pdf) on RNN
 * \[01/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_09/16_dit_nlp_rnn.ipynb) on  RNN
-* \[06/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_10/17_nlp_handout.pdf) on BiRNN and LSTM
+* \[06/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_10/17_dit_nlp_handout.pdf) on BiRNN and LSTM
 * \[06/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_10/17_dit_nlp_brnn.ipynb) on BiRNN 
 * \[06/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_10/17_dit_nlp_lstm.ipynb) on LSTM
  -->
  
 ### 12. Text generation
-<!-- * \[15/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_11/18_nlp_handout.pdf) on characters and generation
+<!-- * \[15/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_11/18_dit_nlp_handout.pdf) on characters and generation
 * \[15/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_11/18_dit_nlp_chars.ipynb) on characters
 * \[15/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_11/18_dit_nlp_lstm-gen.ipynb) on generation
  -->
 
 ### 13. Intro to Seq2Seq and Transformers ; Closing Remaks
 <!--
-* \[20/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_12/19_nlp_handout.pdf) for part one
-* \[22/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_12/20_nlp_handout.pdf) for part two
+* \[20/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_12/19_dit_nlp_handout.pdf) for part one
+* \[22/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_12/20_dit_nlp_handout.pdf) for part two
  -->
 <!-- ### 14. Closing Remarks -->
 
