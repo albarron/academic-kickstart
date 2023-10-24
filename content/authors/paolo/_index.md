@@ -67,6 +67,6 @@ user_groups:
 ---
 
 **Masters dissertation**<br/>
-Identification and Forecasting of Hate Speech in Inceldom
-
-
+Gajo, Paolo  (2023) [This Is My Cope: Identification and Forecasting of Hate 
+Speech in Inceldom](https://amslaurea.unibo.it/28997/). 
+Università di Bologna, Corso di Studio in Specialized translation - Forli' 
