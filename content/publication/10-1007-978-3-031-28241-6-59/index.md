@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-10-26T14:51:47.474301Z'
+publishDate: '2023-10-26T14:58:02.713738Z'
 publication_types:
 - '1'
 abstract: 'The five editions of the CheckThat! lab so far have focused on the main
@@ -54,4 +54,5 @@ abstract: 'The five editions of the CheckThat! lab so far have focused on the ma
   the level of factuality of a document or a news outlet; and Task 5 is about identifying
   authorities that should be trusted to verify a contended claim.'
 publication: '*Advances in Information Retrieval*'
+doi: https://doi.org/10.1007/978-3-031-28241-6_59
 ---
