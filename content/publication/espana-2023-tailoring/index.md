@@ -10,9 +10,9 @@ authors:
 - Lluís Màrquez
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2022-01-31T16:38:19+01:00
-featured: false
+date: '2023-01-01'
+lastmod: 2023-10-26T10:39:07+02:00
+featured: true
 draft: false
 
 # Featured image
@@ -29,9 +29,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-31T15:57:48.884490Z'
+publishDate: '2023-10-26T08:39:06.021643Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*arXiv preprint arXiv:2005.01177*'
+publication: '*Knowl Inf Syst*'
+doi: https://doi.org/10.1007/s10115-022-01767-5
 ---
