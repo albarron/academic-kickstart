@@ -62,5 +62,5 @@ user_groups:
 ---
 
 **Masters dissertation**<br/>
-Decoding Medical Dramas: Identifying Isotopies through Multimodal Classification
+[Decoding Medical Dramas: Identifying Isotopies through Multimodal Classification](https://amslaurea.unibo.it/29006/)
 
