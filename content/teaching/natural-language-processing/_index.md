@@ -194,18 +194,35 @@ The [evaluation](#evaluation) is based on a project. Look for inspiration, in th
 ### Some project ideas
 
 
-Whereas you are supposed to apply the acquired knowledge on a problem of your own interest, here are some ideas, in case you find yourself lost
+Whereas you are supposed to apply the acquired knowledge on a problem of your 
+own interest, here are some ideas, in case you find yourself lost (consider 
+them as sketches for you to elaborate further).
 
-<!---
-* Performing a small research project taking advantage of the COVID-19 corpus (see Beyond the course)
---> 
+\[if you had seen a project proposal which is not here anymore, it means that 
+the proposal belongs to a previous edition of the lesson and it has been 
+(partially) addressed already. You can visit previous editions of the lesson's 
+website for reference.\]
+
+#### Gastronomy 
+
+
+1. **What do restaurants in Romagna serve?**
+
+    We have a dataset of menus from 200+ restaurants, for a total of 7000+ 
+    entries. We would like to obtain a cluster of dishes and main ingredients 
+    (e.g. 'cappelletti' vs. 'lasagne', regardless of what else is in the dish), 
+    with frequencies of each item and possibly being able to navigate / list 
+    all the variations. The concept of "ingredient" requires extracting and 
+    normalizing words (e.g. lasagna = { lasagna, lasagne, lasagnetta } ).
+
+    After this step, a language model should be built to perform 
+    auto-completion. Given the dataset of menus to build a language model and a 
+    demo command line app to use it to predict or suggest the next word(s).
 
 #### Hate Speech
 
-1. **Sarcasm identification in implicit misogyny**
 
-    This project consists of four main tasks. (a) Train a model for implicit hate speech identification using the the [corpus from ElSherief et al.](https://github.com/gt-salt/implicit-hate) (b) Train a model on sarcasm/humour using (for instance) this [kaggle dataset](https://www.kaggle.com/competitions/humor-detection/data). (c) Apply both resulting models to the [AMI 2018 dataset](https://amievalita2018.wordpress.com/)  (d) Analyse whether the AMI dataset contains cases of both implicit misogyny and/or sarcasm/humour.
-2. **Dataset detective: where does this instance come from?**
+1. **Dataset detective: where does this instance come from?**
 
     In this project, you will train a model to try to identify the dataset an instance comes from rather than the actual task it is intended to. 
     (a) Train and evaluate  one-vs-the-rest models for each of the four datasets.
@@ -216,79 +233,60 @@ Whereas you are supposed to apply the acquired knowledge on a problem of your ow
     
 #### Do not translate
 
-1. **Identifying translated fragments in Wikipedia and press**
+1. **Identifying translated fragments in Wikipedia and the press**
 
-    Given a pair of Wikipedia or news paper articles, spot does text fragments that they have in common, becuase one is a translation from the other or because they come from a common source.
+    Given a pair of Wikipedia or news paper articles, spot those text fragments 
+    that they have in common, becuase one is a translation from the other or 
+    because they come from a common source.
     
 2. **Identifying translations by non-native speakers**
 
-    Given a text that has been presumably translated, identify whether the person that carried out the work is a native speaker of the target language.
+    Given a text that has been presumably translated, identify whether the 
+    person that carried out the work is a native speaker of the target language.
 
 3. **Identifying the L2 level for a text**
 
     Create a model to score the complexity/readability/comprehensibility for a student at a given L2 level. The scores are A1, A2, B1, B2, C1 and C2. This is an ordinal regression task.
 
-4. **Spot definitions within Wikipedia articles in multiple languages**
-
-    Given a Wikipedia article, spot the sentence with a definitional context. Do this in Wikipedia articles about the same topic in multiple languages.
-
-#### Anaysis of TV series (with DAR)
-
-The main object of study is medical TV dramas; in particular [Grey's Anatomy](https://en.wikipedia.org/wiki/Grey%27s_Anatomy). 
-
-Available resources: we have a manual segmentation of the audiovisual text segment=portion of video characterised by the spatio-temporal-action continuity); codifications of each segment with the kind of narrative (SP=sentimental plot, PP=professional plot, MC=medical case plot).
-
-1. **Narrative identification**
-
-    Identify the narrative line of short and long summaries from [Grey's anatomy fandom site](https://greysanatomy.fandom.com/wiki/A_Hard_Day%27s_Night) to identify the evolution of the different storylines 
-    of the diverse stories.
 
 #### Shared Tasks
 
-**SemEval 2023** 
+**SemEval 2024** 
 
-This year there are 12 tasks at [SemEval](https://semeval.github.io/SemEval2023/tasks). I recommend to have a look at:
+This year there are 12 tasks at 
+[SemEval](https://semeval.github.io/SemEval2024/tasks). I recommend to have a 
+look at:
 
-1. [Task 2](https://multiconer.github.io/) MultiCoNER II. Multilingual Complex Named Entity Recognition
+1. [Task 8](https://github.com/mbzuai-nlp/SemEval2024-task8) Multigenerator, 
+Multidomain, and Multilingual Black-Box Machine-Generated Text Detection
 
-    Identify medical terms, locations, creative works, groups, persons and products in multiple languages (incl. Italian, Frencj, Spanish, German, and English)
+    It offers tasks on the identification of machine-generated text with 
+    different levels of complexity
 
+2. [Task 10](https://lcs2.in/SemEval2024-EDiReF/) Task 10: Emotion Discovery 
+and Reasoning its Flip in Conversation (EDiReF)
 
-2. [Task 3](https://propaganda.math.unipd.it/semeval2023task3/) Detecting the Genre, the Framing, and the Persuasion Techniques in Online News in a Multi-lingual Setup
+    It offers two tasks on identifying the emotion of a utterence and of 
+    different utterences within a dialogue
 
-     Determine whether a news article is an opinion piece, aims at objective news reporting, or is a satire piece (there are two other tasks). The task runs in English, French, German, Italian, Polish and Russian).
-     
-3. [Task 4](https://touche.webis.de/semeval23/touche23-web/index.html) Human Value Detection
+**CLEF 2024**
 
-    Given a textual argument and a human value category (e.g., humility, concern), classify whether or not the argument draws on that category
+[CLEF](http://clef2024.clef-initiative.eu) focuses on information retrieval and 
+access in multilingual and multimodal settinds. Consider:
+
+1. [CheckThat!](https://checkthat.gitlab.io/clef2024/) lab on Checkworthiness, 
+Subjectivity, Persuasion, Roles, Authorities and Adversarial Robustness 
+
+    It offers tasks on identifying the checkworthiness of a text (+image) item, 
+    the level of subjectivity of a sentence (incl. Italian), and the use of 
+    persuasion in text, among others.
     
-4. [Task 10](https://codalab.lisn.upsaclay.fr/competitions/7124) Explainable Detection of Online Sexism
+2. [Exist]() lab on sEXism Identification in Social neTworks
 
-    
-    A. Predict whether a post is sexist or not sexist.
-    B. Identify if a sexist post is (1) threat, (2)  derogation, (3) animosity, (4) prejudiced discussion. 
-    (there is a third task).
+    Decide whether a tweet is sexist (or describes a sexist behaviour), the 
+    intention of the tweet and the type of sexism.
 
-**CLEF 2023**
-
-[CLEF](http://clef2023.clef-initiative.eu) focuses on information retrieval and access in multilingual and multimodal settinds. Consider:
-
-1. [CheckThat!](http://checkthat.gitlab.io/) lab on Check-Worthiness, Subjectivity, Political Bias, Factuality, and Authority of News Articles and their Sources
-
-    It offers tasks on identifying the checkworthiness of a text (+image) item, the level of subjectivity of a news article (incl. Italian), the political bias of a news article, etc.
-    
-2. [eRisk](https://erisk.irlab.org/)  lab on Early Risk Prediction on the Internet
-
-    The challenge consists of ranking sentences from a collection of user writings according to their relevance to one of 21 depression symptoms. It includes a task on pathological gambling and eatig disorders as well).
-    
-3. [EXIST](http://nlp.uned.es/exist2023/) lab on sEXism Identification in Social neTworks
-
-    Decide whether a tweet is sexist (or describes a sexist behaviour), the intention of the tweet and the type of sexism.
-    
-4. [JOKER](https://www.joker-project.com/) lab on Automatic Wordplay Analysis
-    
-    Detect puns; interpret puns and translate puns (all three tasks are offered in English, French and Spanish).
-
+(the tasks are still in the shaping stage)
     
 
 #### _Standard_ research
