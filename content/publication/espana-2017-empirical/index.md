@@ -35,5 +35,10 @@ publishDate: '2022-01-31T16:00:06.438447Z'
 publication_types:
 - '2'
 abstract: ''
+doi: 10.1109/JSTSP.2017.2764273
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/document/8070942
+---
 publication: '*IEEE Journal of Selected Topics in Signal Processing*'
 ---
