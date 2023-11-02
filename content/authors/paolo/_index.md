@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master student
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -25,6 +25,7 @@ interests:
 - Subtitling
 - Sociolinguistics
 - Drumming
+
 education:
   courses:
   - course: MA in Specialized Translation (EN, ES)
@@ -63,7 +64,8 @@ email: "paolo.gajo [at] studio.unibo.it"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- PhD Students
+
 ---
 
 **Masters dissertation**<br/>
