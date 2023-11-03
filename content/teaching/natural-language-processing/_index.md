@@ -219,6 +219,13 @@ website for reference.\]
     auto-completion. Given the dataset of menus to build a language model and a 
     demo command line app to use it to predict or suggest the next word(s).
 
+    
+2. **Cooking is hard: predicting the level difficulty of a recipe.**
+
+    Given a recipe, including the ingredients and the process to cook a dish, 
+    determine automatically it difficulty of preparation (and eventually, the 
+    preparation time).
+    
 #### Hate Speech
 
 
