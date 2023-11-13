@@ -104,11 +104,6 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[14/11/23\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_07/14_dit_nlp_d2v.ipynb)
 * \[14/11/23\] [Project reminder](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_04/13_nlp_projects.pdf)
 
----
-**The topics/timing from here are indicative and subject to (continuous) 
-modification**
----
-
 <!-- THIS WAS NOT GIVEN SINCE LAST YEAR
 ### 10. Visualisation
   I have decided not to offer this lecture anymore
@@ -123,6 +118,11 @@ modification**
 * \[24/11/22\] Lesson cancelled
 * \[29/11/22\] CNN
  -->
+
+---
+**The topics/timing from here are indicative and subject to (continuous) 
+modification**
+---
 
 ### 11. Text is Sequential / LSTM
 <!-- * \[01/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_09/16_dit_nlp_handout.pdf) on RNN
@@ -240,7 +240,7 @@ website for reference.\]
 1. **Identifying translated fragments in Wikipedia and the press**
 
     Given a pair of Wikipedia or news paper articles, spot those text fragments 
-    that they have in common, becuase one is a translation from the other or 
+    that they have in common, because one is a translation from the other or 
     because they come from a common source.
     
 2. **Identifying translations by non-native speakers**
@@ -267,7 +267,7 @@ Multidomain, and Multilingual Black-Box Machine-Generated Text Detection
     It offers tasks on the identification of machine-generated text with 
     different levels of complexity
 
-2. [Task 10](https://lcs2.in/SemEval2024-EDiReF/) Task 10: Emotion Discovery 
+2. [Task 10](https://lcs2.in/SemEval2024-EDiReF/): Emotion Discovery 
 and Reasoning its Flip in Conversation (EDiReF)
 
     It offers two tasks on identifying the emotion of a utterence and of 
