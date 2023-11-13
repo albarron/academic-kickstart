@@ -95,11 +95,9 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 ### 8. Word Embeddings
 * \[07/11/23\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_06/12_dit_nlp_handout.pdf) on word2vec
-<!--* \[13/11/23\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_07/13_dit_nlp_handout.pdf) hands on word embeddings
+* \[13/11/23\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_07/13_dit_nlp_handout.pdf) hands on word embeddings
 * \[13/11/23\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_07/13_dit_nlp_embeddings.ipynb)
- -->
- 
- 
+  
 ---
 **The topics/timing from here are indicative and subject to (continuous) 
 modification**
