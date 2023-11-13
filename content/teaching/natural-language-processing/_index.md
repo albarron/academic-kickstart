@@ -98,16 +98,16 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[13/11/23\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_07/13_dit_nlp_handout.pdf) hands on word embeddings
 * \[13/11/23\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_07/13_dit_nlp_embeddings.ipynb)
   
+
+### 9. Doc2Vec
+* \[14/11/23\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_07/14_dit_nlp_handout.pdf)
+* \[14/11/23\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_07/14_dit_nlp_d2v.ipynb)
+* \[14/11/23\] [Project reminder](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_04/13_nlp_projects.pdf)
+
 ---
 **The topics/timing from here are indicative and subject to (continuous) 
 modification**
 ---
-### 9. Doc2Vec
-<!--
-* \[14/11/23\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_08/14_dit_nlp_handout.pdf)
-* \[14/11/23\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_08/14_dit_nlp_d2v.ipynb)
-* \[14/11/23\] [Project reminder](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_04/13_nlp_projects.pdf)
--->
 
 <!-- THIS WAS NOT GIVEN SINCE LAST YEAR
 ### 10. Visualisation
