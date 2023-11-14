@@ -102,7 +102,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 ### 9. Doc2Vec
 * \[14/11/23\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_07/14_dit_nlp_handout.pdf)
 * \[14/11/23\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_07/14_dit_nlp_d2v.ipynb)
-* \[14/11/23\] [Project reminder](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_07/14_nlp_projects.pdf)
+* \[14/11/23\] [Project reminder](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_07/14_dit_nlp_projects.pdf)
 
 <!-- THIS WAS NOT GIVEN SINCE LAST YEAR
 ### 10. Visualisation
@@ -112,17 +112,9 @@ Whereas the contents could be (slightly) adapted according to the students skill
  -->
 
 ### 10. Convolutions for  text
-<!-- * \[17/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_08/14_dit_nlp_handout.pdf)
-* \[17/11/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_08/14_dit_nlp_cnn.ipynb)
-* \[22/11/22\] Lesson cancelled
-* \[24/11/22\] Lesson cancelled
-* \[29/11/22\] CNN
- -->
+* \[20/11/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_08/15_dit_nlp_handout.pdf)
+* \[20/11/23\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_08/15_dit_nlp_cnn.ipynb)
 
----
-**The topics/timing from here are indicative and subject to (continuous) 
-modification**
----
 
 ### 11. Text is Sequential / LSTM
 <!-- * \[01/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_09/16_dit_nlp_handout.pdf) on RNN
@@ -131,6 +123,12 @@ modification**
 * \[06/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_10/17_dit_nlp_brnn.ipynb) on BiRNN 
 * \[06/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_10/17_dit_nlp_lstm.ipynb) on LSTM
  -->
+
+
+---
+**The topics/timing from here are indicative and subject to (continuous) 
+modification**
+---
  
 ### 12. Text generation
 <!-- * \[15/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_11/18_dit_nlp_handout.pdf) on characters and generation
