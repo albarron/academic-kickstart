@@ -117,8 +117,9 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 
 ### 11. Text is Sequential / LSTM
-<!-- * \[01/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_09/16_dit_nlp_handout.pdf) on RNN
-* \[01/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_09/16_dit_nlp_rnn.ipynb) on  RNN
+* \[21/11/23\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_08/16_dit_nlp_handout.pdf) on RNN
+* \[21/11/23\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_08/16_dit_nlp_rnn.ipynb) on  RNN
+<!--
 * \[06/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_10/17_dit_nlp_handout.pdf) on BiRNN and LSTM
 * \[06/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_10/17_dit_nlp_brnn.ipynb) on BiRNN 
 * \[06/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_10/17_dit_nlp_lstm.ipynb) on LSTM
