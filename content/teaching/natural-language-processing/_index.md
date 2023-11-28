@@ -133,8 +133,9 @@ Whereas the contents could be (slightly) adapted according to the students skill
 modification**
 ----->
 ### 13. Intro to Seq2Seq and Transformers ; Closing Remaks
+
+* \[04/12/23\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_10/19_dit_nlp_handout.pdf) for part one
 <!--
-* \[20/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_10/19_dit_nlp_handout.pdf) for part one
 * \[22/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_10/20_dit_nlp_handout.pdf) for part two
  -->
 <!-- ### 14. Closing Remarks -->
