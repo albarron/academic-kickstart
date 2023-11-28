@@ -119,25 +119,24 @@ Whereas the contents could be (slightly) adapted according to the students skill
 ### 11. Text is Sequential / LSTM
 * \[21/11/23\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_08/16_dit_nlp_handout.pdf) on RNN
 * \[21/11/23\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_08/16_dit_nlp_rnn.ipynb) on  RNN
-
 * \[27/11/23\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_09/17_dit_nlp_handout.pdf) on BiRNN and LSTM
 * \[27/11/23\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_09/17_dit_nlp_brnn.ipynb) on BiRNN 
 * \[27/11/23\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_09/17_dit_nlp_lstm.ipynb) on LSTM
 
 ### 12. Text generation
-<!-- * \[15/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_11/18_dit_nlp_handout.pdf) on characters and generation
-* \[15/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_11/18_dit_nlp_chars.ipynb) on characters
-* \[15/12/22\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_11/18_dit_nlp_lstm-gen.ipynb) on generation
+* \[28/11/23\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_09/18_dit_nlp_handout.pdf) on characters and generation
+* \[28/12/23\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_09/18_dit_nlp_chars.ipynb) on characters
+* \[28/12/23\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_09/18_dit_nlp_lstm-gen.ipynb) on generation
  -->
 
----
+<!-----
 **The topics/timing from here are indicative and subject to (continuous) 
 modification**
----
+----->
 ### 13. Intro to Seq2Seq and Transformers ; Closing Remaks
 <!--
-* \[20/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_12/19_dit_nlp_handout.pdf) for part one
-* \[22/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_12/20_dit_nlp_handout.pdf) for part two
+* \[20/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_10/19_dit_nlp_handout.pdf) for part one
+* \[22/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_10/20_dit_nlp_handout.pdf) for part two
  -->
 <!-- ### 14. Closing Remarks -->
 
