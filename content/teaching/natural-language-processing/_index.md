@@ -121,7 +121,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 * \[21/11/23\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_08/16_dit_nlp_rnn.ipynb) on  RNN
 * \[27/11/23\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_09/17_dit_nlp_handout.pdf) on BiRNN and LSTM
 * \[27/11/23\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_09/17_dit_nlp_brnn.ipynb) on BiRNN 
-* \[27/11/23\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_09/18_dit_nlp_lstm.ipynb) on LSTM
+* \[27/11/23\] [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_09/17_dit_nlp_lstm.ipynb) on LSTM
 
 ### 12. Text generation
 * \[28/11/23\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_09/18_dit_nlp_handout.pdf) on characters and generation
