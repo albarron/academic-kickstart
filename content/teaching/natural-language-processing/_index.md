@@ -132,9 +132,14 @@ Whereas the contents could be (slightly) adapted according to the students skill
 **The topics/timing from here are indicative and subject to (continuous) 
 modification**
 ----->
-### 13. Intro to Seq2Seq and Transformers ; Closing Remaks
+### ~~13. Intro to Seq2Seq and Transformers ; Closing Remaks~~
 
-* \[04/12/23\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_10/19_dit_nlp_handout.pdf) for part one
+~~* \[05/12/23\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_10/19_dit_nlp_handout.pdf) for part one~~
+
+### 13. A brief intro to LLMs
+
+\[11/12/23\] [CLIC-it 2023 tutorial](https://github.com/crux82/CLiC-it_2023_tutorial) (we will pay a visit to the cool materials from D. Croce and C.D. Hromei)
+
 <!--
 * \[22/12/22\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_10/20_dit_nlp_handout.pdf) for part two
  -->
