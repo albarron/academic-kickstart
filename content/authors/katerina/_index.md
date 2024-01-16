@@ -67,4 +67,4 @@ user_groups:
 - PhD Students
 ---
 
-
+Katerina holds a [PON](http://www.ponricerca.gov.it/) (Programma Operativo Nazionale Ricerca e Innovazione) PhD grant 
