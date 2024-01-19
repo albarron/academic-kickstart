@@ -18,7 +18,7 @@ organizations:
   url: "https://www.unibo.it/"
 
 # Short bio (displayed in user profile at end of posts)
-MSc in Computer Science.
+bio: MSc in Computer Science
 
 interests:
 - Quantification of discrimination in LLMs
