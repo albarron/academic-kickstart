@@ -29,16 +29,16 @@ particular for text processing.
 
 ### Session 1
 
-[Module 1: The basics](https://github.com/TinfFoil/learning_dit_python/tree/main/01_the_basics)
+Module 1: The basics
 * \[29/01/24\] [Slides](https://github.com/TinfFoil/dit_learning_python/blob/main/01_the_basics/notes/dit_learning_python_01.pdf)
 * \[29/01/24\] [Notebook](https://github.com/TinfFoil/dit_learning_python/blob/main/01_the_basics/code/DIT_python_notebook_1_static.ipynb)
 
 ### Session 2
 
-[Module 2. Data](https://github.com/TinfFoil/learning_dit_python/tree/main/02_python_data)
-* \[05/01/23\] [Notebook](https://github.com/TinfFoil/learning_dit_python/blob/main/02_python_data/02_PythonData_static.ipynb) on functions and data structures
+Module 2. Data
+* \[05/01/24\] [Notebook](https://github.com/TinfFoil/learning_dit_python/blob/main/02_python_data/02_PythonData_static.ipynb) on functions and data structures
 
-[Module 3. Python for Poets 1](https://github.com/TinfFoil/learning_dit_python/tree/main/03_python_4_poets1)
+Module 3. Python for Poets 1
 * \[05/02/24\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/dottorato23/dit_learning_python_02_notebook.pdf)
 * \[05/02/24\] [Notebook](https://github.com/TinfFoil/learning_dit_python/blob/main/03_python_4_poets1/02_Python4Poets_1stpart_static.ipynb)
 * \[05/02/24\] [Corpus](https://github.com/TinfFoil/learning_dit_python/blob/main/03_python_4_poets1/genesis.txt)
@@ -46,7 +46,7 @@ particular for text processing.
 
 ### Session 3
 
-[Module 3. Python for Poets 2](https://github.com/TinfFoil/learning_dit_python/tree/main/04_python_4_poets2)
+Module 3. Python for Poets 2
 
 * \[12/02/24\] [Notebook](https://github.com/TinfFoil/learning_dit_python/blob/main/04_python_4_poets2/Python4Poets_2ndpart_static.ipynb) 
 
