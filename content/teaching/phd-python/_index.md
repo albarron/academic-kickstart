@@ -39,7 +39,7 @@ Module 2. Data
 * \[05/02/24\] [Notebook](https://github.com/TinfFoil/learning_dit_python/blob/main/02_python_data/02_PythonData_static.ipynb) on functions and data structures
 
 Module 3. Python for Poets 1
-* \[05/02/24\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/dottorato23/dit_learning_python_02_notebook.pdf)
+* \[05/02/24\] [Slides](https://github.com/TinfFoil/dit_learning_python/blob/main/01_the_basics/notes/02_python_4_poets.pdf)
 * \[05/02/24\] [Notebook](https://github.com/TinfFoil/learning_dit_python/blob/main/03_python_4_poets1/02_Python4Poets_1stpart_static.ipynb)
 * \[05/02/24\] [Corpus](https://github.com/TinfFoil/learning_dit_python/blob/main/03_python_4_poets1/genesis.txt)
 
