@@ -26,10 +26,10 @@ interests:
 education:
   courses:
   - course: MSc in Computer Science
-    institution: Alma Mater Studioum - Università di Bologna, Italy
+    institution: Alma Mater Studiorum - Università di Bologna, Italy
     year: 2023
   - course: BSc in Computer Science and Technology
-    institution: Alma Mater Studioum - Università di Bologna, Italy
+    institution: Alma Mater Studiorum - Università di Bologna, Italy
     year: 2021
     
 

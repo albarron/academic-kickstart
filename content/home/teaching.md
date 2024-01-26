@@ -72,11 +72,18 @@ B3520 - [Profession-based Research](https://www.unibo.it/en/teaching/course-unit
 
 ## Masters in Specialised Translation
 B0385 - [Natural Language Processing]({{< ref "teaching/natural-language-processing/_index.md">}}) - 6 cfu <br />
-99797 - [Advanced Professional Skills Lab]() - 3 cfu<br />
+99797 - [Advanced Professional Skills 
+Lab](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/
+489875) - 3 cfu<br />
 
 
 ## Bachelors in Languages and Technologies for Intercultural Communication 
-B2696 - Language, Technology, Research I: Computational Thinking - 6 cfu<br />
+B2696 - [Language, Technology, Research I: Computational 
+Thinking](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/
+2023/493563) - 6 cfu<br />
+
+## PhD in Translation, Interpreting and Intercultural Studies 
+[PhD Python Gentle Introduction]({{< ref "teaching/phd-python/_index.md">}})
 
 
 ### 2022-2023
@@ -85,7 +92,7 @@ B0385 - [Natural Language Processing]({{< ref "teaching/natural-language-process
 96829 - [Profession-based Research](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/470074) - 8 cfu<br />
 96949 - Advanced Skills CL2<!--[]({{< ref "teaching/advanced-skills/_index.md">}})--> - 3 cfu <br />
 33409 - [Into Language Technologies]({{< ref "teaching/triennale2022/_index.md">}})<br />
-[PhD Python Gentle Introduction]({{< ref "teaching/phd-python/_index.md">}})
+[PhD Python Gentle Introduction]({{< ref "teaching/phd-python2023/_index.md">}})
 
 ### 2021-2022
 
