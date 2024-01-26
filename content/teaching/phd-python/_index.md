@@ -36,7 +36,7 @@ Module 1: The basics
 ### Session 2
 
 Module 2. Data
-* \[05/01/24\] [Notebook](https://github.com/TinfFoil/learning_dit_python/blob/main/02_python_data/02_PythonData_static.ipynb) on functions and data structures
+* \[05/02/24\] [Notebook](https://github.com/TinfFoil/learning_dit_python/blob/main/02_python_data/02_PythonData_static.ipynb) on functions and data structures
 
 Module 3. Python for Poets 1
 * \[05/02/24\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/dottorato23/dit_learning_python_02_notebook.pdf)
