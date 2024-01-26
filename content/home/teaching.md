@@ -72,15 +72,11 @@ B3520 - [Profession-based Research](https://www.unibo.it/en/teaching/course-unit
 
 ## Masters in Specialised Translation
 B0385 - [Natural Language Processing]({{< ref "teaching/natural-language-processing/_index.md">}}) - 6 cfu <br />
-99797 - [Advanced Professional Skills 
-Lab](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/
-489875) - 3 cfu<br />
+99797 - [Advanced Professional Skills Lab](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/489875) - 3 cfu<br />
 
 
 ## Bachelors in Languages and Technologies for Intercultural Communication 
-B2696 - [Language, Technology, Research I: Computational 
-Thinking](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/
-2023/493563) - 6 cfu<br />
+B2696 - [Language, Technology, Research I: Computational Thinking](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/493563) - 6 cfu<br />
 
 ## PhD in Translation, Interpreting and Intercultural Studies 
 [PhD Python Gentle Introduction]({{< ref "teaching/phd-python/_index.md">}})
