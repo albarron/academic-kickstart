@@ -63,3 +63,7 @@ email: "arianna.muti2 [at] unibo.it"
 user_groups:
 - PhD Students
 ---
+
+Arianna holds a [RER](http://www.ponricerca.gov.it/) (Alta formazione e 
+ricerca, Regione Emilia-Romagna) PhD grant and a Marco Polo grant for 
+internships abroad.
